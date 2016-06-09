@@ -80,7 +80,7 @@ def add_root_tags(file_title):
     #append "</root>" to end of file
     with open(file_title, "a") as f:
         f.write("</root>")
-    #add "</root>" to beginning of file
+    #add "<root>" to beginning of file
     with open(file_title, "r+") as f:
         old = f.read()
         f.seek(0)
