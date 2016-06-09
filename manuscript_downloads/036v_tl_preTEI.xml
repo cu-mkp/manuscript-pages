@@ -1,4 +1,4 @@
-﻿#ERROR:_Number_of_<id>_and_</id>_unbalanced#
+<root>﻿#ERROR:_Number_of_<id>_and_</id>_unbalanced#
 
 
 #ERROR:_Number_of_<_and_>_unbalanced#
@@ -38,4 +38,4 @@
 
 
 <note><margin>left-middle</margin>The <m>glass</m>, when wet, can be broken again with the flame of a candle, but not as precisely as with hot iron.</note>
-</div>
+</div></root>

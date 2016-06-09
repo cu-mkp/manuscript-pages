@@ -1,1 +1,3 @@
 venv
+.credentials/
+client_secret.json

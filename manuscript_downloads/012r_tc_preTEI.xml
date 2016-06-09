@@ -1,4 +1,4 @@
-﻿<page>012r</page>
+<root>﻿<page>012r</page>
 <image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f29.image</image>
 
 
@@ -13,7 +13,7 @@ layant bien laisse fondre jusques a ce quil soict liquide<lb/>
 co{mm}e <m>huile</m> / y meslant du <m>verdegris</m> tu en gecteras dans<lb/>
 le <m>plastre</m> un <al>lesard</al> ou aultre chose fort nette</ab>
  
-<note>
+<ab>
 <margin>left-top</margin>
 Il ne le fault pas gecter<lb/>
 quil ne soict bien refroidi<lb/>
@@ -45,11 +45,11 @@ les draps est excellente a mouler en creulx ou relief &amp; si<lb/>
 tu la veulx recuire il fault que premierem{ent} elle soict<lb/>
 chaulde &amp; la recuire a feu doulx de loing &amp; peu a peu<lb/>
 aultrem{ent} elle petteroit mects la figure a recuire dans<lb/>
-un pot ou four ou dans un four couvert Elle est fort<lb/>
+un pot au four ou dans un four couvert Elle est fort<lb/>
 doulce nette &amp; belle Tu peulx faire cave danimaulx de <m>chimolee</m><lb/>
-&amp; i gecter du <m>plomb</m></ab><pro>
-</pro> 
-<note>
+&amp; i gecter du <m>plomb</m></ab>
+ 
+<ab>
 <margin>left-middle</margin>
 Il fault que louvraige<lb/>
 soict sec de 4 ou 5<lb/>
@@ -80,15 +80,14 @@ vernis ton ouvrage de <m>vernis blanc</m> Quand tu moules aussi<lb/>
 de <m>papier</m> co{mm}e il se comma{n}ce a seicher brunis par derriere avecq<lb/>
 la dent</ab>
 </div>
-
-
+      
 <div>
 <id>p012r_4</id>
 <head><m>Plastre</m></head>
 
 
 <ab>Celuy de montaigne est plus gris et <del>le</del> celuy dalbigeois<lb/>
-plus blanc Il le fault cuire a feu clos co{mm}e a feu de reverbera{ti}on<lb/>
+plus blanc Il le fault cuire a feu clos co{mm}e a feu de reverbera{ti}on<lb/>  
 ou fours de barbiers Et le plus frais cuict est le meilleur a<lb/>
 mectre en besoigne Il le fault broyer subtillem{ent} sur le <m>mabre</m><lb/>
 Apres avoyr præpare ton cave de <m>soufre</m> ou aultre &amp; lavoir<lb/>
@@ -97,7 +96,7 @@ huile &amp; entourne dun siecle destrempe non trop espes ton <m>plastre</m> en<l
 de la pouldre dudict <m>plastre</m> &amp; <del>[illegible]</del> broye avecq le doigt jusques a ce <figure>+</figure></ab> 
 
 
-<note>
+<ab>
 <margin>left-bottom</margin>
 <figure>+</figure> quil ne fasse plus<lb/>
 de pustulles puys<lb/>
@@ -108,4 +107,4 @@ laisse bien<lb/>
 prendre puys<lb/>
 rascle la<lb/>
 pouldre</note>
-</div>
+</div></root>

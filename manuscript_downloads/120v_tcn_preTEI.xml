@@ -1,4 +1,4 @@
-﻿#ERROR:_Number_of_<note>_and_</note>_unbalanced#
+<root>﻿#ERROR:_Number_of_<note>_and_</note>_unbalanced#
 
 
 #ERROR:_Number_of_<head>_and_</head>_unbalanced#
@@ -154,4 +154,4 @@ tirer tout.</note>
 <margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
 Advise bien de ne coeuillir pas tes fleurs<lb/>
 en temps de pluye et humide, mays lors<lb/>
-que le soleil aura passé dessus.</note>
+que le soleil aura passé dessus.</note></root>
