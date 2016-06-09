@@ -27,6 +27,7 @@ except ImportError:
 SCOPES = 'https://www.googleapis.com/auth/drive.readonly'
 CLIENT_SECRET_FILE = 'client_secret.json'
 APPLICATION_NAME = 'Drive API Python Quickstart'
+REDIRECT_URI = "http://localhost:8080/"
 
 
 def get_credentials():
@@ -44,10 +45,10 @@ def get_credentials():
         os.makedirs(credential_dir)
     credential_path = os.path.join(credential_dir,
                                    'drive-quickstart.json')
-
     store = oauth2client.file.Storage(credential_path)
     credentials = store.get()
     if not credentials or credentials.invalid:
+        #this is where the magic happens
         flow = client.flow_from_clientsecrets(CLIENT_SECRET_FILE, SCOPES)
         flow.user_agent = APPLICATION_NAME
         if flags:
@@ -86,7 +87,7 @@ def main():
     service = discovery.build('drive', 'v2', http=http)
 
     #Get each folder in manuscript pages
-    folders = service.files().list(q="'0B42QaQPHLJloNnZhakpiVk9GRmM' in parents").execute()
+    folders = service.files().list(q="'0B42QaQPHLJloNnZhakpiVk9GRmM' in parents", maxResults="10").execute()
     folders_hash = folders["items"]
 
     for folder in folders_hash:
@@ -114,15 +115,12 @@ def main():
                     print(ftitle)
                     print(new_file_title)
                     #grab the file's exportLink to download it
-                    #fkey, flink = f["exportLinks"].get("text/plain", "failed")#.popitem()
                     flink = f["exportLinks"]["text/plain"]
                     print(flink)
                     #using exportLink, download and save the file with its new title
                     download_file_by_url(flink, "manuscript_downloads/" + new_file_title)
                 except:
-                    #print("============================")
                     print("No exportLink for this file")
-                    #print("============================")
     print(len(folders_hash))
 
 if __name__ == '__main__':
