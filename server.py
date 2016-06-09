@@ -76,6 +76,17 @@ def get_new_file_title(old_title):
     new_file_title = folio_number + "_" + file_type + "_preTEI.xml"
     return new_file_title
 
+def add_root_tags(file_title):
+    #append "</root>" to end of file
+    with open(file_title, "a") as f:
+        f.write("</root>")
+    #add "</root>" to beginning of file
+    with open(file_title, "r+") as f:
+        old = f.read()
+        f.seek(0)
+        f.write("<root>" + old)
+    return
+
 def main():
     """Shows basic usage of the Google Drive API.
 
@@ -87,7 +98,7 @@ def main():
     service = discovery.build('drive', 'v2', http=http)
 
     #Get each folder in manuscript pages
-    folders = service.files().list(q="'0B42QaQPHLJloNnZhakpiVk9GRmM' in parents", maxResults="10").execute()
+    folders = service.files().list(q="'0B42QaQPHLJloNnZhakpiVk9GRmM' in parents", maxResults="400").execute()
     folders_hash = folders["items"]
 
     for folder in folders_hash:
@@ -111,14 +122,17 @@ def main():
                 try:
                     #grab the file's title and generate the new title
                     ftitle = f["title"]
-                    new_file_title = get_new_file_title(ftitle)
+                    new_file_title = "manuscript_downloads/" + get_new_file_title(ftitle)
                     print(ftitle)
                     print(new_file_title)
                     #grab the file's exportLink to download it
                     flink = f["exportLinks"]["text/plain"]
                     print(flink)
                     #using exportLink, download and save the file with its new title
-                    download_file_by_url(flink, "manuscript_downloads/" + new_file_title)
+                    download_file_by_url(flink, new_file_title)
+                    #modify the file to add root tags at the beginning and end
+                    add_root_tags(new_file_title)
+                    
                 except:
                     print("No exportLink for this file")
     print(len(folders_hash))
