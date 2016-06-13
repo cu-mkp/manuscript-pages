@@ -1,8 +1,6 @@
 <root>﻿<page>106r</page> 
 <image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f217.image</image>
 
-
-</div>
 <div>
 <id>p106r_a1</id>
 <head>Pour gect</head>
@@ -59,7 +57,13 @@ pour en mesler parmy le <m>sable</m> pour gecter l<m>or</m> il fault quil endure
 deulx fois &amp; deulx foix soict recuit</ab>
 
 
-<ab>+<lb/>
+
+
+
+
+<note>
+<margin>left-middle</margin>
+<figure>+</figure><lb/>
 Quand l<m>or</m><lb/>
 est fort fin<lb/>
 il est si sec<lb/>
@@ -71,4 +75,6 @@ Mays ceste<lb/>
 mixtion<lb/>
 ladoulcist<lb/>
 comme<lb/>
-plomb</ab></root>
+<m>plomb</m>
+</note>
+</div></root>

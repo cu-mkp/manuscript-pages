@@ -1,8 +1,6 @@
 <root>﻿<page>006v</page> 
 <image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f18.image</image>
 
-
-</div>
 <div>
 <id>p006v_a1</id>
 <head>Pour <del>g each</del> cages</head>
@@ -29,11 +27,11 @@ la lime Les <pro>boutonniers aussi de verre</pro> saident dudit fourneau</ab>
 
 
 <note>
-<margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
-[image]</note>
+<figure/>
+</note>
  
 <note>
-<margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
+<margin>right-middle</margin>
 soubs la porte y a<lb/>
 une grille qui soubstient<lb/> 
 le <m>charbon</m> allume<lb/>
@@ -57,4 +55,5 @@ bien tanvre Ou bien gecte le en table comme le <m>plomb</m> ou le<lb/>
 passe par la presse a rouleaux Apres pose ta planche<lb/> 
 d<m>estain</m> sur la chose gravee &amp; sur la planche d<m>estaim</m> pose<lb/> 
 une piece de <m>feultre</m> &amp; frappe avecq un marteau dessus puys<lb/>
-le dore en ceste sorte</ab></root>
+le dore en ceste sorte</ab>
+</div></root>

@@ -1,11 +1,8 @@
-<root>﻿#ERROR:_Number_of_<head>_and_</head>_unbalanced#
-
-
-<page>165v</page> 
+<root>﻿<page>165v</page> 
 <image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f336.image</image>
 
 
-</div>
+
 <div>
 <id>p165v_a1</id>
 <head>Plant danimaulx</head>
@@ -46,7 +43,7 @@ lieu</note>
 </div>
 <div>
 <id>p165v_a2</id>
-<head>Garder animaulx</tite>
+<head>Garder animaulx</head>
  
 <ab>Si les ayant moules une foys tu les veulx garder<lb/>
 pour les mouler dadvantage remects les dans ceste<lb/>
@@ -64,7 +61,7 @@ la main gardes bien que ceste mixtion ny touche</ab>
 </div>
 <div>
 <id>p165v_b3</id>
-<head>Estant moules ne les garde pas long temps Ains les<lb/>
+<ab>Estant moules ne les garde pas long temps Ains les<lb/>
 employe <del>u</del> [?] le plustot que tu pourras pourcequesta{n}t<lb/>
 long temps gardes ilz sont subgects a se corrompre</ab>
  
@@ -110,7 +107,7 @@ aussy que soubs le ventre il y aye asses de <m>cire</m><lb/>
 car cest ce qui faict le gect</ab>
 
 
-<image>[image]</image>
+<figure/>
  
 </div>
 <div>
@@ -123,4 +120,5 @@ de mousche ou semblable</head>
 raporte avecq <m>colle de poisson</m><lb/>
 destrempee avecq <m>eau de vye</m> sur foeu lent faisa{n}t aussy<lb/>
 chaufer louvrage puys cela se couvre avecq de la <m>cire</m><lb/>
-<m>a esbaucher</m> qui soit grise</ab></root>
+<m>a esbaucher</m> qui soit grise</ab>
+</div></root>

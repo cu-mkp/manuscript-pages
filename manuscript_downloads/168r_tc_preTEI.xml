@@ -1,12 +1,16 @@
-<root>﻿<page>168r</page>
+<root>﻿#ERROR:_Number_of_<ab>_and_</ab>_unbalanced#
+
+
+<page>168r</page>
 <image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f341.image</image>
+<div>
+<cont/>
+<id>p167r_1</id>
 
 
 <margin>left-top</margin>
-<figure>gimlet</figure>
-
-
-cheville quon mect dans la lumiere &amp; puys avecq une corde<lb/>
+<figure>gimlet</figure> 
+<ab>cheville quon mect dans la lumiere &amp; puys avecq une corde<lb/>
 entournee au bout dun baston on donnes feu &amp; promptem{ent} on<lb/>
 se retire a couvert Les petits mortiers de 16 ou 17 lb.<lb/>
 satachent promtem{ent} avecq une courte cheville crochue faicte<lb/>
@@ -21,7 +25,12 @@ guimbelet &amp; une fisselle les attachent la gueule contre la<lb/>
 porte Si les mortiers  sont bons &amp; ne sesclattent point<lb/>
 ilz ne font que reculer et ne peuvent fayre mal estan a<lb/>
 coste</ab>
- 
+
+
+
+
+
+
 <ab>A cest une petite cheville crochue co{mm}e un going de porte &amp; faicte en<lb/>
 biron par un bout pour attacher incontinent un petit mortier a oreille<lb/>
 de quinze ou xvii lb. pour une commune porte ou fenestre</ab>
@@ -45,4 +54,6 @@ porte</ab>
 </pro><ab>F cest une aultre fourchette de <m>fer</m> de mesme haulteur qui<lb/>
 apuye la fourchette faicte en tenaille &amp; soutient aussi le<lb/>
 mortier et avecq sa griffe basse empeche que la tenaille<lb/>
-ne recule</ab></root>
+ne recule</ab>
+<cont/>
+</div></root>

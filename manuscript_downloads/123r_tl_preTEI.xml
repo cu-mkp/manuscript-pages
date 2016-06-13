@@ -1,10 +1,10 @@
 <root>﻿<page>123r</page> 
-<image> #ERROR:_INSERT_LINK# </image>
+<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f251.item.r=</image>
 
 
-</div>
+
 <div>
-<id>p123r_a1</id>
+<id>p123r_1</id>
 <head> How to make <m>argenta</m> run </head>
 
 
@@ -20,25 +20,32 @@ melted common cooking salt,</m> half 1 ℥<m>
 sublimate,</m> half 1 ℥<m>
 borax</m> half 1 ℥<m>
 sal ammoniac</m> same quantity as borax1 ℥</ab>
+</div>
 
 
-<ab>Take these matters, the best ones you can find. Weigh the right quantity as mentioned above, and grind each of them separately. Cover your face, on the nose and the mouth, from the eyes down, in order to avoid the exhalations of <m>arsenic</m>, <m>sublimate</m>, and <m>orpiment</m>. Mix them well together and pour it in a crucible. The crucible must be large enough to get empty space at least the fourth or fifth part of the crucible. Then cover properly your crucible with a well rounded tile so as to fit the opening. Fasten this tile with a strong wire from the top to the bottom; fasten the sides also. Lute the crucible with <m>manure</m> or <m>filler,</m> the one <pro>artillery</pro> <pro>founders</pro> use. Be careful and diligent, and do not forget to mix <m>crushed glass</m> with the lute in order to make the crucible stronger; that way it won’t get air. Otherwise, the matter would not useless, because the five last ingredients would evaporate. </ab>
+<div>
+<id>p123r_2</id>
+<ab>Take these matters, the best ones you can find. Weigh the right quantity as mentioned above, and grind each of them separately. Cover your face, on the nose and the mouth, from the eyes down, in order to avoid the exhalations of <m>arsenic</m>, <m>sublimate</m>, and <m>orpiment</m>. Mix them well together and pour it in a crucible. The crucible must be large enough to get empty space at least the fourth or fifth part of the crucible. Then cover properly your crucible with a well rounded tile so as to fit the opening. Fasten this tile with a strong wire from the top to the bottom; fasten the sides also. Lute the crucible with <m>manure</m> or <m>filler,</m> the one <pro>artillery</pro> <pro>founders</pro> use. Be careful and diligent, and do not forget to mix <m>crushed glass</m> with the lute in order to make the crucible stronger; that way it won't get air. Otherwise, the matter would not useless, because the five last ingredients would evaporate. </ab>
 
 
 <note>
-<margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
+<margin>right-top</margin>
 Note that you need to lute your crucible so the matters will not get air and will not evaporate.</note>
  
 <note>
-<margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
+<margin>right-middle</margin>
 
-Lute your crucible, so it will not break. If your crucible breaks, the matters would evaporate and the smoke is dangerous. If your matter isn’t melted within 12 hours, it will not work properly. </note>
+Lute your crucible, so it will not break. If your crucible breaks, the matters would evaporate and the smoke is dangerous. If your matter isn't melted within 12 hours, it will not work properly. </note>
   
 <note>
-<margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
+<margin>left-middle</margin>
 
-<pro>Silversmiths</pro> who know these matters sell this mixture to other <pro>silversmiths</pro>, even to <pro>silversmiths</pro> who make crockery and plates, they sell one denier for 5 sols.  Because this mixture allows them to solder their finish work over the first solder. In general, It is very useful to mold and cast fine works. Do not divulge this mixture because some people could abuse it.</note>
+<pro>Silversmiths</pro> who know these matters sell this mixture to other <pro>silversmiths</pro>, even to <pro>silversmiths</pro> who make crockery and plates, they sell one denier @for 5 sols.  Because this mixture allows them to solder their finish work over the first solder. In general, It is very useful to mold and cast fine works. Do not divulge this mixture because some people could abuse it.</note>
  
 <note>
-<margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
-The grain is like broken <m>steel</m> </note></root>
+<margin>left-bottom</margin>
+The grain is like broken <m>steel</m> </note>
+
+
+<cont/>
+</div></root>

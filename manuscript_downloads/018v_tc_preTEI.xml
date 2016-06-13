@@ -1,10 +1,14 @@
 <root>﻿<page>018v</page>
 <image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f42.image</image>
+
+
+<div>
+<cont/>
 <id>p017r_1</id>
 <ab>
 La moyenne poise 18 quintals et tire 12 pans de long<lb/>
 Sa balle poise huict livres ou 9 et sa charge est de six livres<lb/> 
-de <m>pouldre</m> <del><del>Et pour</del></del> A la culasse elle porte trois balles<lb/> 
+de <m>pouldre</m> <del>Et pour</del> A la culasse elle porte trois balles<lb/> 
 despesseur &amp; au devant deulx Elle est plus propre pour<lb/> 
 la deffense dune ville que pour batterie Touteffoys on<lb/> 
 luy mene par foys ou pour rompre quelque barricade ou<lb/> 
@@ -44,7 +48,7 @@ toutes pieces despuys<lb/>
 le canon<lb/> 
 iusque a la<lb/> 
 piece de quattre<lb/> 
-quintal <del><del>illegible</del></del><lb/> 
+quintal <del>illegible</del><lb/> 
 et leur donne lon<lb/> 
 deulx lanternes<lb/> 
 de <m>pouldre</m> a canon<lb/> 
@@ -92,4 +96,6 @@ de <m>pouldre</m> A la culasse trois balles au devant deulx pour<lb/>
 le mener deux <al>chevaulx</al> combien que telles pieces ne se meuvent<lb/> 
 gueres daultant que il ne servent que pour les maisons<lb/> 
 Celles qui se charrient ou pour batterie ou pour combat<lb/> 
-assiger sont canons couleuvrines bastard de moyennes &amp; pieces</ab></root>
+assiger sont canons couleuvrines bastard de moyennes &amp; pieces</ab>
+<cont/>
+</div></root>

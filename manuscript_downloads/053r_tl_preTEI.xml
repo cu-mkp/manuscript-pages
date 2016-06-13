@@ -1,8 +1,6 @@
 <root>﻿<page>053r</page> 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f111.image</image><pro>
+<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f111.image</image>
 
-
-</pro></div>
 <div>
 <id>p053r_a1</id>
 <head>Soldering a vise</head>
@@ -54,11 +52,14 @@
 
 <ab><m>Lead</m> and <m>tin</m> come out well in <m>white chalk</m> but the softer it is the better. That from Champagne wins first prize, and it is transported to Lyon. Burnt and calcinated <m>horse bones</m> cast very neatly.</ab>
  
-<note>
-<margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
-I believe that the <m>marrow</m> from the <m>horns</m> of oxen or sheep, that is to say, the <m>spongy bone</m> from inside, casts quite neatly and is better than <m>bone</m>.</note>
+<ab>
+<margin>left-bottom</margin>
+I believe that the <m>marrow</m> from the <m>horns</m> of oxen or sheep, that is to say, the <m>spongy bone</m> from inside, casts quite neatly and is better than <m>bone</m>.</ab>
 
 
-<note>
-<margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
-Note that any sour <m>metal</m> comes out better than a fat one. Also, lean <m>sand</m> receives it and absorbs it better than dense <m>sand</m>.</note></root>
+<ab>
+<margin>bottom</margin>
+Note that any sour <m>metal</m> comes out better than a fat one. Also, lean <m>sand</m> receives it and absorbs it better than dense <m>sand</m>.</ab>
+
+
+</div></root>

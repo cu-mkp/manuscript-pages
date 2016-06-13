@@ -1,16 +1,12 @@
-<root>﻿#ERROR:_Number_of_<add>_and_</add>_unbalanced#
-
-
-#ERROR:_Number_of_<del>_and_</del>_unbalanced#
-
-
-<page>018r</page>
+<root>﻿<page>018r</page>
 <image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f41.image</image>
+
+
+<div>
+<cont/>
 <id>p017r_1</id>
-
-
 <ab>
-Les colevrines <del><del>sont</del></del> grandes de batterie <add>&amp; faussee</add> sont de quarante quintals<lb/>
+Les colevrines <del>sont</del> grandes de batterie <add>&amp; faussee</add> sont de quarante quintals<lb/>
 &amp; de dix huict pans de long Leur balle de qualibre de roy &amp; de<lb/>
 batterie est de 30 lb. et ainsy moindre que celle du canon Et par<lb/>
 ainsy elle ne porte pas tant de munition Car il suffist quinze lb.<lb/>
@@ -18,17 +14,19 @@ pour sa charge Le canon faict plus douverture a cause de<lb/>
 la grandeur de sa balle Mays la colevrine bat plus roide<lb/>
 &amp; passe plus viste ayant plus de chasse a cause de la longueur<lb/>
 A la culasse elle porte lespesseur de deux de ses balles &amp; l<del>es</del>a<lb/>
-<del><del>trois</del></del> <add>troisiesme</add> partie<del>s</del> dune balle Au devant lespesseur dune balle &amp; de<lb/>
+<del>trois</del> <add>troisiesme</add> partie<del>s</del> dune balle Au devant lespesseur dune balle &amp; de<lb/>
 trois parties les deulx Les colevrines servent pour battre de loing<lb/>
 les deffences quand on ne peult commodement faire les aproches<lb/>
 Et les canons saprochent de plus pres Elles servent aussy pour<lb/>
 soustenir la batterie Il fault quinze ou seize <al>chevaulx</al> pour<lb/>
-la mener Elles sont <del><del>tout</del></del> de mesme ligue que le canon co{mm}e<lb/>
-sont toutes pieces <del><del>qui excedent</del></del> <add>moindres que</add> la moyenne Car a celles là on<lb/>
+la mener Elles sont <del>tout</del> de mesme ligue que le canon co{mm}e<lb/>
+sont toutes pieces <del>qui excedent</del> <add>moindres que</add> la moyenne Car a celles là on<lb/>
 mect un peu plus de metal affin que la fonte coure mieulx<lb/>
 Et sur deulx quintaulx de rosette on mect six vints lb. de metal<lb/>
 pour les petites pieces Elles portent de poincte en blanc 8 ou 9 cens<lb/>
 pas &amp; jusques a mille pas si la <m>pouldre</m> est forte &amp; de volee demye lieue</ab>
+<cont/>
+</div>
 
 
 <note>
@@ -60,8 +58,8 @@ de <m>pouldre</m></note>
 
 
 <ab>
-La bastarde qui est une <del><del>coulevrine</del></del> <add>piece</add> <del><del>moyenne</del></del> poise trente quintals<lb/>
-et sa balle poise <del><del>xx lb.</del></del> <add>xv lb.</del> et porte pour sa charge x ou xii lb.<lb/>
+La bastarde qui est une <del>coulevrine</del> <add>piece</add> <del>moyenne</del> poise trente quintals<lb/>
+et sa balle poise <del>xx lb.</del> <add>xv lb.</add> et porte pour sa charge x ou xii lb.<lb/>
 de <m>pouldre</m> Sa proportion est a la culasse de lespesseur de deulx<lb/>
 de ses balles &amp; l<del>es</del><add>a</add> troi<del>s</del><add>siesme</add> partie<del>s</del> dune balle Au devant lespesseur<lb/>
 dune balle &amp; de trois parties les deux <del><add>ou</add></del> Elles servent pour battre<lb/>
@@ -93,5 +91,5 @@ pieces on donne renfort a la culasse co{mm}e de trois balles Elles peuvent<lb/>
 porter de volee environ une lieue &amp; demy lieue De poincte en blanc<lb/>
 Sa charge est comme de la bastarde Et si on veut tirer a quelque<lb/>
 cavallerie bien loing on augmente un peu de <m>pouldre</m> Apres la balle<lb/>
-il suict une queue de fumee qui <del><del>de</del></del> conduit ta veuee iusques la ou la<lb/>
+il suict une queue de fumee qui <del>de</del> conduit ta veuee iusques la ou la<lb/>
 balle va cella sentend du canon et de la colevrine et non des petites pieces</ab></root>

@@ -1,8 +1,6 @@
 <root>﻿<page>104v</page> 
 <image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f214.image</image>
 
-
-</div>
 <div>
 <id>p104v_a1</id>
 <head>Contre la galle des chiens</head>
@@ -48,7 +46,7 @@ les hoquetons des <pro>archiers</pro></ab>
 <head>Espinette jouant toute seule</head>
 
 
-[image]
+<figure/>
 
 
 <ab>Fais un axe tout entourne de roues percees tout aultour<lb/>
@@ -56,4 +54,5 @@ en lespesseur et attaches des plumes co{mm}e pour cistre ou<lb/>
 espinette e&amp; les dispose selon la chancon que tu vouldras<lb/>
 faire dire y laissant <del>telle</del> distance convenable Et tourna{n}t<lb/>
 laxe ou par toymesme ou par ressort dhorloge ton invention<lb/>
-seffectuera</ab></root>
+seffectuera</ab>
+</div></root>

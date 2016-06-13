@@ -1,31 +1,36 @@
 <root>﻿<page>003r</page> 
-       <image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f11.image</image>
+<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f11.image</image>
 
 
-</div>
 <div>
 <id>p003r_a1</id>
 <head>Imitation coral</head>
 
 
+<figure>+</figure>
+
+
 <ab>One must first make the branches from <m>wood</m> or take a fantastical <m>thorn branch</m>, then melt a pound of the best possible <m>clear</m> <m>pine resin</m> and add one ounce of finely ground <m>vermilion</m> together with <m>walnut oil,</m> and if you add a little <m>Venice</m> <m>lake</m> the color will be all the more vivid, and stir all together into the <m>resin,</m> molten over a <m>charcoal</m> fire, not over an open flame, lest it catch fire. Then dip in your branches with a swirling motion. And should there remain any filaments, turn the branch over the heat of the <m>charcoal</m>.</ab>
 
 
-  <note id="p003r_c1a">Colophony is nothing other than resin that has been cooked again. To do it well, you take a leaded pot and melt the resin, boiling it over the brazier for a good hour until it appears not thick but clear and liquid like water and it easily runs as a thread off the end of a stick, which you use to crush and test it. Then pour it through a coarse canvas or tammy cloth so that it falls into the strongest vinegar you can find, because the vinegar makes it strong and makes it less brittle. Repeat this two or three times and it will be fine and well purified. To imitate your coral, you can mix a fourth part of mastic with your purified resin to make it more solid and finer, and if you should use just one drop of mastic, it would be all the better, but it would take too long.</note>  
+<note>
+<margin>left-top</margin>
+<m>Colophony</m> is nothing other than <m>resin</m> that has been cooked again. To do it well, you take a <m>leaded</m> pot and melt the <m>resin</m>, boiling it over the brazier for a good hour until it appears not thick but clear and liquid like <m>water</m> and it easily runs as a thread off the end of a stick, which you use to crush and test it. Then pour it through a coarse <m>canvas</m> or <m>tammy cloth</m> so that it falls into the strongest <m>vinegar</m> you can find, because the <m>vinegar</m> makes it strong and makes it less brittle. Repeat this two or three times and it will be fine and well purified. To imitate your <m>coral</m>, you can mix a fourth part of <m>mastic</m> with your purified <m>resin</m> to make it more solid and finer, and if you should use just one drop of <m>mastic</m>, it would be all the better, but it would take too long.
+</note>  
 
 
 <note>
-<margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
+<margin>left-middle</margin>
 <m>Sulfur</m> and <m>vermilion</m> have the same effect.</note>
 
 
 <note>
-<margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
+<margin>top</margin>
 <m>Coral</m> made of <m>red enamel</m> withstands filing and polishing.</note>
 
 
 <note>
-<margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
+<margin>right-top</margin>
 It is made like <m>cement</m>, which is stronger when mixed with crushed <m>glass</m> rather than with <m>brick</m>. In the same way, together with the <m>vermilion</m>, one mixes in <m>opaque red enamel</m>, finely ground. It is the same way with all <m>enamel</m> colors.</note>
 
 
@@ -39,12 +44,12 @@ It is made like <m>cement</m>, which is stronger when mixed with crushed <m>glas
 
 
 <note>
-<margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
+<margin>left-bottom</margin>
 You need a little more <m>turpentine</m> than <m>turpentine oil</m> to thicken the varnish, which you need to apply with your finger in order to spread it thinner and less thick because when it is thick, it turns yellow and gathers [together]. <m>Varnish</m> is not used to make paintings shine, because it just takes the light out of them.</note>
 
 
 <note>
-<margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
+<margin>bottom</margin>
 But it is used to enhance colors which have soaked in and to keep them from dust. <m>Mastic varnish</m> does not resist rain, whereas <m>oil</m> and <m>rosin varnishes</m> do.</note>
  
 </div>
@@ -52,4 +57,8 @@ But it is used to enhance colors which have soaked in and to keep them from dust
 <id>p003r_a3</id>
 <head>Thick <m>varnish</m> for floorboards</head>
  
-<ab>There is a type of <m>varnish</m> that takes a long time to dry and is still damp up to two months after it has been applied to the floorboards. But the following <m>varnish</m> does not remain damp like previous ones, which were made of <m>linseed oil</m> boiled with <m>garlic</m> to extinguish them and rid them of fat, and also with <m>wheat</m>. And this old one yellowed over time and made the blue color of paintings greenish. This one is made like [former <m>varnishes</m>] except that one puts in <m>common thick turpentine</m></ab></root>
+<ab>There is a type of <m>varnish</m> that takes a long time to dry and is still damp up to two months after it has been applied to the floorboards. But the following <m>varnish</m> does not remain damp like previous ones, which were made of <m>linseed oil</m> boiled with <m>garlic</m> to extinguish them and rid them of fat, and also with <m>wheat</m>. And this old one yellowed over time and made the blue color of paintings greenish. This one is made like [former <m>varnishes</m>] except that one puts in <m>common thick turpentine</m></ab>
+
+
+<cont/>
+</div></root>

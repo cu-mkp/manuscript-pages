@@ -1,34 +1,36 @@
-<root>﻿<page>117v</page> 
+<root>﻿#ERROR:_Number_of_<ab>_and_</ab>_unbalanced#
+
+
+<page>117v</page> 
 <image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f240.image</image>
 
 
-</div>
 <div>
 <id>p117v_a1</id>
 <head>Pour faire sortir la crasse des moules des fleurs et herbes</head>
 
 
-<ab>Aulcuns y mectent dedans de l’<m>argent vif</m>. Mays,</lb>
-si c’est en petit ouvraige ou foeille subtile &amp; delicate qui n’aye</lb>
-qu’une subtile yssue, ilz font deulx erreurs : l’une que</lb>
+<ab>Aulcuns y mectent dedans de l'<m>argent vif</m>. Mays,</lb>
+si c'est en petit ouvraige ou foeille subtile &amp; delicate qui n'aye</lb>
+qu'une subtile yssue, ilz font deulx erreurs : l'une que</lb>
 le <m>vif argent</m> par sa poisanteur peult rompre en</lb>
-secouant dedans quelque traict delicat, lautre qu’il en</lb>
+secouant dedans quelque traict delicat, lautre qu'il en</lb>
 demeure tousjours quelque grain dedans qui rend les <m>metaulx</m></lb>
 aigres &amp; empechent la perfection du gect. Il est vray</lb>
-que si c’est pour evacuer le moule de quelque animal qui</lb>
+que si c'est pour evacuer le moule de quelque animal qui</lb>
 soict grossit &amp; qui aye grand conduict &amp; passage par où</lb>
 le <m>vif argent</m> puisse aisement sortir comme dun oiseau ou</lb>
-serpent, on peut bien y mectre quantite d’<m>argent vif</m></lb>
-pour rompre en secouant les os calcinés de l’animal, à cause</lb>
-que ledit <m>☿</m> s’esvacue &amp; n’y demeure point.</ab>
+serpent, on peut bien y mectre quantite d'<m>argent vif</m></lb>
+pour rompre en secouant les os calcinés de l'animal, à cause</lb>
+que ledit <m>☿</m> s'esvacue &amp; n'y demeure point.</ab>
 
 
 <note>
 <margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
-La tige de l’asperge est si</lb>
+La tige de l'asperge est si</lb>
 dure que le plus souvent elle demeure</lb>
 en charbon. Par ainsy, fais la</lb>
-plustost seicher ou la trempe d’<m>huile</m></lb>
+plustost seicher ou la trempe d'<m>huile</m></lb>
 <m>de soufre</m> &amp; de <m>tourmentine</m>,</lb>
 ou bien gecte</lb>
 separement les</lb>
@@ -62,7 +64,7 @@ ou pinceau coupé.</note>
 
 <ab>Elles se pourroient bien gecter en <m>or</m>. Mays si tu les veult <m>esmaillé</m>,</lb>
 il les fault faire à la main &amp; les <m>esmailer</m> &amp; puys les raporter.</lb>
-Aultrement, la foeille estant si pressurée, l’<m>esmail</m> si confondroit.</ab>
+Aultrement, la foeille estant si pressurée, l'<m>esmail</m> si confondroit.</ab>
  
 </div>
 <div>
@@ -70,7 +72,7 @@ Aultrement, la foeille estant si pressurée, l’<m>esmail</m> si confondroit.</
 <head><m>Sable</m> qui ha servi</head>
 
 
-<ab>Il ne le faut pas gecter. Mais à cause qu’il est meslé d’<m>alum de plume,</m></lb>
+<ab>Il ne le faut pas gecter. Mais à cause qu'il est meslé d'<m>alum de plume,</m></lb>
 tu le peux employer en la mixtion des aultres &amp; le faire servir</lb>
 au lieu de brique.</ab>
  
@@ -80,19 +82,19 @@ au lieu de brique.</ab>
 <head> Mouler à noyau figures de <m>cire</m> ou medailles de <m>plomb</m></head>
 
 
-<ab>Frotter les d’<m>huile</m> avec un pinceau. Mays que ce soit si legerement</lb>
-que ta medaille en soit presque essuicte &amp; qu’elle ne paroisse</lb>
-presque pas avoir esté oincte. Apres frotte la d’<m>eau de vye</m></lb>
-et fais chaufer l’<m>eau</m> de laquelle tu destremperas ton <m>sable</m> susdict</lb>  
-de <m>plastre,</m> <m>brique</m> &amp; <m>alum,</m> affin qu’esttant comme tiede quand tu</lb>
-le gecteras, l’<m>huile</m> ne le refuse pas comme il feroit avecq l’eau</lb>
-froide &amp; n’oublie pas en destrempant ton <m>sable</m> d’y mesler toujours un peu</lb>
-de <m>sel armoniac.<</m>/ab>
+<ab>Frotter les d'<m>huile</m> avec un pinceau. Mays que ce soit si legerement</lb>
+que ta medaille en soit presque essuicte &amp; qu'elle ne paroisse</lb>
+presque pas avoir esté oincte. Apres frotte la d'<m>eau de vye</m></lb>
+et fais chaufer l'<m>eau</m> de laquelle tu destremperas ton <m>sable</m> susdict</lb>  
+de <m>plastre,</m> <m>brique</m> &amp; <m>alum,</m> affin qu'esttant comme tiede quand tu</lb>
+le gecteras, l'<m>huile</m> ne le refuse pas comme il feroit avecq l'eau</lb>
+froide &amp; n'oublie pas en destrempant ton <m>sable</m> d'y mesler toujours un peu</lb>
+de <m>sel armoniac</m>.</ab>
  
 <note>
 <margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
 Les médailles</lb>
-s’i moulent ainsy fort</lb>
+s'i moulent ainsy fort</lb>
 net.</note>
  
 </div>
@@ -101,7 +103,8 @@ net.</note>
 <head><m>Sang des serpents</m></head>
 
 
-<ab>S’il te faut couper quelque serpent dans le moule pour le brusler,</lb>
-coupe la loing de l’entrée du moule affin qu’il n’y demeure point</lb>
-de <m>sang</m> car il feroit crouste qui après ne s’osteroit point par le</lb>
-mesme <m>vif argent</m> &amp; osteroit les impressions de ton moule.</ab></root>
+<ab>S'il te faut couper quelque serpent dans le moule pour le brusler,</lb>
+coupe la loing de l'entrée du moule affin qu'il n'y demeure point</lb>
+de <m>sang</m> car il feroit crouste qui après ne s'osteroit point par le</lb>
+mesme <m>vif argent</m> &amp; osteroit les impressions de ton moule.</ab>
+</div></root>

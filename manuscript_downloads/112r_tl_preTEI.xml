@@ -1,8 +1,6 @@
 <root>﻿<page>112r</page> 
 <image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f229.image</image>
 
-
-</div>
 <div>
 <id>p112r_a1</id>
 <head>To temper the <m>sand</m></head>
@@ -56,4 +54,6 @@ To know if [the animal] is quite dead, take it out of the <m>vinegar</m> and tak
 
 <note>
 <margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
-Water snakes do not bite much.</note></root>
+Water snakes do not bite much.</note>
+<cont/>
+</div></root>

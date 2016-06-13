@@ -1,4 +1,7 @@
-<root>﻿#ERROR:_Number_of_<div>_and_</div>_unbalanced#
+<root>﻿#ERROR:_Number_of_<ab>_and_</ab>_unbalanced#
+
+
+#ERROR:_Number_of_<div>_and_</div>_unbalanced#
 
 
 <page>037r</page>
@@ -6,7 +9,7 @@
 
 
 <div>
-<id>037r_1</id>
+<id>p037r_1</id>
 <head><pro>Fondeur</pro></head>
 <ab>Le <m>metal</m> se blanchist tant plus il est refondu pourceque<lb/>
 l<m>estaing</m> ne sen va poinct ains se mesle dadvantaige Et le<lb/>
@@ -21,7 +24,7 @@ le marteau</ab>
 
 
 <div>
-<id>037r_2</id>
+<id>p037r_2</id>
 <head>Medecine pour lestomach <lb/>
 qui leschaufe et desopile le foye</head>
 <ab><del>Ayes</del><lb/>
@@ -37,18 +40,20 @@ profficte a lestomac sans eschaufer le foye</ab>
 
 
 <div>
-<id>037r_3</id>
+<id>p037r_3</id>
 <head>Foeilles pour <del>le [illegible]</del> les <m>pierreries</m></head>
-<ab >Estant faictes il ne les fault pas tenir dans aulcune caisse de <m>fer</m><lb/>
+<ab>Estant faictes il ne les fault pas tenir dans aulcune caisse de <m>fer</m><lb/>
 ne de <m>metal</m> car cela les faict tacher Mays en quelque boicte de</ab>
+</div>
 
 
 <div>
-<id>037r_4</id>
+<id>p037r_4</id>
 <head>Pour garder que les chandelles ne<lb/>
 degoutent et les fayre blanches</head>
 <ab>Les ayant faictes Mects dans le moule de l<m>eau</m> fresche bien<lb/>
 battue avecq du <m>son</m> qui ne soict pas du tout repurge de la <m>farine</m><lb/>
 de sorte que l<m>eau</m> soit blanche Et trempe tes chandelles la<lb/>
 dedans puys les laisse seicher Et fais ainsy deulx ou trois<lb/>
-fois</ab></root>
+fois</ab>
+</div></root>

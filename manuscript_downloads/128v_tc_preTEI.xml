@@ -1,20 +1,10 @@
-<root>﻿#ERROR:_TITLE_TAGS_EXIST#
-
-
-#ERROR:_Number_of_<title>_and_</title>_unbalanced#
-
-
-#ERROR:_Number_of_<head>_and_</head>_unbalanced#
-
-
-#ERROR:_Number_of_<div>_and_</div>_unbalanced#
-
-
-<page>128v</page>
+<root>﻿<page>128v</page>
 <image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f262.image</image>
+
+
+<div>
+<cont/>
 <id>p128r_1</id>
-
-
 <ab>
 Tu verras quelle le tormentera &amp; leschaufera bien fort<lb/>
 et bien tost le rendra fort liquide &amp; dispose a gecter et lesclarcira<lb/>
@@ -82,28 +72,29 @@ qui le font courre
 </div>
 
 
-<title>
-Blanchiment de l<m>argent</m> gecte</head>
+<div>
+<id>p128v_1</id>
+<head>Blanchiment de l<m>argent</m> gecte</head>
 
 
 <ab>
 Pourceque on gecte communem{ent} de bas <m>argent</m> &amp; mesmem{ent}<lb/>
 les <pl>allemands</pl> Et que telle ligue face volontiers quelq{ue}<lb/>
-chappe ou croste <del><del>qui est contraire xxx Nos</del></del> <add>Aulcuns</add> <pro>orfevres</pro> <del><del>de</del><lb/>
-<del>france</del></del> sont communem{ent} bien empresses a blanchir leurs<lb/>
+chappe ou croste <del>qui est contraire xxx Nos</del> <add>Aulcuns</add> <pro>orfevres</pro> <del>de</del><lb/>
+<del>france</del> sont communem{ent} bien empresses a blanchir leurs<lb/>
 ouvraiges mesmem{ent} les grossieres Pourcequils meslent<lb/>
 que du commun <m>bullitoyre</m> que est de <m>tartre</m> &amp; <m>sel commun</m><lb/>
 presque auta{n}t dun que daultre Mays iay veu un<lb/>
 excellent <pl>allemand</pl> travailler ainsy ayant en ma presence<lb/>
 gecte un petit <al>lezard</al> de ligue de teston Il fist une croste<lb/> 
-<del><del>xxx</del></del> sasle Et pour len nettoyer il le fist bouillir au <m>bullitoyre</m><lb/>
-susdict de <m>tartre</m> &amp; sel commun <del><del>Et</del></del> <add>pulverise</add> mesle d<m>eau</m> commune au foeu<lb/>
+<del>xxx</del> sasle Et pour len nettoyer il le fist bouillir au <m>bullitoyre</m><lb/>
+susdict de <m>tartre</m> &amp; sel commun <del>Et</del> <add>pulverise</add> mesle d<m>eau</m> commune au foeu<lb/>
 de sa forge en estant sorty il le grattebroissa et pourceque<lb/>
 il nestoit pas net a sa fantasie de ceste croste il fist brusler<lb/>
 du <m>tartre</m> <add>dans du <m>papier</m></add> iusques a ce quil fut noir &amp; ne fuma plus Puys<lb/>
 il destrempa ledict <m>tartre</m> avec de l<m>eau</m> du <m>bullitoyre</m> co{m}posee<lb/>
 de <m>sel</m> &amp; <m>tartre</m> &amp; en couvrit tout son <al>lezard</al> puys le mit entre les<lb/>
-<m>charbons</m> <del><del>de</del></del> vifs de la forge &amp; soufla un peu Quand le <al>lezard</al> fut<lb/>
+<m>charbons</m> <del>de</del> vifs de la forge &amp; soufla un peu Quand le <al>lezard</al> fut<lb/>
 rouge il losta le laissa froidir puys le recuit au <m>bullitoyre</m> <lb/>
 apres le grattebroissa dans l<m>eau</m> claire 
 </ab>
@@ -116,7 +107,7 @@ Note que le <m>bullitoyre</m><lb/>
 pour largent nest iamays<lb/>
 bon dans un crusol<lb/>
 pourceque leur prenent<lb/>
-la forme du <del><del>f</del></del> <m>tartre</m><lb/>
+la forme du <del>f</del> <m>tartre</m><lb/>
 sesvapore Mays le<lb/>
 vaisseau pour bouillir<lb/>
 esta{n}t de <m>cuivre</m> est<lb/>

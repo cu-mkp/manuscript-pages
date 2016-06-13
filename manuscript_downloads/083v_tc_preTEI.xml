@@ -1,10 +1,9 @@
 <root>﻿<page>083v</page> 
-<image> #ERROR:_INSERT_LINK# </image>
+<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f172.item</image>
 
 
-</div>
 <div>
-<id>p083v_a1</id>
+<id>p083v_1</id>
 <head>Forme de mouler excellente<lb/> 
 avecq <m>eau</m></head>
 
@@ -17,7 +16,7 @@ estant fort calcines &amp; reduits en <m>eau</m></ab>
  
 </div>
 <div>
-<id>p083v_a2</id>
+<id>p083v_2</id>
 <head>Mouler de relief dune part<lb/> 
 et creux de laultre</head>
 
@@ -56,7 +55,7 @@ est saulpouldre &amp; ponce sec sur la medaille</ab>
 
 <ab> 
 Quand tu moules laisses tousjours v{ost}re medaille dans l<del>e</del>ung<lb/>
-des chassis <del>Est</del> sans la remuer pourceque si ton cave nest pas moule bien net<lb/> 
+des chassis <del>Est</del> <add>sans la remuer</add> pourceque si ton cave nest pas moule bien net<lb/> 
 Tu luy peulx remectre juste{ment} par le moyen des chevilles qui le<lb/> 
 garderont de varier Mays ponce premierem{ent} ta medaille de <m>charbon<lb/> 
 de saule</m> fort subtil &amp; <del>se</del> et apres la nettoye Car cela la desgraisse<lb/>
@@ -68,15 +67,16 @@ Ne frappe pas en moulant car cela estonne le chassis &amp; le <m>sable</m></ab>
   
 </div>
 <div>
-<id>p083v_a3</id>
-<head>Souflets</head>
+<id>p083v_3</id>
+
+<head><margin>left-middle</margin>Souflets</head>
 
 
 <ab>
 Pour fondre a souflets &amp;<lb/>
 advancer ta fonte &amp; gecter
 aussy plus chault<lb/> 
-<del>por</del> [?] ne pose pas tes<lb/> 
+<del>po</del> ne pose pas tes<lb/> 
 souflets bas vers<lb/> 
 le pied du fourneau<lb/> 
 de peur que quelque<lb/> 
@@ -100,4 +100,7 @@ sur la fin il<lb/>
 fault donner fort<lb/> 
 de chasse co{mm}e au<lb/> 
 commancem{ent} tu<lb/> 
-soufleras lentem{ent}</ab></root>
+soufleras lentem{ent}</ab>
+
+
+</div></root>

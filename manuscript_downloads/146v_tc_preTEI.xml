@@ -1,11 +1,5 @@
-<root>﻿#ERROR:_Number_of_<image>_and_</image>_unbalanced#
-
-
-#ERROR:_Number_of_<div>_and_</div>_unbalanced#
-
-
-<page>146v</page>
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f298.image<image>
+<root>﻿<page>146v</page>
+<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f298.image</image>
 
 
 <div>
@@ -28,7 +22,7 @@ le naturel Mays sil y a quelque concavite qui sentourne<lb/>
 trop en dedans et ne soict point en voeue ne en despouille<lb/>
 Mects y de petits lopins de <m>cire</m> &amp; avecq des poinctes<lb/>
 de gros fil de <m>fer</m> chault estants &amp; adapte ladicte<lb/>
-<m>cire</m> Puys <del><del>bouch</del></del> bouche avecq de l<m>ardille</m> molle lentree<lb/>
+<m>cire</m> Puys <del>bouch</del> bouche avecq de l<m>ardille</m> molle lentree<lb/>
 de toutes ses cavites Mects le cercle d<m>ardille</m> aultour<lb/>
 de ton moule faict desja de deulx pieces qui contient le<lb/>
 dos de la <al>tortue</al> Et pour mouler le ventre dicelle<lb/>
@@ -37,23 +31,25 @@ tu mectras un entre deulx d<m>ardille</m> dessus la gorge &amp; un<lb/>
 aultre sur le bort de la coquillle de la queue <figure>#</figure> <add>de sorte que la<lb/>
 seule coquille du<lb/>ventre entiere soict<lb/>descouverte pour<lb/>la mouler seule</add>
 Et aya{n}t<lb/>
-<m>huile</m> <del><del>et</del></del> la coquille du ventre &amp; layant frotee d<m>eau de<lb/>
+<m>huile</m> <del>et</del> la coquille du ventre &amp; layant frotee d<m>eau de<lb/>
 vye</m> Jecte ton sable un peu espes &amp; destrempe avecq <m>eau<lb/>
 chaulde</m> co{mm}e devant Ayant faict prise Oste ces entredeulx<lb/>
 d<m>ardille</m> puys descouvre bien les pattes de devant &amp; derriere<lb/>
 scavoir la partie de dessoubs &amp; la queue &amp; la gorge<lb/>
-&amp; oste l<m>ardille</m> des cavites <del><del>qu</del></del> toute a une piece si tu peulx<lb/>
+&amp; oste l<m>ardille</m> des cavites <del>qu</del> toute a une piece si tu peulx<lb/>
 car cela te monstrera si ceste cavite sera bien en despouille<lb/>
 Et si l<m>ardille</m> retiree emmene la <m>cire</m> que tu y avois mis<lb/>
 remects la aulx lieulx qui ne peuvent despouiller co{mm}e dict<lb/>
 est Et si quelque partye cest retiree ou desmise attache<lb/>
 &amp; rejoincts la au moule avecq de la <m>cire</m> &amp; la poincte de <m>fer</m><lb/>
-chault Noublie de mectre de <del><del>po</del></del> la <m>cire</m> fondue au bout<lb/>
+chault Noublie de mectre de <del>po</del> la <m>cire</m> fondue au bout<lb/>
 des ongles de la <al>tortue</al> pour faire le gect Ta coquille<lb/>
-du ventre moulee <add>et descouverte</add> Ton moule se verra en ceste sorte. 
+du ventre moulee <add>et descouverte</add> Ton moule se verra en ceste sorte.</ab>
 
 
 <figure/>
+<figure/>
 
 
-<figure/></root>
+<cont/>
+</div></root>

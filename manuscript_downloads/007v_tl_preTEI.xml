@@ -1,10 +1,6 @@
-<root>﻿#ERROR:_Number_of_<head>_and_</head>_unbalanced#
-
-
-<page>007v</page> 
+<root>﻿<page>007v</page> 
 <image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f20.image</image>
  
-</div>
 <div>
 <id>p007v_a1</id>
 <head>To give the color of all kind of <m>metals</m> and <m>woods</m> and other things</head>
@@ -23,7 +19,7 @@
 </div>
 <div>
 <id>p007v_a3</id>
-<head>To relieve the pain of g{onorrhea}</ab>
+<head>To relieve the pain of g{onorrhea}</head>
 
 
 <ab>Take half a pound of finely powdered <m>golden and yellow marcasite</m>, half an ounce of <m>storax</m>, 4 lb. of <m>urine</m>, incorporate well together, little by little, in a mortar, then boil all together quite strongly. But the pot needs to be well covered so the smoke does not escape. Then distill the imbibed <m>urine</m>, separated by inclination, in an alembic, well luted and covered with a <m>copper</m> head. And soak a cloth with the said <m>water</m> and apply it lukewarm on the pain.</ab>
@@ -35,4 +31,7 @@
 <head>Against gonorrhea</head>
 
 
-<ab>Cook .i. lb. of <m>old smiths’ water</m>, .i. ℥ of <m>Armenian</m> <m>bole</m> reduced in the finest powder, and .iii. ʒ of <m>common honey</m>, until the <m>honey</m> stops foaming. Once cooled, strain with great pressure and use the results of filtration by injection.</ab></root>
+<ab>Cook .i. lb. of <m>old smiths' water</m>, .i. ℥ of <m>Armenian</m> <m>bole</m> reduced in the finest powder, and .iii. ʒ of <m>common honey</m>, until the <m>honey</m> stops foaming. Once cooled, strain with great pressure and use the results of filtration by injection.</ab>
+
+
+</div></root>

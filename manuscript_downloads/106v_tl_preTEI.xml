@@ -1,11 +1,6 @@
-<root>﻿#ERROR:_Number_of_<note>_and_</note>_unbalanced#
-
-
-<page>106v</page> 
+<root>﻿<page>106v</page> 
 <image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f218.image</image>
 
-
-</div>
 <div>
 <id>p106v_a1</id>
 <head>Casting in <m>gold</m></head>
@@ -27,7 +22,7 @@
 
 
 <note>
-<margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
+<margin>right-middle</margin>
 those of houses that are outdoors, ones [that are] a bit <m>sand</m>y seem to hold better in fire</note>
 
 
@@ -36,9 +31,9 @@ those of houses that are outdoors, ones [that are] a bit <m>sand</m>y seem to ho
 
 <ab>Little turtles just out of the egg are really delightful to mold.</ab>
 ---------
-[Title: <m>Plaster</m>]
+<!--[Title: <m>Plaster</m>]-->
 <note>
-<margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
+<margin>middle</margin>
 If the <m>plaster</m> is mixed with some <m>dust</m> or is not the hard kind, [...] in the fire and make [...]</note>
 
 
@@ -51,19 +46,23 @@ If the <m>plaster</m> is mixed with some <m>dust</m> or is not the hard kind, [.
 <ab><m>Crocum ferri</m> is fit for <m>gold</m>. It is this which, mixed into <m>sand</m>, breaks it up again &amp; keeps it hot.</ab>
 ---------
 <note>
-<margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
+<margin>left-top</margin>
 <m>Plaster
 </m>When you have it in stone form, choose the hardest pieces and those which do not easily break into small pieces with your nail, and clean it well of powder &amp; filth rather than crushing them with it.</note>
 
 
 <note>
-<margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
-<m>Plaster</m> alone does not sustain [...] but breaks up into lumps.</ab>
-
-
-<ab>Keep reheated <m>plaster</m>, as is said here, one or two months well compacted in a dry place, if it’s not the rainy season but rather fresh out it is more excellent for exquisite work.</ab>
+<margin>left-middle</margin>
+<m>Plaster</m> alone does not sustain [...] but breaks up into lumps.
+</note>
 
 
 <note>
-<margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
-It must maintain its fire and turn red like lit charcoal.</note></root>
+Keep reheated <m>plaster</m>, as is said here, one or two months well compacted in a dry place, if it's not the rainy season but rather fresh out it is more excellent for exquisite work.
+</note>
+
+
+<note>
+<margin>left-middle</margin>
+It must maintain its fire and turn red like lit charcoal.</note>
+</div></root>

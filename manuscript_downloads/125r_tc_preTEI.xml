@@ -1,5 +1,13 @@
-<root>﻿<page>125r</page> 
-<image> #ERROR:_INSERT_LINK# </image>
+<root>﻿#ERROR:_Number_of_<div>_and_</div>_unbalanced#
+
+
+<page>125r</page> 
+<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f255.item.r=</image>
+
+
+<div>
+<cont/>
+<id>p124v_3</id>
 
 
 <ab>&amp; de ses conduicts &amp; abrevouers tu y peulx mectre aussy de<lb/>
@@ -10,7 +18,7 @@ ton gect &amp; tes souspirails sans gaster aulcune chose</ab>
 
 
 <note>
-<margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
+<margin>left-top</margin>
 [symbol]: des petits rouleaulx tu fais tes gects et souspirails sans danger descrouster &amp; enlever<lb/>
 rien du moule pourceque la <m>cire</m> sostant laisse la place vuide de toute faict Fais tes souspira[ils]<lb/>
 venant de la teste<lb/>
@@ -23,7 +31,7 @@ cours deulx ou trois<lb/>
 coches car cela corrompt<lb/>
 la furie du <m>metal</m><lb/>
 Et le faict couler a son ayse sans soufler ne faire trop grand fumee qui empesche le cours<lb/>
-Tu le peulx diviser aussy en deulx ou troys branches ainsy [...] quand il ap[…]<lb/>
+Tu le peulx diviser aussy en deulx ou troys branches ainsy <figure/> quand il ap[…]<lb/>
 de la chose moulee et fais tousjours des trous dans le gect</note>
  
 <image>[image]</image>
@@ -44,14 +52,14 @@ pas fort Mays celuy est bon qui estant destrempe est blan[c]<lb/>
 ferme &amp; dur apres avoyr faict prise Mays il y est plus<lb/>
 long Il fault cognoistre le naturel de chascun <del>Si t</del> Tu<lb/>
 ne mouleras jamays bien net Si ne tu ne destrempes bien clair<lb/>
-&amp; liquide ton <m>plastre</m> ou <m>sable</m> de noyau Destrempe le <del>ILLEGIBLE</del><lb/>
+&amp; liquide ton <m>plastre</m> ou <m>sable</m> de noyau Destrempe le <del>[illegible]</del><lb/>
 bien tost apres quil ha este recuit</ab>
 
 
-<note>
-<margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
+<ab>
+<margin>left-middle</margin>
 + Si tu moules de<lb/>
-<m>plastre</m> <del>ILLEGIBLE</del> seul<lb/>
+<m>plastre</m> <del>[illegible]</del> seul<lb/>
 recuit toutefoys<lb/>
 co{mm}e dit est Il 
 fault bien <m>huile</m>r<lb/>
@@ -68,13 +76,9 @@ trempe le dans<lb/>
 l<m>eau</m> chaulde car<lb/>
 l<m>eau</m><lb/>
 froide<lb/>
-le durcit</note>
+le durcit</ab>
 
-
-</div>
-<div>
-<id>p125r_a2</id>
-<head>A scavoir</head>
+<ab>A scavoir</ab> @
 
 
 <ab>Et l<m>eau</m> chaulde<lb/>
@@ -98,11 +102,11 @@ bouillante il ny ha point de danger Tous moules de <m>plastre</m> seulx ou mixti
  
 </div>
 <div>
-<id>p125r_a3</id>
+<id>p125r_a2</id>
 <head>Symeterres</head>
 
 
-<ab>Les <pro>ouvriers</pro> de damas ou dhongrie voisins des turcs<lb/>
+<ab>Les <pro>ouvriers</pro> de <pl>damas</pl> ou <pl>dhongrie</pl> voisins des <pl>turcs</pl><lb/>
 separent aulx <m>mine</m>s le <m>fer</m> davecq l<m>acier</m> Et de ce premier<lb/>
 <m>acier</m> fondu premierem{ent} de sa <m>mine</m> ilz gectent en <m>sable</m> des<lb/>
 <del>sab</del> lames de cimeterre qui couppent apres laultre <m>fer</m><lb/>
@@ -115,7 +119,7 @@ qui etre dans le manche quil est gecte en <m>sable</m></ab>
 
 </div>
 <div>
-<id>p125r_a4</id>
+<id>p125r_a3</id>
 <head>Ouyr de loing</head>
 
 
@@ -125,5 +129,6 @@ silenc[e] loreille justem{ent} &amp; entendras aysem{ent} la rumeur</ab>
 
 </div>
 <div>
-<id>p125r_a5</id>
-<head>Secret</head></root>
+<id>p125r_a4</id>
+<head>Secret</head>
+</div></root>

@@ -1,7 +1,4 @@
-<root>﻿#ERROR:_Number_of_<div>_and_</div>_unbalanced#
-
-
-<page>056v</page>
+<root>﻿<page>056v</page>
 <image>http://gallica.bnf.fr/ark:/12148/btv1b9059316c/f118.item</image>
 
 
@@ -12,8 +9,8 @@
 <head>Painctre</head>
 
 
-<ab> La <m>laque</m> &amp;<del><del>foree</del></del> <m>rosette de <pl>gand</pl></m> &amp; aultres perdent leur<lb/>
-couleur &amp; se meurent a lair.</ab>
+<ab> La <m>laque</m> &amp;<del>foree</del> <m>rosette de <pl>gand</pl></m> &amp; aultres perdent leur<lb/>
+couleur &amp; se meurent a lair</ab>
 
 
 <ab>Tout <m>mabre</m> sur lequel le costeau peult prinquer ne vault<lb/>
@@ -23,14 +20,14 @@ rien pour broyer les fines couleurs</ab>
 <ab> La croye na poinct de corps a <m>huile</m> La <m>ceruse</m> y est<lb/>
 propre Mays le <m>blanc de plomb</m> plus excellent La <m>ceruse</m><lb/>
 est la plus blanche se broyant premierem{ent} a l<m>eau</m> Et le<lb/>
-<m>blanc de plomb</m> grisastre Mays <del><del>le blanc</del></del>il prend sa<lb/>
+<m>blanc de plomb</m> grisastre Mays <del>le blanc</del>il prend sa<lb/>
 parfaicte blancheur a <m>huile</m></ab>
 
 
 <ab>Quand tu broyes tes couleurs nettoyes premierem{ent} bien<lb/>
 ta boutique car en marchant si tu excites de la pouldre<lb/>
 cela gastera tes couleurs qui ne seront jamays belles si<lb/>
-elles ne sont fort <del><del>be</del></del> nettes</ab>
+elles ne sont fort <del>be</del> nettes</ab>
 
 
 <ab>La <m>floree</m> ne se doibt pas mesler avecq l<m>azur desmail</m><lb/>
@@ -58,7 +55,7 @@ qui est au dessus de l<m>eau</m> ou verse l<m>eau</m> trouble par<lb/>
 inclination puys amasse l<m>azur</m></ab>
 
 
-<note>
+<ab>
 <margin>left-top</margin>
 Celuy qui <add>faict profession de</add> travailler a <m>huile</m><lb/>
 ne travaillera gueres bien a<lb/>
@@ -79,19 +76,19 @@ fort le pinceau<lb/>
 Aultrem{ent} le labeur<lb/>
 couleroit &amp; seroit<lb/>
 bien tost tout<lb/>
-desfigure</note>
+desfigure</ab>
 
 
-<note>
+<ab>
 <margin>left-middle</margin>
 Les <pl>Italiens</pl><lb/>
 adoulcissent en hachant<lb/>
 avecq un gros<lb/>
 pinceau aplaty qui<lb/>
-faict des denteleures</note>
+faict des denteleures</ab>
 
 
-<note>
+<ab>
 <margin>left-middle</margin>
 Et ne couchent pas<lb/>
 leur ombre tout dune<lb/>
@@ -103,15 +100,15 @@ obscur apres &amp; en<lb/>
 fin un plus noir<lb/>
 pour faire<lb/>
 mieux gecter &amp;<lb/>
- eslever</note>
+ eslever</ab>
 
 
-<note>
+<ab>
 <margin>left-bottom</margin>
 A destrempe ne<lb/>
 mesle point tes<lb/>
 couleurs diverses<lb/>
-ensemble <del><del>Mays</del></del><lb/>
+ensemble <del>Mays</del><lb/>
 car cela les faict<lb/>
 mourir Mays<lb/>
 employes les chascune<lb/>
@@ -120,4 +117,8 @@ quelles ne seichent<lb/>
 &amp; que tu ayes<lb/>
 loisir dadoulcir<lb/>
 mouille le revers<lb/>
-de la toile</note></root>
+de la toile</ab>
+
+
+<cont/>
+</div></root>

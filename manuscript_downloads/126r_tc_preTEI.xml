@@ -1,5 +1,5 @@
 <root>﻿<page>126r</page> 
-<image> #ERROR:_INSERT_LINK# </image>
+<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f257.item.r=</image>
 
 
 </div>
@@ -42,11 +42,11 @@ semés</ab>
 
 
 <note>
-<margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
-A couler et brusc &amp; rompant estant sec</note>
+<margin>top</margin>
+A couler et brusc &amp; rompant estant sec @</note>
  
 <note>
-<margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
+<margin>left-top</margin>
 Pour gecter poires &amp;<lb/>
 pommes en <m>sucre</m> il ne<lb/>
 fault point faire de<lb/>
@@ -71,7 +71,7 @@ recuit co{mm}e<lb/>
 tu scais</note>
  
 <note>
-<margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
+<margin>left-middle</margin>
 + Il fault que<lb/>
 le moule aye<lb/>
 trempe tout<lb/>
@@ -85,7 +85,7 @@ tu gectes en<lb/>
 
 
 <note>
-<margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
+<margin>left-bottom</margin>
 Le signe que<lb/>
 le <m>cirop</m> ou<lb/>
 <m>sucre</m> fondu en<lb/>

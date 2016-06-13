@@ -1,13 +1,4 @@
-<root>﻿#ERROR:_Number_of_<margin>_and_</margin>_unbalanced#
-
-
-#ERROR:_Number_of_<div>_and_</div>_unbalanced#
-
-
-#ERROR:_Number_of_<_and_>_unbalanced#
-
-
-<page>141r</page>
+<root>﻿<page>141r</page>
 <image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f287.image</image>
  
 <div>
@@ -19,7 +10,7 @@
 
 <note><margin>left-top</margin>The casting is made by the very thin tail.</note>
  
-<note><margin>top</>margin>If some little thing is missing, you can reattach it or else fill it with <m><pro>goldsmith</pro>’s cement</m>.</note>
+<note><margin>top</margin>If some little thing is missing, you can reattach it or else fill it with <m><pro>goldsmith</pro>'s cement</m>.</note>
  
 <note><margin>left-top</margin>Do not forget to rub with <m>spirits</m> before you mold.</note>
 
@@ -38,4 +29,8 @@
 
 <note><margin>bottom</margin>Apply very light oil colors.</note>
  
-<note><margin>bottom</margin>To paint it, boil it with <m>wine</m> and a bit of <m>salt</m> so that they become very red and use this as a model.  Paint the back with <m>vermillion</m> mixed with <m>laquer</m>, and the sides and the underside of the belly and the legs with <m>vermillion</m> and <m>yellow ochre</m> and <m>white</m>.</note></root>
+<note><margin>bottom</margin>To paint it, boil it with <m>wine</m> and a bit of <m>salt</m> so that they become very red and use this as a model.  Paint the back with <m>vermillion</m> mixed with <m>laquer</m>, and the sides and the underside of the belly and the legs with <m>vermillion</m> and <m>yellow ochre</m> and <m>white</m>.</note>
+
+
+<cont/>
+</div></root>

@@ -1,10 +1,12 @@
-<root>﻿#ERROR:_Number_of_<note>_and_</note>_unbalanced#
-
-
-<page>127r</page> 
+<root>﻿<page>127r</page> 
 <image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f259.image</image>
 
 
+
+
+<div>
+<cont/>
+<id>p126v_3</id>
 <ab>quelques filets tant pour contenir les herbes affin quelles<lb/> 
 ne se haulssent point <del>par</del> quand tu gectes ton sable cler<lb/>
 que pour leur donner vent quand le moule est recuit<lb/>
@@ -28,10 +30,10 @@ grande ignition</ab>
 Les <m>os des animaulx</m> ne sont pas si fascheus a brusler<lb/>
 &amp; reduire en cendre pourceque la <m>chair</m> estant bruslee les<lb/>
 <m>os</m> demeurent vagues &amp; la pesanteur du <m>vif argent</m> les faict<lb/>
-rompre &amp; subtilier estant calcines &amp; brusles</note>
+rompre &amp; subtilier estant calcines &amp; brusles</ab>
  
 <note>
-<margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
+<margin>left-top</margin>
 L<m>asperge</m> demeure<lb/>
 tousjours en <m>charbon</m><lb/>
 co{mm}e petites espingles<lb/>
@@ -57,9 +59,9 @@ sattaqueroit &amp; se romperoit &amp; ne laurois jamays parfaict<lb/>
 Advise aussy de fayre tes gects pour la <m>cire</m> fort<lb/>
 larges Ainsy &amp; que les gects ne soient point trop espes Ils<lb/>
 se font quand <del>lanimal est</del> le[s] moules des deulx costes<lb/>
-sont faicts &amp; que lanimal en est hors</ab>
+sont faicts &amp; que lanimal <figure/> en est hors</ab>
 
 
-<image>
-[image] </image>
+
+
 </div></root>

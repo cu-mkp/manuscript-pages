@@ -1,21 +1,20 @@
-<root>﻿#ERROR:_Number_of_<div>_and_</div>_unbalanced#
-
-
-<page>023v</page>
+<root>﻿<page>023v</page>
 <image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f52.image</image>
 
 
+<div>
+<cont/>
 <id>p023r_1</id>
 
 
-<figure>
+<figure> @
 <margin>left-middle</margin>
 </figure>
 
 
-pouldre Estant pleine la saulssisse trempe la <del><del>bien dans</del></del><lb/>
+<ab>pouldre Estant pleine la saulssisse trempe la <del>bien dans</del><lb/>
 legierem{ent} pour mouller la <m>toile</m> &amp; non la pouldre dans deulx<lb/> 
-parties de <m>vinaigre</m> &amp; <del><del>de</del></del> une d<m>eau de vye</m> Apres laisse bien<lb/> 
+parties de <m>vinaigre</m> &amp; <del>de</del> une d<m>eau de vye</m> Apres laisse bien<lb/> 
 seicher ladicte <m>toile</m> Et puys il fault joindre a ladicte<lb/> 
 saulcisse une longue fisselle ou cordette qui soict plus<lb/> 
 longue deux fois que la saulcice &amp; ne la fault pas<lb/> 
@@ -24,18 +23,18 @@ par les deulx bouts &amp; la couldre a la saulcice en<lb/>
 quelques endroicts sur le milieu Apres il fault oindre<lb/> 
 toute la saulcice avecq de la <m>tourmentine</m> bien bonne<lb/> 
 Et au bout dicelle que tu vouldras couldre a la lumiere<lb/> 
-du mortier pour donner foeu tu pourras couldre <del><del>une</del></del><lb/> 
+du mortier pour donner foeu tu pourras couldre <del>une</del><lb/> 
 ou attacher bien serre une liste de <m>toile</m> large dun<lb/> 
 empan qui soict aussy bien trempee dans la <m>tourmentine</m><lb/> 
 &amp; ceste liste doibt estre fendue par le milieu affin de<lb/> 
 lentourner &amp; lier aultour du mortier Et fault latacher<lb/> 
-en sorte que <del><del>la lumiere soict pres da m la</del></del> le bout de<lb/> 
+en sorte que <del>la lumiere soict pres da m la</del> le bout de<lb/> 
 la saulcice qui soict ouvert soict joinct a la lumiere du<lb/> 
 mortier Puys il fault mectre force pouldre accachee<lb/> 
 sur la lumiere du mortier Et apres que celuy qui est<lb/> 
 hors du fosse tire la lignette &amp; cordelle qui est joincte<lb/> 
 a la saulcice tant quelle soict moyennem{ent} estendue mays<lb/> 
-non pas tant tiree quelle se destacha<del><del>ssent</del></del>t Et sil y<lb/> 
+non pas tant tiree quelle se destacha<del>ssent</del>t Et sil y<lb/> 
 avoict de l<m>eau</m> dans le fosse il fauldra soubstenir<lb/> 
 avecq des forchettes la saulcice Puys celuy qui<lb/> 
 tient le bout de la saulcice pourra donner foeu sestant<lb/> 
@@ -55,7 +54,7 @@ Un homme le peult porter</ab>
 <div>
 <id>p023v_2</id>
 <ab>Il fault que la balle soict ronde dun coste &amp; platte de<lb/> 
-laultre co{mm}e <del><del>une d[illegible]ng balle</del></del> la moictie dune balle couppee<lb/> 
+laultre co{mm}e <del>une d[illegible]ng balle</del> la moictie dune balle couppee<lb/> 
 Il fault aussy que la croix se tienne a la balle et quelle<lb/> 
 la balle se fondant si tu la fais de <m>metal</m> senveloppe<lb/> 
 avecq le milieu de la croix</ab>

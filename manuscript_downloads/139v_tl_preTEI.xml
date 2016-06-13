@@ -1,7 +1,13 @@
-<root>﻿<page>139v</page> 
+<root>﻿#ERROR:_Number_of_<div>_and_</div>_unbalanced#
+
+
+<page>139v</page> 
 <image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f284.image</image>
 
 
+<div>
+<cont/>
+<id>p139r_a1</id>
 <ab> are made of earth or <m>blades of copper</m>, or <m>iron</m>, or <m>wood</m> covered with <m>white iron</m>, in order to bury more easily these aforementioned molds between the thin sheets of <m>copper</m>, estric or one of <m>iron</m>.</ab>
 
 
@@ -21,4 +27,5 @@ This black sulphured <m>wax</m> is for fashioning round figures that do not come
 
 <note>
 <margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
-To make wax serpents or other things to affix to candles, it is necessary to cast them with esbaucher <m>wax</m> of all colors.</note></root>
+To make wax serpents or other things to affix to candles, it is necessary to cast them with esbaucher <m>wax</m> of all colors.</note>
+</div></root>

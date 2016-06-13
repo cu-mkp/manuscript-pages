@@ -1,7 +1,6 @@
 <root>﻿<page>118v</page> 
 <image> #ERROR:_INSERT_LINK# </image>
- 
-</div>
+
 <div>
 <id>p118v_a1</id>
 <head>Excellent <m>sable</m></head>
@@ -107,7 +106,7 @@ Noublie pas<lb/>
 les souspirals</note>
 
 
-<image></image>
+<figure/>
 
 
 <note>
@@ -121,4 +120,6 @@ bien chaults</note>
 
 <note>
 <margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
-Recuire est rougir le chassis ce qui se faict pour lor &amp; pour largent</note></root>
+Recuire est rougir le chassis ce qui se faict pour lor &amp; pour largent</note>
+<cont/>
+</div></root>

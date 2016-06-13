@@ -1,14 +1,10 @@
-<root>﻿#ERROR:_TITLE_TAGS_EXIST#
-
-
-#ERROR:_Number_of_<title>_and_</title>_unbalanced#
-
-
-#ERROR:_Number_of_<head>_and_</head>_unbalanced#
-
-
-<page>136r</page> 
+<root>﻿<page>136r</page> 
 <image> #ERROR:_INSERT_LINK# </image>
+
+
+<div>
+<cont/>
+<id>p135v_a1</id>
 
 
 <ab>[FROM PREVIOUS PAGE: And continue blowing with the small bellows, and the <m>gold</m> will turn shiny like] a mirror. And once you will want to [start] casting, put a bit more colour in and let it rest a little, still blowing wind with both the small and the large bellows. Finally, place your mold quite red between the small molds or in a crusol full of <m>sand</m> quite hot and [start] casting. And once it will have stuck, you may, if you wish, throw it into <m>water</m> as <m>gold</m> does not get damaged like <m>tin</m> which breaks.</ab>
@@ -30,7 +26,8 @@
 </div>
 <div>
 <id>p136r_a1</id>
-<head>Enamelling thin works<title>
+<head>Enamelling thin works</head>
 
 
-<ab><pro>Goldsmiths</pro> polish the <m>gold</m> leaf using a burin and then they apply the <m>enamel</m> onto it.</ab></root>
+<ab><pro>Goldsmiths</pro> polish the <m>gold</m> leaf using a burin and then they apply the <m>enamel</m> onto it.</ab>
+</div></root>

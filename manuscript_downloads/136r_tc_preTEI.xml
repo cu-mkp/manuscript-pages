@@ -1,16 +1,10 @@
-<root>﻿#ERROR:_TITLE_TAGS_EXIST#
-
-
-#ERROR:_Number_of_<title>_and_</title>_unbalanced#
-
-
-#ERROR:_Number_of_<head>_and_</head>_unbalanced#
-
-
-<page>136r</page> 
+<root>﻿<page>136r</page> 
 <image> #ERROR:_INSERT_LINK# </image>
 
 
+<div>
+<cont/>
+<id>p135v_a1</id>
 <ab>en mirouer Et co{mm}e tu vouldras gecter mects encor un peu<lb/> 
 de la couleur &amp; laisse reposer un petit tousjours souflant<lb/>
 du petit &amp; grand souflet En fin adapte ton moule tout<lb/>
@@ -49,8 +43,9 @@ se pourra</ab>
 </div>
 <div>
 <id>p136r_a1</id>
-<head><del>Esm</del> Esmailler ouvraiges tanvres<title>
+<head><del>Esm</del> Esmailler ouvraiges tanvres</head>
 
 
 <ab>Les <pro>orfevres</pro> rasclent avecq laisle du burin la foeille<lb/>
-d<m>or</m> &amp; puys y assoient l<m>esmail</m></ab></root>
+d<m>or</m> &amp; puys y assoient l<m>esmail</m></ab>
+</div></root>

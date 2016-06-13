@@ -1,16 +1,9 @@
-<root>﻿#ERROR:_Number_of_<note>_and_</note>_unbalanced#
-
-
-#ERROR:_Number_of_<head>_and_</head>_unbalanced#
-
-
-<page>120r</page> 
+<root>﻿<page>120r</page> 
 <image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f245.image</image>
 
-</div>
 <div>
 <id>p120r_a1</id>
-<head>Medailles de stampe par la <m>cire</m> </head>
+<head>Medailles de stampe par la <m>cire</m></head>
 
 
 <ab>Tu peulx mouler en <m>cire</m> meslee dun peu de <m>rousine</m> pour estre plus<lb/>
@@ -88,7 +81,7 @@ de Santonique </note>
 </div>
 <div>
 <id>p120r_a3</id>
-<head> Rossignol </note>
+<head>Rossignol</head>
 
 
 <ab> Il fault que sa cage faicte co{mm}e celle des alouetes en grange<lb/>
@@ -110,4 +103,6 @@ boire Le lendemain matin tu luy donneras en sa cage de la chair<lb/>
 bien hachee avecq du jaulne doeuf dur Et luy changeras deulx<lb/>
 ou trois fois le jour car il nen mangeroit pas si elle estoit endurcie<lb/>
 &amp; si elle nestoit fresche Et sil passe la moictie du jour sans manger<lb/>
-il fault que tu l’apaste co{mm}e devant &amp; fais ainsy jusques a ce quil</ab></root>
+il fault que tu l'apaste co{mm}e devant &amp; fais ainsy jusques a ce quil</ab>
+<cont/>
+</div></root>

@@ -1,10 +1,9 @@
 <root>﻿<page>123r</page> 
-<image> #ERROR:_INSERT_LINK# </image>
+<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f251.item.r=</image>
 
 
-</div>
 <div>
-<id>p123r_a1</id>
+<id>p123r_1</id>
 <head>Moyen di far correr <m>otnegra</m> </head>
 
 
@@ -21,54 +20,57 @@
 <m>Sublimé</m> la moictié, 1 ℥<lb/>
 <m>Borras</m> la moictié, 1 ℥<lb/>
 <m>Sel armoniac</m> aultant que de <m>borras</m>, sçavoir 1 ℥ </ab>
+</div>
 
 
-<ab> P{rens} de ces materiaulx, des meilleurs que tu pourras trouver. Poisés<lb/>
+<div>
+<id>p123r_2</id>
+<ab>P{rens} de ces materiaulx, des meilleurs que tu pourras trouver. Poisés<lb/>
 les co{mm}e cy dessus est dict et les pilés separement, vous tenant<lb/>
 le visaige bandé sur le nés &amp; la bouche, despuys les yeulx en<lb/>
-bas, pour eviter l’exalation de <m>l’arsenic</m> <m>sublimé</m> &amp; <m>orpiment</m>.<lb/>
+bas, pour eviter l'exalation de <m>l'arsenic</m> <m>sublimé</m> &amp; <m>orpiment</m>.<lb/>
 Meslés les bien tous ensemble, puys les mectés dans un bon<lb/>
 crusol, qui soict si grand que les matieres y puissent avoir<lb/>
 de vuyde la quarte ou cinquiesme partye. Couvrés le crusol<lb/>
-d’un bon tuyle adapté en rond justement sur son ouverture. Et<lb/>
-l’ayant lié de haut en bas et par les costés de fil de fer<lb/>
+d'un bon tuyle adapté en rond justement sur son ouverture. Et<lb/>
+l'ayant lié de haut en bas et par les costés de fil de fer<lb/>
 assés fort, lutés le avecq de la <m>terre fiens</m> ou <m>terre bourre</m>,<lb/>
-de laquelle les <pro>fondeurs</pro> <pro>d’artiglerie</pro> se servent. Et en cela<lb/>
-soyés curieux &amp; diligent, &amp; n’oubliés pas d’i mesler du <m>verre</m><lb/>
+de laquelle les <pro>fondeurs</pro> <pro>d'artiglerie</pro> se servent. Et en cela<lb/>
+soyés curieux &amp; diligent, &amp; n'oubliés pas d'i mesler du <m>verre</m><lb/>
 pilé parmy le luth, pour fortifier v{ost}re crusol, de maniere<lb/>
-qu’il ne prene point de vent, car la matiere ne vauldroit<lb/>
-gueres, à cause que les cinq derniers ingredients s’exhaleroient.</ab>
+qu'il ne prene point de vent, car la matiere ne vauldroit<lb/>
+gueres, à cause que les cinq derniers ingredients s'exhaleroient.</ab>
 
 
 <note>
-<margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
-Note qu’il te fault<lb/>
+<margin>right-top</margin>
+Note qu'il te fault<lb/>
 bien luter ton creuset<lb/>
 affin que les matieres<lb/>
 ne prenent vent, car<lb/>
-elles s’exalleroient.</note>
+elles s'exalleroient.</note>
 
 
 <note>
-<margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
+<margin>right-middle</margin>
 Lute bien ton crusol<lb/>
-affin qu’il ne se rompe.<lb/>
-Car s’il se rompt, les<lb/>
-materiaulx s’evaporent<lb/>
+affin qu'il ne se rompe.<lb/>
+Car s'il se rompt, les<lb/>
+materiaulx s'evaporent<lb/>
 et la fumée en est<lb/>
 dangereuse. Si en 12<lb/>
-heures il n’est fondu<lb/>
+heures il n'est fondu<lb/>
 et meslé, il ne se fera<lb/>
 point bien.</note>
 
 
 <note>
-<margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
+<margin>left-middle</margin>
 Les <pro>orfevres</pro><lb/>
 qui ont cognois<lb/>
 sance de ceste<lb/>
 matiere vendent<lb/>
-le denier d’icelle<lb/>
+le denier d'icelle<lb/>
 cinq sols aulx<lb/>
 aultres <pro>orfevres.</pro><lb/>
 Mesmement<lb/>
@@ -90,11 +92,13 @@ quelque chose<lb/>
 subtille. Ceste<lb/>
 matiere ne doibt<lb/>
 pas estre divulguée<lb/>
-affin quil n’en soit<lb/>
+affin quil n'en soit<lb/>
 point abusé.</note>
 
 
 <note>
-<margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
+<margin>left-bottom</margin>
 <lb/>Le grain est co{mm}e<lb/>
-de l’<m>acier</m> rompu.</note></root>
+de l'<m>acier</m> rompu.</note>
+<cont/>
+</div></root>

@@ -1,15 +1,14 @@
-<root>﻿#ERROR:_Number_of_<note>_and_</note>_unbalanced#
-
-
-<page>113r</page>
+<root>﻿<page>113r</page>
 <image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f231.image</image>
 
 
+<div>
+<cont/>
 <id>p112v_1</id>
-bout <del><del>qui</del></del> pour le en retirer au besoing Et advise quil fault que ces<lb/>
+<ab>bout <del>qui</del> pour le en retirer au besoing Et advise quil fault que ces<lb/>
 poinctes soient de fil de <m>fer</m> le plus delie que pourra comporter la grandeur<lb/>
 de lanimal Car tant plus il est delie tant moings parois le trou qui<lb/>
-laisse Touteffoys il en fault de diverses grosseurs pource quil <del><del>de</del></del> les<lb/>
+laisse Touteffoys il en fault de diverses grosseurs pource quil <del>de</del> les<lb/>
 poinctes qui sen mectent au corps &amp; en lieu plus espes co{mm}e sous la gorge<lb/>
 doivent estre plus longues &amp; plus fortes que celles des pates &amp; parties<lb/>
 tanures ou les poinctes doivent estre subtiles &amp; delies quasi comme<lb/>
@@ -17,7 +16,7 @@ les plus grosses cordes d<m>espinettes</m> Et est mieulx quelle soient de fil de
 <m>fer</m> qui est plus ferme que celuy de <m>latton</m> Et si le bout dune queue ou bout<lb/>
 dongle ou de pate se doit joindre au corps ne mect pas de poincte<lb/>
 pour ne le corrompre Mays pose aussy gros de <m>cire</m> quun <m>grain de<lb/>
-mil</m> entre le corps &amp; <del><del>la que</del></del> bout de queue Puys avecq un bout<lb/>
+mil</m> entre le corps &amp; <del>la que</del> bout de queue Puys avecq un bout<lb/>
 de fil de <m>fer</m> aplaty &amp; chault touche ceste <m>cire</m> &amp; joingts en pressant<lb/>
 legerement Ainsy ton animal estant bien pose sur la tourtelle<lb/>
 faicte en forme de mandorre pose tout aultour un entour de mesme<lb/>
@@ -30,9 +29,9 @@ vouldras donner au moule qui sera pour un commun <al>serpent</al> assez espes<lb
 de deulx poulces Affin que quand tu gecteras ton sable destrempe tu<lb/>
 voyes quand il sera assez espes Tout cela curieusem{ent} accommode<lb/>
 mouille bien par tout de bonne <m>eau de vye</m> avecq un pinceau le corps<lb/>
-de lanimal qui est destournet Car est icy le secret <del><del>de la plus</del></del> tenu fort<lb/>
+de lanimal qui est destournet Car est icy le secret <del>de la plus</del> tenu fort<lb/>
 cache pource que tout ce qui sera touche de l<m>eau de vye</m> viendra sans<lb/>
-doubte tres net &amp; sans <del><del>souflemente</del></del> aulcuns petits yeulx ou trous quon<lb/>
+doubte tres net &amp; sans <del>souflemente</del> aulcuns petits yeulx ou trous quon<lb/>
 appelle souflement qui viennent co{mmun}ement non pas au dos &amp; alespes<lb/>
 du moule mays aulx bords Et soudain que tu auras ainsy bien<lb/>
 mouille par tout d<m>eau de vye</m> gecte ton sable destrempe sans laisser<lb/>
@@ -41,6 +40,7 @@ deseicher l<m>eau de vye</m> qui sevapore promptem{ent} Et le destrempe ainsy</a
 
 
 
+<note>
 <figure>##</figure> et fais que la<lb/>
 poincte soict<lb/>
 longuette selon<lb/>
@@ -102,7 +102,9 @@ d<m>eau de vye</m></note>
 
 
 <ab>Ayer une escuelle de <m>terre plombee</m> de telle grandeur quelle puisse contenir<lb/>
-le sable destrempe qui fera besoing <del><del>de</del></del> pour remplir ton moule tout a<lb/>
-un coup qui est <del><del>mie</del></del> mieux qua deulx foys pource que si tu ne gecte<lb/>
+le sable destrempe qui fera besoing <del>de</del> pour remplir ton moule tout a<lb/>
+un coup qui est <del>mie</del> mieux qua deulx foys pource que si tu ne gecte<lb/>
 promptement la seconde destrempe Il y aura danger que pendant<lb/>
-que tu la prepares que la premiere ne fasse prise &amp; sendurcisse<lb/></root>
+que tu la prepares que la premiere ne fasse prise &amp; sendurcisse</ab>
+<cont/>
+</div></root>

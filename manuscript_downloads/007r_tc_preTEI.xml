@@ -1,8 +1,6 @@
 <root>﻿<page>007r</page> 
 <image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f19.image</image>
 
-
-</div>
 <div>
 <id>p007r_a1</id>
 <head>Pour dorer d<m>or couleur</m> et <m>dor bel</m></head>
@@ -52,8 +50,8 @@ est plus propre pour le fonds dazur</ab>
 </div>
 <div>
 <id>p007r_a4</id>
-<head><m>Colle de poisson</m> ou <m>usblac</m> et <m>colle de</m><lb/>
-<m>bouche</m></head>
+<head><m>Colle de poisson</m> ou <m>usblac</m> et <m>colle de<lb/>
+bouche</m></head>
 
 
 <ab>Elle se faict avecq <m>peau de moulue</m> boullie plustost questre<lb/>
@@ -67,7 +65,7 @@ sert sans feu pour coller <m>papier</m> ou choses semblables la mouillant<lb/>
 avecq la bouche</ab>
  
 <note>
-<margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
+<margin>left-bottom</margin>
 
 On la bat et faict<lb/>
 tremper <del>en eau de vye</del><lb/>
@@ -77,6 +75,7 @@ on la faict fondre<lb/>
 a feu lent Aultres<lb/>
 la destrempent en<lb/>
 <m>eau de vye</m></note>
+</div>
 
 
 ________________</root>

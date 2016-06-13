@@ -1,10 +1,10 @@
-<root>﻿#ERROR:_Number_of_<head>_and_</head>_unbalanced#
-
-
-<page>069r</page> 
+<root>﻿<page>069r</page> 
 <image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f143.image</image>
 
 
+<div>
+<cont/>
+<id>p068r_3</id>
 <ab> de moictie de <m>plomb</m> vient quasi mieulx que l<m>estain</m> <del>pur</del> <del>ou</del> ou le <m>plomb</m><lb/>
 pur combien quen tout sorte ilz viennent bien Neantmoings advise<lb/> 
 de ne gecter pas du tout si chault le <m>plomb</m> que l<m>estaing</m> En grand<lb/>
@@ -26,10 +26,7 @@ Les cheveulx &amp; les festons</ab>
 <id>p069r_a2</id>
 <head><m>Sable</m></head>
  
-</div>
-<div>
-<id>p069r_b2a</id>
-<head>Il ne te fault pas choisir pour gect celuy qui est du tout si<lb/>
+<ab>Il ne te fault pas choisir pour gect celuy qui est du tout si<lb/>
 maigre &amp; aride quil naye poinct de liaison co{mm}e celuy de la mer<lb/>
 <del>desei</del> ou des chemins sablonneulx deseiches par le soleil Mays<lb/>
 choisis les <del>ou en t</del> en premier lieu parmy les pier<del>reries</del>rieres ou cavernes<lb/>
@@ -73,4 +70,6 @@ il gecte fort chault</note>
 <note>
 <margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
 Essaye le<lb/>
-<m>vitriol calcine</m></note></root>
+<m>vitriol calcine</m></note>
+<cont/>
+</div></root>

@@ -1,12 +1,11 @@
-<root>﻿#ERROR:_Number_of_<div>_and_</div>_unbalanced#
-
-
-<page>151v</page>
+<root>﻿<page>151v</page>
 <image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f308.image</image>
 
 
+<div>
+<cont/>
 <id>p150v_1</id>
-Touteffoys ne loste pas que tu nayes du tout repare la<lb/> 
+<ab>Touteffoys ne loste pas que tu nayes du tout repare la<lb/> 
 <al>tortue</al> Car ceste <m>terre</m> te servira de <m>ciment</m> sil te fault enfoncer<lb/>
 quelque chose ou reparer avecq le ciselet Sil y a des<lb/>
 baves aulx joinctures du molle tu les osteras ou avecq le burin<lb/>
@@ -14,7 +13,7 @@ apelle chaple ou un trancheplume bien tranchant ou avecq<lb/>
 une lime petite &amp; puys avecq le ciselet Ayant tousjours<lb/>
 pour mieulx faire le naturel devant toy Tu peulx friser<lb/> 
 sur une lime la pointe dun ciselet qui ne soict poinct trampe<lb/>
-pour faire quelque chose grumeleuse Pour ces <del><del>deulx</del></del><lb/>
+pour faire quelque chose grumeleuse Pour ces <del>deulx</del><lb/>
 <al>tortues</al> &amp; choses creuses qui presuposent estre asses<lb/>
 grandes gecte ta ligue dune moictie de <m>plomb</m> &amp; dune<lb/>
 moictie d<m>estain</m> fin Il y a plus daffayre a mouler<lb/>

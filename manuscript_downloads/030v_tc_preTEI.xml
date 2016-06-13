@@ -1,11 +1,11 @@
-<root>﻿#ERROR:_Number_of_<div>_and_</div>_unbalanced#
-
-
-<page>030v</page>
+<root>﻿<page>030v</page>
 <image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f66.image</image>
 
 
-quelque escuelle ou assiette ilz eslargissent &amp; deffont<lb/>
+<div>
+<cont/>
+<id>p030r_a2</id>
+<ab>quelque escuelle ou assiette ilz eslargissent &amp; deffont<lb/>
 avecq un coup de marteau les coings de <m>fer</m> qui jouent<lb/>
 aulx branches de la roue Et co{mm}e ilz sont a la coche et<lb/>
 poincts quil leur fault ils serrent lesdicts coings les<lb/>
@@ -35,4 +35,5 @@ faict avecq lesgrusouer Puys avecq un costeau ou<lb/>
 aultre fer tranchant ilz raclent les bords des plats<lb/>
 ou assiettes pour les adoulcir affin quilz ne se trouvent<lb/>
 trenchant en les maniant</ab>
+<cont/>
 </div></root>

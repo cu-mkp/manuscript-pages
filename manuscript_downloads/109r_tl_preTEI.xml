@@ -1,10 +1,4 @@
-<root>﻿#ERROR:_Number_of_<head>_and_</head>_unbalanced#
-
-
-#ERROR:_Number_of_<div>_and_</div>_unbalanced#
-
-
-<page>109r</page>
+<root>﻿<page>109r</page>
 <image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f223.image</image>
 
 
@@ -39,7 +33,7 @@
 <head>Molding <m>wax</m></head>
 
 
-<ab>So that your mold takes hold without repelling any surface on a form or figure in <m>wax</m><m>,</m> it is necessary to rub the <m>wax</m> with <m>oil</m> and soak your sand in lukewarm <m>water</m>, because cold <m>water</m> repels <m>oil</m> even more and will not make a good layer on the <m>wax</m>.
+<ab>So that your mold takes hold without repelling any surface on a form or figure in <m>wax</m><m>,</m> it is necessary to rub the <m>wax</m> with <m>oil</m> and soak your sand in lukewarm <m>water</m>, because cold <m>water</m> repels <m>oil</m> even more and will not make a good layer on the <m>wax</m>.</ab>
 
 
 <note><margin>left-middle</margin>Rub the <m>oil</m> on very very lightly, <sup>use</sup> so little that it hardly appears at all. Then rub with some <m>spirits</m>. After soak your sand in lukewarm <m>water</m> so that it does not repel the <m>oil</m>.</note></div>
@@ -47,7 +41,7 @@
 
 <div>
 <id>p109r_4</id>
-<Head>Forge bellows</head>
+<head>Forge bellows</head>
 
 
 <ab>It is better that at the end with the air chamber the bellows be set in some kind of bit of cloven board because they are more secure this way. Afterwards you can lightly secure them from the top.  It is necessary that the nozzles be four fingers above the bottom of the forge.</ab></div>
@@ -58,4 +52,8 @@
 <head>Molding <al>snakes</al></head>
 
 
-<ab>When you get them for molding, if it is possible, do not remove their teeth if you [think you might] want to keep them, because having had their teeth removed, it hurts their gums and mouths, and they can no longer eat.  You can keep [the snakes] in a barrel full of <m>bran</m> or even better of <m>earth</m>, in a cool place, or in a <m>glass</m> bottle.  And give them some live frog or other live animal because they do not eat anything <sup>that is</sup> dead. Also I have noticed that</root>
+<ab>When you get them for molding, if it is possible, do not remove their teeth if you [think you might] want to keep them, because having had their teeth removed, it hurts their gums and mouths, and they can no longer eat.  You can keep [the snakes] in a barrel full of <m>bran</m> or even better of <m>earth</m>, in a cool place, or in a <m>glass</m> bottle.  And give them some live frog or other live animal because they do not eat anything <sup>that is</sup> dead. Also I have noticed that</ab>
+
+
+<cont/>
+</div></root>

@@ -1,10 +1,4 @@
-<root>﻿#ERROR:_Number_of_<al>_and_</al>_unbalanced#
-
-
-#ERROR:_Number_of_<m>_and_</m>_unbalanced#
-
-
-<page>111v</page>
+<root>﻿<page>111v</page>
 <image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f228.image</image>
 
 
@@ -13,7 +7,7 @@
 <head><m>sal ammoniac water</m></head>
 
 
-<ab>It is enough to use two <m>chestnuts</m>’ worth of <m>sal ammoniac</m> pulverized in a pot of <m>water</m>, and that the water tastes lightly salted to your tongue, because too much is not good.</ab>
+<ab>It is enough to use two <m>chestnuts</m>' worth of <m>sal ammoniac</m> pulverized in a pot of <m>water</m>, and that the water tastes lightly salted to your tongue, because too much is not good.</ab>
 
 
 <id>p111v_2</id>
@@ -42,7 +36,7 @@ They are among the most difficult to mold, and whoever molds them well will mold
 
 <note>
 <margin>left-middle</margin>
-The small <al>lizards</al> that one catches in the summer, the size of small <al>female lizards</al>, grey on the back and green on the belly, are very appropriate to cast in silver, gold, or other metal, because their scales are rougher than those of <al>female lizards</m> and show better.
+The small <al>lizards</al> that one catches in the summer, the size of small <al>female lizards</al>, grey on the back and green on the belly, are very appropriate to cast in silver, gold, or other metal, because their scales are rougher than those of <m><al>female lizards</al></m> and show better.
 </note>
 </div>
 

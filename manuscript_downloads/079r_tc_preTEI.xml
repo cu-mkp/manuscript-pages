@@ -1,17 +1,16 @@
-<root>﻿#ERROR:_VERIFY_FORMATTING_AROUND_LINE_BREAK#
-
-
-<page>079r</page>
+<root>﻿<page>079r</page>
 <image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f163.item</image>
 
 
-<ab>
-quand tu en vouldras user destrampe le aveq de la<lb/>
+<div>
+<cont/>
+<id>p078v_4</id>
+<ab>quand tu en vouldras user destrampe le aveq de la<lb/>
 <m>colle</m> bien clere &amp; puys tu le coucheras surce q{ue} tu<lb/>
 vouldras par deux ou trois foys &amp; puys le laisse<lb/>
 secher mais avant q{ue} le <sup>bronze</sup>coucher, couche y une couche<lb/>
 de <m>colle</m> bien claire &amp; le laisse seches &amp; frotte lad{icte}<lb/>
-bronze aveq ung <m>dan de loup</m> ou <m><sup>dan</sup>de chien</m><lb/></ab>
+bronze aveq ung <m>dan de <al>loup</al></m> ou <m>de <al>chien</al></m></ab>
 </div>
 
 
@@ -23,7 +22,7 @@ bronze aveq ung <m>dan de loup</m> ou <m><sup>dan</sup>de chien</m><lb/></ab>
 <ab>
 Prends de la mouller du <m>grais</m> ___ ___ ___ de<lb/> 
 la limaille de <m>fer</m> de la feraille de l<m>alung</m> du noyr<lb/>
-de courronne de la <m>coperose</m> de l<m>alung de Glace</m><lb/></ab>
+de courronne de la <m>coperose</m> de l<m>alung de Glace</m></ab>
 </div>
 
 
@@ -34,14 +33,14 @@ yeux</head>
 
 
 <ab>
-Prenes de la <m>coupperose blanche</m> &amp; la faictes chau[illeg]fer<lb/>
+Prenes de la <m>coupperose blanche</m> &amp; la faictes chau<add>s</add>fer<lb/>
 un petict sur de foeu puys le mectes en pouldre dedans<lb/>
 un drappeau blanc bien estendu sur un verre bien nect<lb/>
 &amp; la pouldre dess{us} puys prenes de l<m>eau de fontayne</m> &amp;<lb/>
 la faictes passer sur led{ict} drappeau en Remuant du doigt<lb/>
 lad{ict} pouldre faict quelle soit toute passe puys en lautre<lb/>
 vos yeux a toute heure q{ue} vous vouldres &amp; aveq layd<lb/>
-de dieu vous vous en trouveres fort bien<lb/></ab>
+de dieu vous vous en trouveres fort bien</ab>
 </div>
 
 
@@ -55,4 +54,8 @@ Prenes six onces d<m>estaing</m> cacides &amp; aultant de <m>sousfre<lb/>
 vif</m> &amp; six onces de <m>sel armoniac</m> et mectes l<m>estaing</m><lb/>
 fondre dedans une cuilliere quand Il sera fondu mectes<lb/>
 l<m>argent vif</m> dedans puys le gectes en ligne puys<lb/>
-pilles toutes ses drogues ensemble dedans ung mortier &amp;<lb/></root>
+pilles toutes ses drogues ensemble dedans ung mortier &amp;</ab>
+
+
+<cont/>
+</div></root>

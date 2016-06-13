@@ -1,8 +1,6 @@
 <root>﻿<page>087v</page> 
 <image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f180.image</image>
 
-
-</div>
 <div>
 <id>p087v_a1</id>
 <head><m>Sable</m> <m>ardoise</m> et <m>terre</m> bruslee</head>
@@ -12,8 +10,8 @@
 &amp; moule net apres il est vray que souvent elle soufle co{mm}e faict<lb/>
 aussy la <m>terre</m> bruslee co{mm}e faict aussy tout <m>sable</m> gras</ab>
  
-<note>
-<margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
+<ab>
+<margin>left-top</margin>
 Je trouve quil ne fault<lb/>
 poinct frapper sur les <m>sables</m> fort subtilies<lb/>
 car cela les estonne &amp; <del>faict</del> empesche de<lb/>
@@ -21,7 +19,7 @@ despouiller nect<lb/>
 Mays il fault<lb/>
 presser fort<lb/>
 et les humecter<lb/>
-asses</note>
+asses</ab>
 
 
 </div>
@@ -38,7 +36,7 @@ Et en font provision pour tout lan dans un barriquet</ab>
 </div>
 <div>
 <id>p087v_a3</id>
-<head><m>Sable</m> de mine de Th{ou}l{ous}e</head>
+<head><m>Sable</m> de mine de <pl>Th{ou}l{ous}e</pl></head>
 
 
 <ab>Le <m>sable</m> de gect venant de mine estant passe par un double<lb/>
@@ -52,14 +50,14 @@ pasteux ains en pouldre Je le trouvay de fort bonne despouille<lb/>
 bien recuit &amp; a laise</ab>
  
 <ab>Aultres le battent fort dans un mortier en petite quantite a<lb/>
-chasque fois &amp; ainsy il sacache et rend fort subtil puys le recuisent<lb/>
+chasque fois &amp; ainsy il sarache et rend fort subtil puys le recuisent<lb/>
 mediocrement seulement pour le secher apres ils le broyent a sec<lb/>
 sur le <m>porphire</m> Et ainsy il se rend co{mm}e impalpable Et nest pas trop<lb/>
 deseiche <del>Il</del> et retient corps &amp; liaison de la terre dont il participe<lb/>
 Et est mieulx que quand il est tant brusle Estant humecte avecq<lb/>
 <m>glaire doeuf</m> passe par l<m>esponge</m> il despouille <del>fort net M</del> fort<lb/>
 net en bas relief Mays non pas figures fort relevees Parta{n}t<lb/>
-despuys jexperimentay de <del>[lexper]</del> lhumecter seulem{ent} avecq du<lb/>
+despuys jexperimentay de <del>lexper</del> lhumecter seulem{ent} avecq du<lb/>
 <m>vinaigre</m> bien fort Il despoilla dune figure quauparavant<lb/>
 je navoys peu faire despoiller Et croy que moillant le plus<lb/>
 subtil dune fasson co{mm}e de <m>glaire</m> &amp; le grossier pour remplir de<lb/>
@@ -67,11 +65,11 @@ chasses d<m>eau</m> <m>sel</m> ou <m>vin</m> quilz ne sallient pas si bien Mays<
 co{mm}e ils sont dune nature &amp; humectes de mesme Ils sembrassent<lb/>
 &amp; tient lun avecq laultre</ab>
  
-<ab>Pour bien mouler apres avoyr tes <m>sables</m> præpares<lb/>
+<ab>@ Pour bien mouler @ apres avoyr tes <m>sables</m> præpares<lb/>
 moule en un jour recuits lentem{ent} le lendemain puys jectes laultre</ab>
  
-<note>
-<margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
+<ab>
+<margin>left-middle</margin>
 Il le fault choisir<lb/>
 qui soict <del>co{mm}e</del> en<lb/>
 glebes &amp; mottes<lb/>
@@ -79,10 +77,10 @@ bien bas en terre car<lb/>
 co{mmun}ement celuy qui se<lb/>
 trouve en hault participe trop de<lb/>
 la terre Et le bas<lb/>
-tient du rocher</note>
+tient du rocher</ab>
  
-<note>
-<margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
+<ab>
+<margin>left-middle</margin>
 Jen ay moule de<lb/>
 <m>plomb pur</m> gecte fort<lb/>
 <del>net</del> chault &amp; en ay<lb/>
@@ -92,4 +90,5 @@ mays le <m>vinaigre</m><lb/>
 ne luy donne gueres<lb/>
 de liaison &amp; ainsy<lb/>
 il nha soustenu<lb/>
-quun gect</note></root>
+quun gect</ab>
+</div></root>

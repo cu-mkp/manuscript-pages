@@ -1,5 +1,7 @@
 <root>﻿<page>046v</page>
 <image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f98.image</image>
+
+
 <div>
 <id>p046v_1</id>
 <head>Escrivain <m>huile de soufre</m></head>
@@ -28,8 +30,8 @@ pour aulcune labeure Urb</ab>
 <div>
 <id>p046v_3</id>
 <head>Effacer l{ett}re</head>
-<ab>
-Trempe une plume a escripre dans <m>huile de soufre</m> recent<lb/>
+
+<ab>Trempe une plume a escripre dans <m>huile de soufre</m> recent<lb/>
 &amp; bon &amp; resuicts ainsy avecq la plume trempee toutes les l{ettr}es<lb/>
 &amp; elles seffaceront sur parchemin Urb</ab>
 </div>
@@ -38,17 +40,17 @@ Trempe une plume a escripre dans <m>huile de soufre</m> recent<lb/>
 <div>
 <id>p046v_4</id>
 <head>Escripre sans <m>ancre</m></head>
-<ab>
-Escripts avecq <m>huile de soufre</m> &amp; chaufe &amp; la l{ett}re<lb/>
-deviendra noire comme ceste cy Urb
-</ab>
+
+
+<ab>Escripts avecq <m>huile de soufre</m> &amp; chaufe &amp; la l{ett}re<lb/>
+deviendra noire comme ceste cy Urb</ab>
 </div>
 
 
 <div>
 <id>p046v_5</id>
 <head>Faire l{ett}re a jour sur <m>papier</m><lb/>
-et aultre ouvrage </head>
+et aultre ouvrage</head>
 
 
 <ab>
@@ -56,23 +58,25 @@ Si tu escripts <del>d</del> ou trasse quelque chose sur le <m>papier</m><lb/>
 &amp; le chaufes bien tost &amp; incontinent il deviendra noir<lb/>
 puys frottant avecq une esponge la l{ett}re se trouvera<lb/>
 couppee pourcequelle sera bruslee Urb Ou bien resuicts<lb/>
-la l{ett}re avecq une plume <del><del>de</del></del> essuicte</ab>
+la l{ett}re avecq une plume <del>de</del> essuicte</ab>
 </div>
 
 
 <div>
-<id>p046v_6</id>t<head>Faire brusler les bottes a quelquu{n}</head>
-<ab>
-Frottes de l<m>huile<sup> de soufre</sup></m> susdicte &amp; co{mm}e il se chaufera elle<lb/>
-se brusleront sans flamme Urb
-</ab>
+<id>p046v_6</id>
+<head>Faire brusler les bottes a quelquu{n}</head>
+
+
+<ab>Frottes de l<m>huile</m> susdicte &amp; co{mm}e il se chaufera elle<lb/>
+se brusleront sans flamme Urb</ab>
 </div>
 
 
 <div>
 <id>p046v_7</id>
 <head>Sur <m>pierre</m> l{ett}re noire</head>
-<ab>
-Le mesme <m>huile<sup> de soufre</sup></m> sur des l{ett}res grauvees en <m>pierre</m> &amp; chaufe<lb/>
+
+
+<ab>Le mesme <m>huile</m> sur des l{ett}res grauvees en <m>pierre</m> &amp; chaufe<lb/>
 vient noir &amp; penetre</ab>
 </div></root>

@@ -1,17 +1,14 @@
-<root>﻿#ERROR:_Number_of_<div>_and_</div>_unbalanced#
-
-
-<page>060r</page>
+<root>﻿<page>060r</page>
 <image>http://gallica.bnf.fr/ark:/12148/btv1b9059316c/f125.item</image>
 
 
+<div>
+<cont/>
 <id>p059v_6</id>
-
-
-<ab>et affin qu’elle ne s’esclatte, mesles y peu d’<m>huile</m> parmy &amp; les<lb/>
+<ab>et affin qu'elle ne s'esclatte, mesles y peu d'<m>huile</m> parmy &amp; les<lb/>
 fais fondre ensemble &amp; en remplis les fentes &amp; les unis, puys<lb/>
-pains dessus. Et l’<m>huile</m> meslé parmy la cire fera mieulx<lb/>
-recepvoir la couleur qui est aussi destrempée à l’<m>huile</m>.</ab></div>
+pains dessus. Et l'<m>huile</m> meslé parmy la cire fera mieulx<lb/>
+recepvoir la couleur qui est aussi destrempée à l'<m>huile</m>.</ab></div>
 
 
 <div>
@@ -25,7 +22,7 @@ en telle sorte comme si tu voulois poncer, &amp; laisse seicher. Et<lb/>
 reitere jusques à deulx ou trois fois, puys avecq un cousteau<lb/>
 unis bien la derniere assiete, <add>puys donne dessus une main de <m>colle</m></add>, sur laquelle tu pourras aprés<lb/>
 faire ton impression puys paindre. Mays garde que<lb/>
-ton premier <m>blanc</m> ne soict pas trop espés, car il s’esclatteroit<lb/>
+ton premier <m>blanc</m> ne soict pas trop espés, car il s'esclatteroit<lb/>
 volontiers. Les painctres flamens font faire à douzaine tels tableaux.</ab></div>
 
 
@@ -34,9 +31,9 @@ volontiers. Les painctres flamens font faire à douzaine tels tableaux.</ab></di
 <head>Labeur net</head>
 
 
-<ab>Quand tu travailles garde bien de n’exciter poinct de<lb/>
+<ab>Quand tu travailles garde bien de n'exciter poinct de<lb/>
 poulsiere, &amp; quand tu laisses ton labeur couvre le affin que<lb/>
-ladicte pouldre n’i tumbe. Couche aussy tes couleurs les moings<lb/>
+ladicte pouldre n'i tumbe. Couche aussy tes couleurs les moings<lb/>
 espesses que tu pourras, car si elles sont espesses tu ne pourras pas<lb/>
 bien adoulcir.</ab></div>
 
@@ -48,18 +45,18 @@ bien adoulcir.</ab></div>
 <head><m>Huile</m></head>
 
 
-<ab>L’<m>huile de noix</m> tiré co{mm}e les <m>amendes pelées</m> est fort blanc<lb/>
-<sup>comme</sup> celuy de <m>palma christi</m>. Et quand l’<m>huile</m> a un peu de corps,<lb/>
-les couleurs s’en adoulcissent. Car si l’<m>huile</m> est trop cler, les<lb/>
-couleurs coulent &amp; n’on<sup>t</sup> poinct de liaison, mesmes celles qui n’ont<lb/>
-gueres de corps. L’<m>huile</m> gras qui ne s’emboict pas aysem{ent}<lb/>
-est propre pour vernis. L’<m>huile</m> est assés desiccatif quand il<lb/>
+<ab>L'<m>huile de noix</m> tiré co{mm}e les <m>amendes pelées</m> est fort blanc<lb/>
+<sup>comme</sup> celuy de <m>palma christi</m>. Et quand l'<m>huile</m> a un peu de corps,<lb/>
+les couleurs s'en adoulcissent. Car si l'<m>huile</m> est trop cler, les<lb/>
+couleurs coulent &amp; n'on<sup>t</sup> poinct de liaison, mesmes celles qui n'ont<lb/>
+gueres de corps. L'<m>huile</m> gras qui ne s'emboict pas aysem{ent}<lb/>
+est propre pour vernis. L'<m>huile</m> est assés desiccatif quand il<lb/>
 se deseche aussy tost que vernis commun. Les <m>huiles</m> ne se desechent<lb/>
-pas si tost en pays froit qu’en pays chault. L’<m>huile</m> exposé au soleil<lb/>
-s’esclarcist bien, mays il s’engraisse si<lb/>
+pas si tost en pays froit qu'en pays chault. L'<m>huile</m> exposé au soleil<lb/>
+s'esclarcist bien, mays il s'engraisse si<lb/>
 tu y mects de la <m>ceruse</m> ou du <m>plomb</m> limé ou <m>blanc de plomb</m><lb/>
 ou <m>verre</m> calciné pulverisé. Pour eviter cela, mects la<lb/>
-phiole dans de l’<m>eau claire</m>.</ab>
+phiole dans de l'<m>eau claire</m>.</ab>
 
 
 <ab>Les <m>couleurs à huile</m> estant seiches ne reçoivent pas aysem{ent} quelque foys<lb/>
@@ -78,7 +75,7 @@ ains carnation<lb/>
 sur carnation &amp;<lb/>
 ainsy des aultres.<lb/>
 Et laisse vuide le lieu de<lb/>
-l’umbre ou de la<lb/>
+l'umbre ou de la<lb/>
 differente couleur.<lb/>
 En ceste sorte,<lb/>
 couchant chasque<lb/>

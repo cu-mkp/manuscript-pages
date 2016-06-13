@@ -2,7 +2,6 @@
 <image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f159.image</image>
 
 
-</div>
 <div>
 <id>p077r_a1</id>
 <head>Contre les rougeurs du visage</head>
@@ -12,13 +11,14 @@
 secret Essaye un masque de <m>plomb</m></ab>
  
 </div>
+
 <div>
 <id>p077r_a2</id>
 <head><m>Medecine</m> des Orientaulx contre<lb/>
 toutes maladies</head>
 
 
-[image]
+<figure/>
 
 
 <ab>Fais secher du <m>rosmarin</m> au moys de may puys emplis ce godet<lb/>
@@ -29,6 +29,7 @@ aussy le nes Contre morfondiments rheumes &amp; aultres malladies</ab>
 
 
 </div>
+
 <div>
 <id>p077r_a3</id>
 <head><m>Terre graisse</m></head>
@@ -40,9 +41,10 @@ secher a lombre peu a peu &amp; a long temps Et en moulent fort net<lb/>
 Mays il ne fault pas quelle soit <m>arene</m>use <del>&amp;</del> ains bien choisie &amp; doulce</ab>
  
 </div>
+
 <div>
 <id>p077r_a4</id>
-<head>Recepte pour faire <m>bronze</m> et <m>vernys</m> de<lb/>
+<head>@ Recepte pour faire <m>bronze</m> et <m>vernys</m> de<lb/>
 plusieurs sortes</head>
 
 
@@ -52,4 +54,8 @@ au{tr}e piece</ab>
 
 
 <ab>Premierement tu prandras Cinq onces d<m>eau de vye</m> et une once<lb/>
-de <m>betjoin</m> pillez entre deux <m>pappier</m>s ou <m>carte</m>s ou en ung mortier</ab></root>
+de <m>betjoin</m> pillez entre deux <m>pappier</m>s ou <m>carte</m>s ou en ung mortier</ab>
+
+
+<cont/>
+</div></root>

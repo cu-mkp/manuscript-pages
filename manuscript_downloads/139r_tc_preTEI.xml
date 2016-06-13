@@ -1,8 +1,10 @@
-<root>﻿<page>139r</page> 
+<root>﻿#ERROR:_Number_of_<div>_and_</div>_unbalanced#
+
+
+<page>139r</page> 
 <image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f283.image</image>
 
 
-</div>
 <div>
 <id>p139r_a1</id>
 <head>Gect de <m>plomb</m> et d<m>estain</m></head>
@@ -59,7 +61,7 @@ use doncq<lb/>
 du neuf</note>
 
 
-<image>[image]</image>
+<figure><margin>left-top</margin>+</figure>
 
 
 <note>
@@ -105,4 +107,8 @@ le <m>plomb</m> sur<lb/>
 un <m>carton</m> presse<lb/>
 dessus avecq<lb/>
 laultre <m>carton</m><lb/>
-adapte</note></root>
+adapte</note>
+
+
+<cont/>
+</div></root>

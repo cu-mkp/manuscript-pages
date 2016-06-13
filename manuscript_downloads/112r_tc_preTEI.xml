@@ -1,8 +1,6 @@
 <root>﻿<page>112r</page> 
 <image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f229.image</image>
 
-
-</div>
 <div>
 <id>p112r_a1</id>
 <head>Pour destremper le <m>sable</m></head>
@@ -99,4 +97,8 @@ moule</note>
 <note>
 <margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
 Les serpents deau<lb/>
-mordent gueres</note></root>
+mordent gueres</note>
+
+
+<cont/>
+</div></root>

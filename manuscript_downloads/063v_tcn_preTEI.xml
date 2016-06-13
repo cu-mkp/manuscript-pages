@@ -1,11 +1,5 @@
-<root>﻿#ERROR:_Number_of_<image>_and_</image>_unbalanced#
-
-
-#ERROR:_Number_of_<m>_and_</m>_unbalanced#
-
-
-<page>063v</page>
-<image>http://gallica.bnf.fr/ark:/12148/btv1b9059316c/f132.item<image>
+<root>﻿<page>063v</page>
+<image>http://gallica.bnf.fr/ark:/12148/btv1b9059316c/f132.item</image>
 <div>
 <id>p063v_1</id>
 
@@ -43,8 +37,8 @@ pour faire armes.</ab>
 <head><m>Scudegrun</m></head>
 
 
-<ab>Se faict avecq de la <m>fleur de genest<m> fort bouillié<lb/>
-dans de l’<m>eau</m>, y mettant suffisament de l’<m>alum</m>, puys<lb/>
+<ab>Se faict avecq de la <m>fleur de genest</m> fort bouillié<lb/>
+dans de l'<m>eau</m>, y mettant suffisament de l'<m>alum</m>, puys<lb/>
 de la <m>ceruse</m>.</ab>
 </div>
 
@@ -81,7 +75,7 @@ avecq <m>ferrée</m>.</ab>
 <head>Paysages de neiges</head>
 
 
-<ab>Il ne s’y employs que trois couleurs, le blanc, le noir,<lb/>
+<ab>Il ne s'y employs que trois couleurs, le blanc, le noir,<lb/>
 &amp; le <m>bistre</m>.</ab>
 </div>
 
@@ -94,7 +88,7 @@ avecq <m>ferrée</m>.</ab>
 
 
 <ab>Si tu as travaillé &amp; faict ton assiete de quelque couleur desiccative,<lb/>
-co{mm}e le mine, &amp; semblable, acheve d’adoulcir pendant que l’ouvrage est<lb/>
+co{mm}e le mine, &amp; semblable, acheve d'adoulcir pendant que l'ouvrage est<lb/>
 frais, car si tu attendois au lendemain, il seroit sec &amp; tu ne pourrois<lb/> 
 nettem{ent} achever.</ab>
 </div></root>

@@ -2,11 +2,10 @@
 <image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f14.image</image>
 
 
-</div>
 <div>
 <id>p004v_a1</id>
 <head><m>Vernis</m> <m>noir</m> pour garde<lb/>
-despee bandes de bahus {&amp;}c</head>
+despee bandes de bahus &amp;c</head>
 
 
 <ab>Prens <m>huile</m> <m>de</m> <m>lin</m> ou pour meilleur marche de l<m>huile</m><lb/>
@@ -24,7 +23,7 @@ quand tu verras quil ne fumera plus cest faict et ton<lb/>
 
 
 <note>
-<margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
+<margin>left-top</margin>
 Pour excellent <m>vernis</m><lb/> 
 <m>noir</m> mects deulx ou <lb/> 
 trois <m>patenostres</m> de<lb/>
@@ -32,13 +31,13 @@ trois <m>patenostres</m> de<lb/>
 
 
 <note>
-<margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
+<margin>left-top</margin>
 Aulcuns estiment <m>lhuile</m><lb/>
 <m>de noix</m> meilleur</note>
 
 
 <note>
-<margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
+<margin>left-top</margin>
 Sil y a quantite de<lb/>
 <m>vernis</m> il fault bien<lb/>
 quil bouille un demy jour Car il est<lb/>
@@ -54,7 +53,7 @@ descouvert</note>
 
 
 <note>
-<margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
+<margin>left-middle</margin>
 En cinq ou six lb. d<m>huile</m><lb/>
 on mect une lb. de <m>Galipot</m><lb/>
 qui coste 4 s{ols} &amp; des <m>gousses</m><lb/>
@@ -65,7 +64,7 @@ noircist au <m>foeu</m></note>
 
 
 <note>
-<margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
+<margin>left-middle</margin>
 Voy cy apres<lb/>
 vers la 3 partye<lb/>
 de ce livre apres les<lb/>
@@ -88,8 +87,8 @@ ou du <m>noir de lampe</m> &amp; sans foeu il se destrempe de soimesme<lb/>
 </div>
 <div>
 <id>p004v_a3</id>
-<head><m>Vernis</m> des <pro>graveurs sur le</pro><lb/>
-<pro>fer</pro></head>
+<head><m>Vernis</m> des <pro>graveurs sur le<lb/>
+fer</pro></head>
 
 
 <ab>Prens <m>huile de lin</m> ou <m>huile de noix</m> &amp; au lieu de <m>poix</m><lb/>
@@ -101,4 +100,6 @@ la poincte dacier ce que tu vouldras Apres ayes du <m>sel</m> &amp;<lb/>
 du <m>verdegris</m> &amp; le destrempe aultant dun que daultre<lb/>
 en <m>vinaigre</m> bien fort &amp; le laisse XX4 heures devant<lb/>
 quen user &amp; tout se destrempera Apres estens de ceste<lb/>
-liqueur ou saulce sur la chose gravee avecq une esponge</ab></root>
+liqueur ou saulce sur la chose gravee avecq une esponge</ab>
+<cont/>
+</div></root>

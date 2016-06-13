@@ -1,8 +1,6 @@
-<root>﻿<page>084r</page> 
+<root>﻿<page>084r</page>
 <image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f173.image</image>
 
-
-</div>
 <div>
 <id>p084r_a1</id>
 <head>Impromptu mask</head>
@@ -29,17 +27,20 @@
 <head><m>Flour</m></head>
 
 
-<ab>Ground during Advent lasts the whole year.</ab>
+<ab>Ground during <tmp>Advent</tmp> lasts the whole year.</ab>
  
 </div>
 <div>
 <id>p084r_a5</id>
-<head><m>Sand</m> from a Toulousain mine</head>
+<head><m>Sand</m> from a <pl>Toulousain</pl> mine</head>
 
 
-<ab><m>Toulousain</m> <m>sand</m>, which is harvested from the Côteau du Puy-David, deep down in the earth, is excellent on its own, but to make it sustain multiple castings, I mix it with pulverized and moistened <m>sandever</m>, which hardens it, holds well together with it, and enables as many castings as you like. Try to moisten the crushed <m>glass</m> and other sands with the <m>essences of the aforementioned salts</m>. Like all <m>natural sand</m>, it needs to be reheated well. Before putting it to use, one pulverises it, because it is in a lump, and then one reheats it in a <m>copper</m> boiler (or similar) until it ceases to smoke.</ab>
+<ab><m><pl>Toulousain</pl> sand</m>, which is harvested from the Côteau du Puy-David, deep down in the earth, is excellent on its own, but to make it sustain multiple castings, I mix it with pulverized and moistened <m>sandever</m>, which hardens it, holds well together with it, and enables as many castings as you like. Try to moisten the crushed <m>glass</m> and other sands with the <m>essences of the aforementioned salts</m>. Like all <m>natural sand</m>, it needs to be reheated well. Before putting it to use, one pulverises it, because it is in a lump, and then one reheats it in a <m>copper</m> boiler (or similar) until it ceases to smoke.</ab>
 
 
-<note>
-<margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
-It is necessary to reheat it before using it. It becomes better for casting because it is reheated, but when it has been used too much, it must be refreshed with new sand.</note></root>
+<ab>
+<margin>left-bottom</margin>
+It is necessary to reheat it before using it. It becomes better for casting because it is reheated, but when it has been used too much, it must be refreshed with new sand.</ab>
+
+
+</div></root>

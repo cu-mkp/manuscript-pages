@@ -1,10 +1,4 @@
-<root>﻿#ERROR:_Number_of_<note>_and_</note>_unbalanced#
-
-
-#ERROR:_Number_of_<m>_and_</m>_unbalanced#
-
-
-<page>137r</page>
+<root>﻿<page>137r</page>
 <image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f279.image</image>
 <div>
 <id>p137r_1</id>
@@ -24,7 +18,7 @@ le <m>cuivre</m> fort chault dans le moule qui soit aussy enflamme<lb/>
 quil sera asses chault quand il est uny clair &amp; luisant comme<lb/>
 un mirouer <del>de</del> d<m>acier</m> nouvellem{ent} poly ou co{mm}e l<m>argent</m> fondu<lb/>
 Garde le vent car aussy tost il se refroidist Arreste avecq<lb/>
-des estoupes <del><del>illegible</del></del>le gect pour garder quil ne se refroidisse<lb/>
+des estoupes <del>illegible</del>le gect pour garder quil ne se refroidisse<lb/>
 Le <m>cuivre rouge</m> vient plus net que le <m>laitton</m> qui ha<lb/>
 force fumee qui empeschent de courre Je lay moule en<lb/>
 noyau net co{mm}e le principal &amp; tanvre co{mm}e papier il faut<lb/>
@@ -45,7 +39,7 @@ duquel soict remply un pot<lb/>
 ou vaisseau</note>
 
 
-<head></m>Huile tingente</m> pour faire courre les metaux</head>
+<head><m>Huile tingente</m> pour faire courre les metaux</head>
 
 
 
@@ -56,7 +50,7 @@ P[rens] ☿ <m>sublime de <pl>venise</pl></m> vray &amp; non <m>arsenic</m> subl
 tout apart &amp; apres mesle le tout dans une bouteille de<lb/>
 verre &amp; mects sur cendres chauldes Tu verras que tout<lb/>
 se dissouldra co{mm}e cire faisant force couleurs Laisse<lb/>
-<del><del>tout</del></del> congeler &amp; mets en un peu  sur chasque metal &amp; il<lb/>
+<del>tout</del> congeler &amp; mets en un peu  sur chasque metal &amp; il<lb/>
 courra merveilleusem{ent}</ab>
 
 
@@ -83,7 +77,7 @@ fosse pour perdre tout</note>
 <head>Crampons</head>
 
 
-<ab>Il se font avecq les tenailles plattes de fil de </m>fer</m> recuit<lb/>
+<ab>Il se font avecq les tenailles plattes de fil de <m>fer</m> recuit<lb/>
 &amp; replye puys battu par les bouts sur lenclume Co{mm}e ilz sont<lb/>
 ainssy subtilies ils sont subgect a se brusler les metta{n}t souvent<lb/>
 dans ces moules a recuire Sers toy doncq des nouveaulx</ab>
@@ -92,4 +86,5 @@ dans ces moules a recuire Sers toy doncq des nouveaulx</ab>
 <note>
 <margin>left-bottom</margin>
 <figure/>
+</note>
 </div></root>

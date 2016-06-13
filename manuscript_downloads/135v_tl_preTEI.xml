@@ -1,8 +1,6 @@
 <root>﻿<page>135v</page> 
 <image> #ERROR:_INSERT_LINK# </image>
 
-
-</div>
 <div>
 <id>p135v_a1</id>
 <head>Casting <m>gold</m></head>
@@ -21,4 +19,8 @@ If you wish to cast some large work, or of important [dimensions], create at the
  
 <note>
 <margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
-One may cast two or three pounds of <m>gold</m>.</note></root>
+One may cast two or three pounds of <m>gold</m>.</note>
+
+
+<cont/>
+</div></root>

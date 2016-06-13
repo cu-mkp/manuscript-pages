@@ -1,22 +1,20 @@
-<root>﻿#ERROR:_Number_of_<div>_and_</div>_unbalanced#
-
-
-<page>078v</page>
+<root>﻿<page>078v</page>
 <image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f162.item</image>
 
 
 <div>
 <id>p078v_1</id>
-<head>Pour faire <m>bronze</m>
-couleur dassur</head>
+<head>Pour faire <m>bronze</m>couleur dassur</head>
+
+
 <ab>Prenes de <m>lalung de glace</m> &amp; <m>lanthimoyne</m><lb/>
 mais Il fault r deux foys aultant <m>dalung</m> de<lb/>
 glace q{ue} <m>danthimoyne</m> et and pille le tout ensemble<lb/>
 dedans ung mortier de <m>fer</m> &amp; puys destrampe aveq de<lb/>
 <m>eau de gomme</m> en le broiant sur ung <m>marbre</m> &amp;<lb/>
 puys en fault user aveq le pinceau &amp; appres laisser<lb/>
-seicher et puys le polir aveq ung <m>dan de loup</m> ou<lb/>
-<m><sup>dan</sup>de chien</m></ab>
+seicher et puys le polir aveq ung <m>dan de <al>loup</al></m> ou<lb/>
+<m>de <al>chien</al></m></ab>
 </div>
 
 
@@ -24,11 +22,13 @@ seicher et puys le polir aveq ung <m>dan de loup</m> ou<lb/>
 <id>p078v_2</id>
 <head>Pour faire <m>bronze</m> en 
 couleur dor</head>
+
+
 <ab>Prenes limailhe de <m>cuyvre</m> &amp; de <m>locre</m> &amp; de la</lb>
 <m>gomme</m> &amp; <m>lalung</m> &amp; broye le tout ensemble dedans</lb>
 ung mortier de <m>pierre</m> et quand Il sera bien broye</lb>
 tu le coucheras sur la besongue aveq ung pinceau</lb>
-puys le polliras aveq ung <m>dan de loup</m> ou<lb/><m><sup>dan</sup>de chien</m></ab>
+puys le polliras aveq ung <m>dan de <al>loup</al></m> ou<lb/><m>de <al>chien</al></m></ab>
 </div>
 
 
@@ -36,9 +36,11 @@ puys le polliras aveq ung <m>dan de loup</m> ou<lb/><m><sup>dan</sup>de chien</m
 <id>p078v_3</id>
 <head>Pour faire <m>os</m> ou <m>corne</m> 
 verd</head>
+
+
 <ab>Prenes <m>verd de gris</m> &amp; le destrampe aveq fort <m>vinaigre</m></lb>
 puys fais tramper ton <m>os</m> ou <m>corne</m> une heure &amp;</lb>
-puys le mectz en besoigne</ab>
+puys le mectz en besoigne</ab></div>
 
 
 <div>
@@ -47,4 +49,8 @@ puys le mectz en besoigne</ab>
 <ab>Prenes Limailhe d<m>espaingle</m> &amp; au{ltr}e de <m>leton</m> &amp; la</lb>
 mectz ensemble &amp; le broyer sur ung <m>marbre</m> bien broyez</lb>
 aveq de leau peu a peu Jusques ace q{uil}z soient distilez</lb>
-puys la mectz dedans q{ue}lque vaisseau noeuf Et</root>
+puys la mectz dedans q{ue}lque vaisseau noeuf Et</ab>
+
+
+<cont/>
+</div></root>

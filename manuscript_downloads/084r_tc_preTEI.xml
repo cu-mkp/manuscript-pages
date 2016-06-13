@@ -2,7 +2,7 @@
 <image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f173.image</image>
 
 
-</div>
+
 <div>
 <id>p084r_a1</id>
 <head>Masque in promptu</head>
@@ -10,11 +10,11 @@
 
 <ab>Moule du <m>papier</m> &amp; le pose sur le visaige de quelqun qui fasse<lb/>
 laide grimace laisse seicher &amp; prens ton patron pour<lb/>
-paindre de la<lb/>
+paindre de la</ab>
 
 
 <ab># &amp; enleveures Il ne fault pas aussy quil soit trop humide<lb/>
-pour les raisons susdictes  Recuits le aussy peu a peu Et si apres<lb/>
+pour les raisons susdictes  Recuits le aussy peu <add>a peu</add> Et si apres<lb/>
 lavoir moule tu le laissois seicher lentem{ent} en quelque lieu sec<lb/>
 &amp; non a grand foeu il seroit mieulx Car quand on lexpose<lb/>
 tout a coup a grande chaleur il  senvele Je croy que le recuire<lb/>
@@ -37,7 +37,7 @@ il est si subtil</ab>
 <ab>Fais dissouldre le <m>sel gemme</m> ou <del>sel</del> <m>suin de verre</m> subtilem{ent}<lb/>
 pulverise &amp; mis sur un mabre dans une cave &amp; il se desseichera<lb/>
 en recuisant le moule &amp; luy donnera une liaison pour soubstenir<lb/>
-plusieurs gects Essaye de humecter avecq <m>huile de tartre</m></ab>
+plusieurs gects @ Essaye de humecter avecq <m>huile de tartre</m></ab>
  
 </div>
 <div>
@@ -45,28 +45,28 @@ plusieurs gects Essaye de humecter avecq <m>huile de tartre</m></ab>
 <head><m>Farine</m></head>
 
 
-<ab>Moulue aulx advents de Noel se garde tout lan</ab>
+<ab>Moulue aulx <tmp>advents de Noel</tmp> se garde tout lan</ab>
  
 </div>
 <div>
 <id>p084r_a6</id>
-<head><m>Sable</m> de mine de Th{ou}l{ous}e</head>
+<head><m>Sable</m> de mine de <pl>Th{ou}l{ous}e</pl></head>
 
 
-<ab>Le <m>sable</m> de Th{ou}l{ous}e qui se prend au costau de puy david bien<lb/>
+<ab>Le <m>sable</m> de <pl>Th{ou}l{ous}e</pl> qui se prend au costau de puy david bien<lb/>
 profond en terre est excellent de soymesme Mays pour luy faire<lb/>
 soubstenir plusieurs gects Je le mesle avecq le <m>suin de verre</m> pulverise<lb/>
 &amp; humecte qui lendurcist &amp; prend corps &amp; liaison avecq luy &amp; luy<lb/>
 faict soubstenir <del>plus de cinq</del> tant de gects que tu vouldras<lb/>
-Essaye de humecter le <m>verre</m> pile et aultres s<del>e</del>ables<lb/>
+@ Essaye de humecter le <m>verre</m> pile et aultres s<del>e</del>ables<lb/>
 avecq les <m>eaulx</m> <m>des susdicts sels</m> Il veult estre co{mm}e tout <m>sable</m> naturel<lb/>
 bien recuit plustost que le mectre en oeuvre On le pulverise pource quil est en motte<lb/>
 puys on le recuist dans une chauldiere de cuivre ou semblable jusquees a ce quil<lb/>
-[ne] fume plus</ab>
+<sup>ne</sup> fume plus</ab>
 
 
-<note>
-<margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
+<ab>
+<margin>left-bottom</margin>
 Il le fault<lb/>
 recuire plus<lb/>
 tost que sen<lb/>
@@ -79,4 +79,7 @@ quand il ha<lb/>
 beaucoup servy<lb/>
 il le fault<lb/>
 rafreschir avecq<lb/>
-du nouveau</note></root>
+du nouveau</ab>
+
+
+</div></root>

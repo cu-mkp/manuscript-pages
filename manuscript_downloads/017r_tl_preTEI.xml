@@ -1,8 +1,7 @@
-<root>﻿#ERROR:_Number_of_<div>_and_</div>_unbalanced#
-
-
-<page>017r</page>
+<root>﻿<page>017r</page>
 <image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f39.image</image>
+
+
 <div>
 <id>p017r_1</id>
 
@@ -11,12 +10,12 @@
 
 
 <ab>
-Cannon has a range of five to six hundred paces, but for battery, the range is a maximun of two or three hundred paces to be effective. It should not be any farther. Its canonball usually weights 40 lb of the King’s standard. The fowler weighs 25 quintals and is a small, short cannon for fighting moat’s cassemattes and for close range. It shoots large cannonballs that weigh, like the others, 40 lb of the King’s standard. The breech is two bullets and a quarter thick; the mouth is one bullet and a third thick. Its load is similar to the biggest ones, that is to say 20 pounds. And if you want to try it, don’t overload it, for it would damage it. And the first time and  the first five or six shots, it is better not to load it completely, it adjusts itself. What one can do in such a case, is to load 20 pounds of fine arquebus <m>powder</m> instead of ordinary cannon <m>powder</m>. And four good <m>horses</m> are enough to carry it. They are easy to use and on a small distance they are as strong as the big ones even for private houses and small billattes and less important fortresses. They are less prone to breaking than the other [cannons] because they are short. What gives strength to the <m>powder</m> and increases the danger of breaking is the length of the cannon, because the <m>powder</m> burns entirely and its force is held longer within the longer cannon than the short one. The fowler is usually seven to eight pans long. It is true that this measure is a <pl>Montpellier</pl> pan and not a King’s pan, the latter is not used for good cannon founding. Since the <pl>Montpellier</pl> pan is shorter, canons made using this measure are shorter, but compensate in thickness the ones made using the King’s pan, which are longer, but more fragile. The Fowler’s strength for battery is 80 pans.</ab>
+Cannon has a range of five to six hundred paces, but for battery, the range is a maximun of two or three hundred paces to be effective. It should not be any farther. Its canonball usually weights 40 lb of the King's standard. The fowler weighs 25 quintals and is a small, short cannon for fighting moat's cassemattes and for close range. It shoots large cannonballs that weigh, like the others, 40 lb of the King's standard. The breech is two bullets and a quarter thick; the mouth is one bullet and a third thick. Its load is similar to the biggest ones, that is to say 20 pounds. And if you want to try it, don't overload it, for it would damage it. And the first time and  the first five or six shots, it is better not to load it completely, it adjusts itself. What one can do in such a case, is to load 20 pounds of fine arquebus <m>powder</m> instead of ordinary cannon <m>powder</m>. And four good <m>horses</m> are enough to carry it. They are easy to use and on a small distance they are as strong as the big ones even for private houses and small billattes and less important fortresses. They are less prone to breaking than the other [cannons] because they are short. What gives strength to the <m>powder</m> and increases the danger of breaking is the length of the cannon, because the <m>powder</m> burns entirely and its force is held longer within the longer cannon than the short one. The fowler is usually seven to eight pans long. It is true that this measure is a <pl>Montpellier</pl> pan and not a King's pan, the latter is not used for good cannon founding. Since the <pl>Montpellier</pl> pan is shorter, canons made using this measure are shorter, but compensate in thickness the ones made using the King's pan, which are longer, but more fragile. The Fowler's strength for battery is 80 pans.</ab>
 
 
 <note> 
 <margin>left-top</margin>
-The great cannon, because of its cannonball’s weight, ranges not further than a thousand or twelve hundred paces without landing, and usually makes 3 jumps.</note>
+The great cannon, because of its cannonball's weight, ranges not further than a thousand or twelve hundred paces without landing, and usually makes 3 jumps.</note>
 
 
 <note> 
@@ -26,20 +25,22 @@ Fowlers have only a short range efficiency.</note>
 
 <note> 
 <margin>left-middle</margin>
-You recognize a cannon’s good alloy when you see it. If there is green color on the surface becomes red, it means they are made of a sufficient quantity of rosette.  Otherwise, the cannon’s metal will appear whitish. If you don’t see it, just scratch it and you will see it. </note>
+You recognize a cannon's good alloy when you see it. If there is green color on the surface becomes red, it means they are made of a sufficient quantity of rosette.  Otherwise, the cannon's metal will appear whitish. If you don't see it, just scratch it and you will see it. </note>
 
 
 <note> 
 <margin>left-bottom</margin>
-The good alloy for the cannon is three pans of rosette and one of big bells’ fine metal, where there is more rosette than in small bells’ metal. This metal usually costs 15 pounds and fine rosette 15 or 16.</note>
+The good alloy for the cannon is three pans of rosette and one of big bells' fine metal, where there is more rosette than in small bells' metal. This metal usually costs 15 pounds and fine rosette 15 or 16.</note>
 
 
 <note> 
 <margin>left-bottom</margin>
-<pl>Montpellier</pl> pan is equivalent to six King’s inches, which is equivalent to two ordinary. </note>
+<pl>Montpellier</pl> pan is equivalent to six King's inches, which is equivalent to two ordinary. </note>
 
 
 <note> 
 <margin>bottom</margin>
 To level a cannon properly, one needs to have the mouth as high as the breech. Otherwise, you do not aim well.
-</note></root>
+</note>
+<cont/>
+</div></root>

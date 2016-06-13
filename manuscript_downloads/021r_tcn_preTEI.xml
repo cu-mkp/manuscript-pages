@@ -1,4 +1,4 @@
-<root>﻿f<page>021r</page>
+<root>﻿<page>021r</page>
 <image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f47.image</image>
 
 
@@ -10,16 +10,16 @@
 
 
 <ab>Aulx petites pieces qui ne se chargent poinct avec lanterne, on<lb/>
-charge de <m>pouldre</m> jusques à l’escusson qui se pose sur la piece avecq<lb/>
+charge de <m>pouldre</m> jusques à l'escusson qui se pose sur la piece avecq<lb/>
 deue proportion.</ab>
 
 
-<ab>Pour poincter ung canon, c’est à dire prendre sa visée, il fault plustost<lb/>
-prendre la lumiere, c’est à dire viser par les costés que par le hault,<lb/>
+<ab>Pour poincter ung canon, c'est à dire prendre sa visée, il fault plustost<lb/>
+prendre la lumiere, c'est à dire viser par les costés que par le hault,<lb/>
 scavoir est au dessus du canon. Car mirant par le dessus tu pourras<lb/>
 bien trouver la ligne tendant à ton but. Mays tu ne trouverois pas<lb/>
-si le canon tend plus à un costé qu’à aultre Prens doncq ta lumiere<lb/>
-par un costé, puys par l’autre &amp; adjouste ta piece au poinct que tu<lb/>
+si le canon tend plus à un costé qu'à aultre Prens doncq ta lumiere<lb/>
+par un costé, puys par l'autre &amp; adjouste ta piece au poinct que tu<lb/>
 mire. Puys, prens ta lumiere par le dessus de la culasse, ce qui<lb/>
 sera bien tost faict. Aprés, fais à ta discretion baisser un peu<lb/>
 ta piece si tu es en distance de vraye portée, pour ce que la force<lb/>
@@ -33,10 +33,10 @@ considerer que la poisanteur de la balle feroit baisser.</ab>
 <id>p021r_2</id>
 
 
-<head>Pour tirer de nuict d’un canon</head>
+<head>Pour tirer de nuict d'un canon</head>
 
 
-<ab>Aulcuns tiennent leurs pieces chargées <del><del>Et</del></del> de jour. Puys<lb/>
+<ab>Aulcuns tiennent leurs pieces chargées <del>Et</del> de jour. Puys<lb/>
 affin que le <pro>canonnier</pro> puysse tirer à la bresche ou peult estre<lb/>
 les assaillants reparent, les assiegeants donnent une faulse<lb/>
 alarme affin que les assiegés jectent dans les fossés ou<lb/>
@@ -49,19 +49,20 @@ fortes chevilles de <m>fer</m> deulx ou trois rengs de tables sur la<lb/>
 platteforme de <m>bois</m> faicte pour mectre le canon en batterie.<lb/>
 Et laissent des coches vuides par où les roues du canon<lb/>
 puissent passer justem{ent}. Et par ce moyen tu le poseras<lb/>
-tousjours à <del><del>tu</del></del> semblable <del><del>q</del></del> poinct qu’il n’inclinera poinct<lb/>
-dadva{n}taige à droicte qu’à la gaulche. Et affin qu’il ne soit<lb/>
+tousjours à <del>tu</del> semblable <del>q</del> poinct qu'il n'inclinera poinct<lb/>
+dadva{n}taige à droicte qu'à la gaulche. Et affin qu'il ne soit<lb/>
 ne trop hault ne trop bas, quand tu tires de jour tu poses<lb/>
 une regle bien fichée en terre qui vienne justem{ent} à toucher par<lb/>
-bas le bort du canon, aprés qu’il est poincté &amp; adjouste pour tirer.</ab>
+bas le bort du canon, aprés qu'il est poincté &amp; adjouste pour tirer.</ab>
 
 
-<note>
+<ab>
 <margin>left-bottom</margin>
 Si la platteforme,<lb/>
 les roues ou les<lb/>
 coings se rompent<lb/>
 ou desbauchent,<lb/>
-ceste invention n’est<lb/>
-pas de proffict.</note>
+ceste invention n'est<lb/>
+pas de proffict.</ab>
+<cont/>
 </div></root>

@@ -1,14 +1,11 @@
-<root>﻿#ERROR:_Number_of_<id>_and_</id>_unbalanced#
-
-
-#ERROR:_Number_of_<div>_and_</div>_unbalanced#
-
-
-<page>076r</page>
+<root>﻿<page>076r</page>
 <image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f157.item</image>
 
 
-sy nen trouves Et en couvrir dicell{e} pouldre led{ict} boys<lb/> 
+<div>
+<cont/>
+<id>p075v_4</id>
+<ab>sy nen trouves Et en couvrir dicell{e} pouldre led{ict} boys<lb/> 
 Jusques a ce quil soit froid &amp; le feres Rebouillir &amp; en boulhant<lb/> 
 on verra sil sera asses noir ou non Et sil nest asses vous<lb/>
 prandres delad{icte} pouldre &amp; en mectes sur led{ict} boys en boulhant</ab>
@@ -43,7 +40,7 @@ Prenes une Carte d<m>urine vieilhe</m> et trois onces de <m>Garante</m><lb/>
 
 
 <div>
-</id>p076r_3</id>
+<id>p076r_3</id>
 <head>Pour le <sup><m>boys</m></sup>faire bleu</head>
 
 
@@ -72,6 +69,6 @@ de <m>sel armoniac</m> &amp; une de <m>lacque</m> &amp; faire comme des{sus}</ab
 
 <ab>
 Prenes <m>hurinne</m> comme dessus Et <m>Guesdre</m> deux onces &amp; une<lb/> 
-once de <m>fustict</m> Et deux <del><del>onces</del></del> dragmes de <m>sel armoniac</m> &amp; f{air}e<lb/> 
+once de <m>fustict</m> Et deux <del>onces</del> dragmes de <m>sel armoniac</m> &amp; f{air}e<lb/> 
 comme dessus</ab>
 </div></root>

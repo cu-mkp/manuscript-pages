@@ -1,14 +1,5 @@
-<root>﻿#ERROR:_Number_of_<image>_and_</image>_unbalanced#
-
-
-#ERROR:_Number_of_<del>_and_</del>_unbalanced#
-
-
-#ERROR:_Number_of_<m>_and_</m>_unbalanced#
-
-
-<page>063v</page>
-<image>http://gallica.bnf.fr/ark:/12148/btv1b9059316c/f132.item<image>
+<root>﻿<page>063v</page>
+<image>http://gallica.bnf.fr/ark:/12148/btv1b9059316c/f132.item</image>
 <div>
 <id>p063v_1</id>
 
@@ -16,14 +7,14 @@
 <head><m>Velours</m> et noirs</head>
 
 
-<ab>Il fault fault faire l<del>e</del>a <del><del>[milieu]</del></del> principalle couche <dem>d</del>fort<lb/>
+<ab>Il fault fault faire l<del>e</del>a <del>[milieu]</del> principalle couche <del>d</del>fort<lb/>
 obscure &amp; les plis &amp; rehaulssem{ents} de la meste fort esclercie<lb/>
 avecq du blanc &amp; sur les fins de son jour tu donnes un<lb/>
-traict blanc Pour <m>velours</m> bleu &amp; vert Tu<del><del>[rehaulsse]</del></del><lb/>
+traict blanc Pour <m>velours</m> bleu &amp; vert Tu<del>[rehaulsse]</del><lb/>
 <m>touches le renfoncem{ent} de</m> noir dos de peche qui est fort<lb/>
 noir Pour <m>laque</m> le noir de <m>charbon de pierre</m> qui<lb/>
 faict un noir rougeastre <add>sur <m>laque</m> pour velours</add> Le <m>charbon</m> commun faict<lb/>
-un noir blanchastre <del><del>[P]</del></del></ab>
+un noir blanchastre <del>[P]</del></ab>
 </div>
 
 
@@ -46,7 +37,7 @@ pour faire armes</ab>
 <head><m>Scudegrun</m></head>
 
 
-<ab>Se faict avecq de la <m>fleur de genest<m> fort bouillie<lb/>
+<ab>Se faict avecq de la <m>fleur de genest</m> fort bouillie<lb/>
 dans de l<m>eau</m> y mettant suffisament de l<m>alum</m> Puys<lb/>
 de la <m>ceruse</m></ab>
 </div>

@@ -1,12 +1,11 @@
 <root>﻿<page>125v</page> 
-<image> #ERROR:_INSERT_LINK# </image>
+<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f256.item.r=</image>
 
 
 </div>
 <div>
 <id>p125v_a1</id>
-<head>
-Viperes et serpens </head>
+<head>Viperes et serpens </head>
 
 
 <ab>
@@ -16,7 +15,7 @@ bien apparentes par tout le corps &amp; principallem[{ent}] sur la teste </lb>
 et soubs la gorge Elle ha la teste platte le museau rousset </lb>
 tendant a lincarnadin &amp; retrousse co{mm}e laspic cornu ou comme <del>un</del> </lb>
 le dessus du groin dun cochon Grosses machoueres Les yeulx </lb>
-fort pres du museau Et la gueule fort ouverte ou elle ha des </lb>
+fort pres du museau Et la gueule fort ouverte ou elle <add>ha</add> des </lb>
 dents canines doubles de chasque coste sortant toutes dun tuyau </lb>
 de chair qui les couvre et revest Elle ha aussy dans la </lb>
 gorge un tuyau de chair faict comme la verge dun chien </lb>
@@ -24,7 +23,7 @@ dou sort son fisson Les aultres serpents ont double </lb>
 reng de dents </ab>
  
 <note>
-<margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
+<margin>left-top</margin>
 
 Si tu veulx <del>couper</del> </lb>
 <del>les</del> mouler les serpents </lb>
@@ -62,7 +61,7 @@ que ton moule soict dans l<m>eau chaulde</m> Jamays lanimal </lb>
 ne vient si net quen metal pourceque la <m>cire</m> grippe Mays </lb>
 cest pour esbaucher animal au plus pres du naturel <del>Et</del> </lb>
 pour apres le reparer Il en fault bien oster toutes les </lb>
-escailles <del>Quand</del> Car la cire y entreroit &amp; ne se despouilleroit </lb>
+escailles <del>Quand</del> <add>Car</add> la cire y entreroit &amp; ne se despouilleroit </lb>
 pas En moulant aussy lanimal Abas les escaille pour cire </lb>
 &amp; au contraire frotte les au rebours affin quelles seslevent </lb>
 pour animaulx car elles sen monstrent mieulx Nattend pas </lb>
@@ -74,6 +73,7 @@ Y en ayant aultant dans un moule quen laultre Fais aussy </lb>
 force gects larges sentretenant a lanimal affin de le fortifier </lb>
 en se despouillant &amp; apres tu couppes cela </ab>
  
+<margin>left-bottom</margin>
 <ab>
 + </lb>
 L<m>albastre</m> </lb>

@@ -1,10 +1,4 @@
-<root>﻿#ERROR:_Number_of_<div>_and_</div>_unbalanced#
-
-
-#ERROR:_Number_of_<m>_and_</m>_unbalanced#
-
-
-<page>008r</page>
+<root>﻿<page>008r</page>
 <image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f21.image</image>
 <div>
 <id>p008r_1</id>
@@ -26,7 +20,8 @@ violence aux artifices de foeu</head>
 
 
 <ab>Mects parmy la pouldre <del>six fois autant de vif argent</del><lb/> 
-<del>et</del> la sixiesme partye dicelle de <m>vif argent<m></ab>
+<del>et</del> la sixiesme partye dicelle de <m>vif argent</m></ab>
+</div>
 
 
 <div>

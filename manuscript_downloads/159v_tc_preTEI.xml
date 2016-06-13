@@ -1,11 +1,8 @@
-<root>﻿#ERROR:_Number_of_<image>_and_</image>_unbalanced#
-
-
-<page>159v</page> 
+<root>﻿<page>159v</page> 
 <image> #ERROR:_INSERT_LINK# </image>
 
 
-</div>
+
 <div>
 <id>p159v_a1</id>
 <head>
@@ -20,7 +17,7 @@ un <m>charbon</m> chault ou avecq une grattebroisse de <m>fil</m><lb/>
 <m>de laitton</m></ab>
 
 
-<image>[image]<image/>
+<figure/>
  
 </div>
 <div>
@@ -105,4 +102,5 @@ L<m>eau</m> froide faict<lb/>
 retirer l<m>huile</m> a la<lb/> 
 superficie du <m>plastre</m><lb/> 
 qui lha succee &amp; ainsy<lb/> 
-il se despouille</note></root>
+il se despouille</note>
+</div></root>

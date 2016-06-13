@@ -1,11 +1,5 @@
-<root>﻿#ERROR:_Number_of_<head>_and_</head>_unbalanced#
-
-
-#ERROR:_Number_of_<image>_and_</image>_unbalanced#
-
-
-<page>063v</page>
-<image>http://gallica.bnf.fr/ark:/12148/btv1b9059316c/f132.item<image>
+<root>﻿<page>063v</page>
+<image>http://gallica.bnf.fr/ark:/12148/btv1b9059316c/f132.item</image>
 <div>
 <id>p063v_1</id>
 
@@ -21,7 +15,7 @@
 <id>p063v_2</id>
 
 
-<head>Armour<head>
+<head>Armour</head>
 
 
 <ab>Soft wood charcoal appears bluish. It is good for depicting armour.</ab>

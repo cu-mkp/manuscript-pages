@@ -1,19 +1,4 @@
-<root>﻿#ERROR:_Number_of_<margin>_and_</margin>_unbalanced#
-
-
-#ERROR:_Number_of_<div>_and_</div>_unbalanced#
-
-
-#ERROR:_Number_of_<pl>_and_</pl>_unbalanced#
-
-
-#ERROR:_Number_of_<pro>_and_</pro>_unbalanced#
-
-
-#ERROR:_Number_of_<_and_>_unbalanced#
-
-
-<page>143r</page>
+<root>﻿<page>143r</page>
 <image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f291.image</image>
 
 
@@ -61,7 +46,7 @@ lhumeur de la<lb/>
 terre</note>
 
 
-<note><margin>left-middle>Il ne les fault<lb/>
+<note><margin>left-middle</margin>Il ne les fault<lb/>
 pas mouler si tost<lb/>
 quelles sont<lb/>
 mortes pource quelles<lb/>
@@ -77,7 +62,7 @@ vouldras</note>
 
 <div>
 <id>p143r_2</id>
-<head><pro>Mouleurs de <pl>foix<pl><pro></head>
+<head><pro>Mouleurs de <pl>foix</pl></pro></head>
 
 
 <ab>Ceulx qui moulent de travers font leur sable de <m>crocum</m><lb/>
@@ -111,4 +96,8 @@ refroidir le<lb/>
 moule plustost<lb/>
 que louvrir<lb/>
 mesmem{ent} aulx<lb/>
-choses espesses</note></root>
+choses espesses</note>
+
+
+<cont/>
+</div></root>

@@ -1,13 +1,10 @@
-<root>﻿#ERROR:_Number_of_<note>_and_</note>_unbalanced#
-
-
-#ERROR:_Number_of_<head>_and_</head>_unbalanced#
-
-
-<page>120v</page> 
+<root>﻿<page>120v</page> 
 <image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f246.image</image>
 
 
+<div>
+<cont/>
+<id>p120r_a3</id>
 <ab>mange de luy mesme Et pour luy convier mieulx tu peulx bien<lb/>
 mectre parmy la chair &amp; loeuf quelque ver de farine vif<lb/>
 car il en est fort friand</ab>
@@ -61,14 +58,16 @@ drogues susdictes <m>arsenic</m> <m>tartre</m> <m>aes ustum limaille de cuivre</
 
 <note>
 <margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
-Sciscitatio<lb/>
+<head>Sciscitatio<lb/>
 dubia</head>
+</note>
 
 
 <note>
 <margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
 Un peu d<m>axunge</m><lb/>
-Et de l<m>arsenic</m></ab>
+Et de l<m>arsenic</m>
+</note>
 
 
 <note>
@@ -76,7 +75,7 @@ Et de l<m>arsenic</m></ab>
 Voy le second foeillet suivant</note>
 
 
-<image>[image]</image>
+<figure/>
 
 
 </div>
@@ -96,6 +95,8 @@ qui soict fort subtil co{mm}e celuy duquel les <pro>orfevres</pro> <del>usent</d
 user l<m>esmail</m> ou co{mm}e celuy destampes Mays il ne fault pas sur<lb/>
 tout quil fasse poulsiere Ne quil demeure sur la main ou y<lb/>
 laisse marque quand tu luy as pulverise &amp; puys verser Car cest</ab>
+
+
 
 
 <note>
@@ -165,4 +166,8 @@ bon estant passe par un linge<lb/>
 pour<lb/>
 secouer [?]<lb/>
 la pou<lb/>
-dre</note></root>
+dre</note>
+
+
+<cont/>
+</div></root>

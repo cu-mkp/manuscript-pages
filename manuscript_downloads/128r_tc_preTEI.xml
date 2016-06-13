@@ -1,19 +1,12 @@
-<root>﻿#ERROR:_Number_of_<note>_and_</note>_unbalanced#
-
-
-#ERROR:_Number_of_<_and_>_unbalanced#
-
-
-<page>128r</page>
+<root>﻿<page>128r</page>
 <image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f261.image</image>
+
+
+
+
 <div>
 <id>p128r_1</id>
-
-
-<head>
-Gecter en <m>argent</m> et <m>or</m></head>
-
-
+<head>Gecter en <m>argent</m> et <m>or</m></head>
 <ab>
 Voulant fondre mects tousiours pour ces deulx metaulx un<lb/>
 pierrete de <m>borras</m> pulverise au fonds du crusol et l<m>or</m> et<lb/>
@@ -27,20 +20,20 @@ Car le metal seroit froid Mays ayant bien chauldement gecte<lb/>
 &amp; emply lun Refonds &amp; gecte dans laultre</ab>
  
 <ab>
-Quand ton moule commance a rougir par dedans <del><del>&amp; que le gecte</del><lb/>
-<del>perd sa noirceur</del> <del>Lors mects ton</del></del> &amp; que regardant dedans <add>le gect</add> il <del><del>te</del></del> ne<lb/>
-te paroist <del><del>plus</del></del> <add>pas un seul point</add> de noirceur Continue a lentretenir en ceste chaleur<lb/>
+Quand ton moule commance a rougir par dedans <del>&amp; que le gecte</del><lb/>
+<del>perd sa noirceur</del> <del>Lors mects ton</del> &amp; que regardant dedans <add>le gect</add> il <del>te</del> ne<lb/>
+te paroist <del>plus</del> <add>pas un seul point</add> de noirceur Continue a lentretenir en ceste chaleur<lb/>
 &amp; si besoing est adioustes y quelques <m>charbons</m> demy allumes avecq<lb/>
-tes molletes Cependant <del><del>com</del></del> mects <add>dans la forge</add> ton crusol avecq un peu de borras<lb/>
-moulu au fonds &amp; l<m>argent</m> que tu veulx gecter <del><del>en ta forge</del></del> <add>soict par dessus</add> Laisse<lb/>
-recuire ton crusol entre les <m>charbons</m> allumes <del><del>jus</del> <del>sans soufler</del></del><lb/>
+tes molletes Cependant <del>com</del> mects <add>dans la forge</add> ton crusol avecq un peu de borras<lb/>
+moulu au fonds &amp; l<m>argent</m> que tu veulx gecter <del>en ta forge</del> <add>soict par dessus</add> Laisse<lb/>
+recuire ton crusol entre les <m>charbons</m> allumes <del>jus</del> <del>sans soufler</del><lb/>
 iusques a ce quil soict rouge Car plustost il ne fault pas soufler<lb/>
 Et quant tu soufleras poulsse dun mouvem{ent} longuet &amp; continue le<lb/>
 souflet luy donnant une petite secousse en poulssant &amp; une aultre le<lb/>
-tirant a toy En ceste sorte la chaleur se donne plus forte <del><del>Com &amp; Ne</del></del><lb/>
-Advise de retirer par foys ton crusol <del><del>avecq les</del></del> en hault avecq les<lb/>
-mollettes chauldes pourcequi<del><del>e</del></del> <add>sil</add> estoit pose au droict de la tuelle<lb/>
-&amp; que le <del><del>souflet b</del> <del>vent batist le</del></del> vent du souflet batist le cruset il refroidiroit<lb/>
+tirant a toy En ceste sorte la chaleur se donne plus forte <del>Com &amp; Ne</del><lb/>
+Advise de retirer par foys ton crusol <del>avecq les</del> en hault avecq les<lb/>
+mollettes chauldes pourcequi<del>e</del> <add>sil</add> estoit pose au droict de la tuelle<lb/>
+&amp; que le <del>souflet b</del> <del>vent batist le</del> vent du souflet batist le cruset il refroidiroit<lb/>
 l<m>argent</m> plustost que leschaufer Fais doncq que les charbons allumes<lb/>
 le soubstiennent par dessus la tuelle &amp; prens garde quil soit esloigne<lb/>
 de trois bons doigts de la muraille de la forge En ceste sorte il<lb/>
@@ -74,8 +67,8 @@ gueres</note>
 <margin>left-top</margin>  
 Pour l<m>or</m><lb/>
 il ne fault<lb/>
-pas <del><del>d</del></del>tant<lb/>
-<del><del>destain</del></del> de<lb/>
+pas <del>d</del>tant<lb/>
+<del>destain</del> de<lb/>
 <m>crocum</m> que<lb/>
 d<m>alum de<lb/>
 plume</m></note> 
@@ -91,7 +84,7 @@ Mays les grands<lb/>
 plustost seicher au<lb/>
 four car lhumidite<lb/>
 du moule par<lb/>
-la <del><del>fo</del></del> chaleur<lb/>
+la <del>fo</del> chaleur<lb/>
 du four<lb/>
 sattire dehors<lb/>
 Mays laspre<lb/>
@@ -119,10 +112,11 @@ fondu</note>
 <note>
 <margin>left-bottom</margin>
 <figure>#</figure>
-grossierem{ent} pulverisee</note
+grossierem{ent} pulverisee</note>
 
 
 <note> 
 <margin>bottom</margin>
 Loppe d<m>argent</m> sophistique se vitrifie en rouge a cause de l<m>arsenic</m> &amp; <m>orpiment</m></note>
+<cont/>
 </div></root>

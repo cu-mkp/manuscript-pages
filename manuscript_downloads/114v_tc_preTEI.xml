@@ -1,20 +1,19 @@
-<root>﻿#ERROR:_Number_of_<add>_and_</add>_unbalanced#
-
-
-#ERROR:_Number_of_<div>_and_</div>_unbalanced#
-
-
-<page>114v</page>
+<root>﻿<page>114v</page>
 <image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f234.image</image>
 
 
-<figure/>
+<figure><margin>left-top</margin></figure>
+
+
+<div>
+<cont/>
+<id>p114r_1</id>
 <ab>Cela ainsy præpare pose ton <del>de</del> premier demy molle sur la<lb/>
 tourtelle de <del>terre</del> <m>ardille</m> &amp; y mects le cercle de mesme aultour<lb/>
 &amp; fais la marque de lespesseur semblable a la premiere<lb/>
 puys avecq un aultre pinceau asses grosset mouille bien<lb/>
 par tout la moictie <del>&amp; le ventre</del> descouverte  de ton animal<lb/>
-<del>Et</del> <add>d<m>eau de vye</m><add> sans laisser rien sil est possible qui nen soict mouille<lb/>
+<del>Et</del> <add>d<m>eau de vye</m></add> sans laisser rien sil est possible qui nen soict mouille<lb/>
 car cest le secret qui faict venir net  Et apres le plus<lb/>
 promptement quil te sera possible devant que l<m>eau de viye</m><lb/>
 <del>ne</del> sesvapore destrempe ton <m>sable</m> et le gecte a secousses<lb/>

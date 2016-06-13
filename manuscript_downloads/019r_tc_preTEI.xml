@@ -1,8 +1,10 @@
 <root>﻿<page>019r</page>
 <image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f43.image</image>
+
+
+<div>
+<cont/>
 <id>p017r_1</id>
-
-
 <ab>
 de campaigne Le faulconeau se charge avecq lanterne<lb/>
 Et ne luy donne bon communem{ent} qune lanterne<lb/>
@@ -42,7 +44,7 @@ A la culasse 3 balles deulx deva{n}t On le charge tant<lb/>
 de <m>pouldre</m> que de balle iusques a la cime de lescusson<lb/>
 qui peult revenir en ces petites pieces a <add>3 ou</add> 4 balles <m>pouldre</m>s<lb/>
 dharquebus Car si on employe <m>pouldre</m> de canon on<lb/>
-les peult charge de lespesseur de<del><del>illegible</del></del> cinq balles</ab>
+les peult charge de lespesseur de<del>illegible</del> cinq balles</ab>
 
 
 <note>
@@ -72,7 +74,7 @@ lignes plus<lb/>
 hault tirant<lb/>
 balles de metal<lb/>
 La balle de<lb/>
-metal <del><del>faict</del></del><lb/>
+metal <del>faict</del><lb/>
 alliee de <m>cuivre</m><lb/>
 affin quelle ne<lb/>
 soict frangible<lb/>
@@ -85,9 +87,9 @@ bat plus royde de loing</note>
 
 <ab>
 Mousquet simple poise un quintal a six pans de long<lb/>
-<del><del>porte balle poisans…</del></del> on na pas desgard a celles<lb/>
+<del>porte balle poisans…</del> on na pas desgard a celles<lb/>
 cy qui sont moindres de deulx quintals qui portent volontiers<lb/>
-balles de <m>plomb</m> <del><del>un</del></del> a la pesanteur de la balle mays<lb/>
+balles de <m>plomb</m> <del>un</del> a la pesanteur de la balle mays<lb/>
 au qualibre Touteffois ceulx qui peuvent avoyr balles<lb/>
 de metal ou de <m>fer</m> font mieux pourceque elles feront plus<lb/>
 de faulcee que six de <m>plomb</m> Sa charge est iusques<lb/>
@@ -99,8 +101,9 @@ Harquebus a croc poise 60 livres scavoir la grande<lb/>
 ha de long cinq pans sa charge est iusques a lescusson<lb/>
 scavoir <add>la longueur de</add> 4 balles porte balle de <m>plomb</m> est pour la deffense<lb/>
 des maisons de ces harquebus a croc &amp; grandes &amp;<lb/>
-petites on faict les orgues qui sont <del><del>illegible</del></del> propres pour<lb/>
+petites on faict les orgues qui sont <del>illegible</del> propres pour<lb/>
 un assault &amp; dehors &amp; dedans la place Elle se fondent<lb/>
 separement co{mm}e pour servir a aultre usage que dorgues<lb/>
 voy le foueillet suivant 4eme marque</ab>
-<figure/></root>
+<figure/>
+</div></root>

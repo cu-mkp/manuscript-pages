@@ -1,8 +1,6 @@
 <root>﻿<page>131r</page> 
 <image> #ERROR:_INSERT_LINK# </image>
 
-
-</div>
 <div>
 <id>p131r_a1</id>
 <head><m>Herbes</m> qui font malaisees a brusler dans le moule</head>
@@ -18,6 +16,7 @@ Essay</note>
 
 
 </div>
+
 <div>
 <id>p131r_a2</id>
 <head>Le{tt}re <m>papier</m> moule</head>
@@ -29,6 +28,7 @@ qui aye corps &amp; qui ne se defface point estant mouille <m>deau</m><lb/>
 mouille <m>deau de vye</m> &amp; gecte dune part &amp; daultre</ab>
  
 </div>
+
 <div>
 <id>p131r_a3</id>
 <head>Pour orner des licts mirouers &amp; semblabes </head>
@@ -42,6 +42,7 @@ remplir les <del>bien</del> fonds du relief de petits <m>rubis</m> <m>dorpiment<
 &amp; de petits <m>grains</m> de diverses couleurs</ab>
  
 </div>
+
 <div>
 <id>p131r_a4</id>
 <head>Pour bien apprendre un chien</head>
@@ -49,11 +50,12 @@ remplir les <del>bien</del> fonds du relief de petits <m>rubis</m> <m>dorpiment<
 
 <ab>Il le fault tenir attache &amp; quand il fera ce que tu luy<lb/>
 commandes donnes luy pour te fayre aymer du fromage<lb/>
-tenu sous l’aisselle qui doit estre une mauvaise drogue<lb/>
+tenu sous l'aisselle qui doit estre une mauvaise drogue<lb/>
 &amp; pour le maistre, sil est rousseau, &amp; pour laprentis aussy</ab>
 
 
 </div>
+
 <div>
 <id>p131r_a5</id>
 <head><m>Cires</m> moules</head>
@@ -78,4 +80,8 @@ ne laisse point<lb/>
 de crasse quand<lb/>
 tu veulx faire<lb/>
 noyau &amp; mouler<lb/>
-creulx</note></root>
+creulx</note>
+
+
+<cont/>
+</div></root>

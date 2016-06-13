@@ -1,13 +1,4 @@
-<root>﻿#ERROR:_Number_of_<margin>_and_</margin>_unbalanced#
-
-
-#ERROR:_Number_of_<div>_and_</div>_unbalanced#
-
-
-#ERROR:_Number_of_<_and_>_unbalanced#
-
-
-<page>145r</page>
+<root>﻿<page>145r</page>
 <image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f295.image</image>
 
 
@@ -18,12 +9,13 @@
 
 <ab>On gecte en trois chassis des mortiers de <m>bronze</m> &amp; choses<lb/>
 semblables qui sont bien en despouille Scavoir le cors<lb/>
-du mortier dans <del><del>les deulx chassis</del></del> lun le noyau dans laultre Et le <del><del>noyau</del></del> cul du mortier dans le ti[ers]<lb/>
-<del><del>pour petit ouvrage</del></del> pourceque aultrement la mouleure qui y a<lb/>
+du mortier dans <del>les deulx chassis</del> lun le noyau dans laultre Et le <del>noyau</del> cul du mortier dans le ti[ers]<lb/>
+<del>pour petit ouvrage</del> pourceque aultrement la mouleure qui y a<lb/>
 ne seroit  pas en despouille</ab> 
 
 
-<note><margin>top-left>Inquire<figure/>A</note>
+<note>
+<margin>top-left</margin>Inquire<figure/>A</note>
 </div>
 
 
@@ -58,4 +50,8 @@ le fayre bien despouiller Et pour fayre courre esgalle{men}t<lb/>
 le <m>charbon</m> par tout on frappe sur le coste de la main qui tient<lb/>
 la moictie de l<m>os</m> Estant touts deulx charbonnes on prend le<lb/>
 principal <m>os</m> qui est praepare &amp; arrondy par les costes Et<lb/>
-ayant pose la medaille dessus on la serre et presse bien fort</root>
+ayant pose la medaille dessus on la serre et presse bien fort</ab>
+
+
+<cont/>
+</div></root>

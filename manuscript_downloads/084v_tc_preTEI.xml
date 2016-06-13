@@ -1,17 +1,12 @@
-<root>﻿#ERROR:_Number_of_<note>_and_</note>_unbalanced#
-
-
-<page>084v</page> 
+<root>﻿<page>084v</page> 
 <image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f174.image</image>
 
-
-</div>
 <div>
 <id>p084v_a1</id>
 <head><m>Sable</m></head>
 
 
-<ab>Jay essaye l<m>os</m> <m>de pieds de bœuf</m> fort brusle &amp; pulverise &amp; broye<lb/> 
+<ab>Jay essaye l<m>os</m> <m>de <add>pieds de</add> bœuf</m> fort brusle &amp; pulverise &amp; broye<lb/> 
 bien fort sur le <m>porphire</m> jusques a ce quil ne se  sente<lb/>
 point entre les doigts Il moule tout seul fort net Mays<lb/>
 pourceque de soy mesme il est aride &amp; maigre il veult estre<lb/>
@@ -21,7 +16,7 @@ fort mouille &amp; humecte avecq <m>vin</m> bouilly avecq <m>racine</m> <m>dorme
 <ab>La <m>mache de fer</m> l<m>os de pieds de bœuf</m> fort brusle le <m>feultre</m><lb/>
 aussy fort brusle a foeu clos Et tout trois fort subtilles<lb/>
 sur le <m>porphire</m> moulent fort nect en <m>plomb</m> sans quil soit en<lb/>
-besoing de les recuire beaucoup &amp; gectant <del>le</del> au chassis chauld<lb/>
+besoing de les recuire beaucoup &amp; gectant <del>le</del> <add>au</add> chassis chauld<lb/>
 ou froit</ab>
 
 
@@ -29,24 +24,26 @@ ou froit</ab>
 bien Et faict aussy despouiller les aultres deulx</ab>
 
 
-<note>
-<margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
+<ab>
+<margin>left-top</margin>
 Ces <m>sables</m> ne<lb/>
 soubstiennent<lb/>
-quun gect</note>
+quun gect</ab>
 
 
-<note>
-<margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
+<ab>
+<margin>left-top</margin>
 Un <m>sable</m><lb/>
 gras qui se rend<lb/>
 si uny faict<lb/>
-soufler</note>
+soufler</ab>
 
 
+<ab>
+<margin>left-middle</margin>
 <ab>Un <m>metal</m> gras<lb/>
 demande <m>sable</m><lb/>
-maigre</note>
+maigre</ab></ab>
 
 
 </div>
@@ -64,9 +61,9 @@ on trouve que celuy de <m>saule</m> faict soufler celuy de <m>chaisne</m><lb/>
 ou <m>fayan</m> faict <del>soufler</del> bien sans soufler</ab>
 
 
-<note>
-<margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
-Essaye <m>huitres</m> bruslees</note>
+<ab>
+<margin>left-middle</margin>
+Essaye <m>huitres</m> bruslees</ab>
   
 </div>
 <div>
@@ -90,8 +87,19 @@ de la <m>glaire doeuf</m> fort battue quelle estoit co{mm}e paste sunissant<lb/>
 avecq le plat dun costeau en perfection Je lay un peu laisser</ab>
 
 
-<note>
-<margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
+<ab>
+<figure><margin>left-bottom</margin>
+X
+</figure>
+</ab>
+
+
+<ab>
+<margin>left-bottom</margin>
 il la fault bien<lb/>
 mesler avecq le<lb/>
-costeau</note></root>
+costeau</ab>
+
+
+<cont/>
+</div></root>

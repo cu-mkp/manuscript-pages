@@ -1,13 +1,9 @@
-<root>﻿#ERROR:_Number_of_<head>_and_</head>_unbalanced#
-
-
-#ERROR:_Number_of_<div>_and_</div>_unbalanced#
-
-
-<page>062v</page>
+<root>﻿<page>062v</page>
 <image>http://gallica.bnf.fr/ark:/12148/btv1b9059316c/f130.item</image>
 
 
+<div>
+<id>p062v_1</id>
 <head>Portraits</head>
 
 
@@ -22,7 +18,7 @@
 <id>p062v_2</id>
 
 
-<head>Perspective<head> 
+<head>Perspective</head> 
 
 
 <ab>In order to tell where the <sup>vanishing</sup> point is one must lay a ruler over the lines, and the point will be where the lines meet. Some make a hole at the end of their rulers in order to fix the point by that hole while moving the ruler about. Others lay a ruler across the panel,, then on this ruler they place the tip of another ruler which, being attached to the former by a screw, will move about and reach as far as necessary without losing the point. The ruler and compass without discernment of the eye will cause errors. Perspective is very difficult.</ab>

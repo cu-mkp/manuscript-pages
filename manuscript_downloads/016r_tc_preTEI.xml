@@ -3,8 +3,6 @@
 
 <image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f37.image</image>
 
-
-</div>
 <div>
 <id>p016r_a1</id>
 <head>Fonte de <m>fer doux</m></head>
@@ -23,8 +21,10 @@ doibt estre posee au milieu de la profondeur du fourneau de sorte<lb/>
 quil y aye un pan de gueule de four sur la tuelle &amp; un pan dessouls</ab>
 
 
+
+
 <note>
-<margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
+<margin>left-top</margin>
 Chasque pan<lb/>
 de gueule de four<lb/>
 en quarre contient<lb/>
@@ -34,11 +34,11 @@ rond en tient deulx<lb/>
 quintals</note>
 
 
-<image>[image]</image>
+<figure/>
 
 
 <note>
-<margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
+<margin>right-middle</margin>
 Les <pro>minerons</pro> pour fayre<lb/>
 courre le <m>fer</m> mectent a la<lb/>
 bouche de leur fonte deulx ou<lb/>
@@ -69,14 +69,14 @@ bas amoncellant en hault <del>comme</del> en poincte ijusques au hault de la mur
 
 
 <note>
-<margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
+<margin>left-bottom</margin>
 Aulcuns font<lb/>
 un moule du<lb/>
 calibre de la<lb/>
 piece &amp; le trempent<lb/>
 puys y frappent<lb/>
-un loppin de <m>fer</m><lb/>
-<m>doulx</m> couppe de<lb/>
+un loppin de <m>fer<lb/>
+doulx</m> couppe de<lb/>
 mesure &amp; comme<lb/>
 ce loppin est bien<lb/>
 rouge ilz le<lb/>
@@ -90,6 +90,6 @@ les fondues qui<lb/>
 estant <m>aigre</m>s<lb/>
 sont plus subgectes<lb/>
 a rompre</note>
-
-
+<cont/>
+</div>
 ________________</root>

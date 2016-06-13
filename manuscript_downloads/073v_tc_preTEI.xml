@@ -1,14 +1,13 @@
-<root>﻿#ERROR:_Number_of_<div>_and_</div>_unbalanced#
-
-
-<page>073v</page>
+<root>﻿<page>073v</page>
 <image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f152.image</image>
 
 
+<div>
+<cont/>
 <id>p073r_5</id>
 
 
-broyes apart Quand il sera bien broye prenes le <m>sel armoniac</m> &amp;<lb/> 
+<ab>broyes apart Quand il sera bien broye prenes le <m>sel armoniac</m> &amp;<lb/> 
 le broyes encores ensemble puys prenes une once d<m>estaing</m> doulx &amp;<lb/>
 une once d<m>argent vif</m> puis faictes fondre v{ost}re <m>estaing</m> &amp; mectes<lb/> 
 v{ost}re <m>argent vif</m> goutte a goutte dans v{ost}re <m>estaing</m> en fondant &amp; le<lb/> 
@@ -20,7 +19,7 @@ remues fort jusques ace q{ui}l soit en pouldre</ab>
 <id>p073v_1</id>
 <head>Pour le coucher</head>
  
-<ab>Prenes de la <m>colle de partenay</m> ou <m><sup>colle</sup> parchemin</m> Et lapliques avecq de <m>blanc<lb/> 
+<ab>Prenes de la <m>colle de partenay</m> <add>ou <m>parchemin</m></add> Et lapliques avecq de <m>blanc<lb/> 
 dung oeuf</m> puys prenes ung peu de <m>saffran</m> Et du <m>vinaigre</m><lb/>
 Et du <m>laict de figuier</m> Et faictes encores une couche puys<lb/> 
 prenes la <m>bronze</m> Et laplicques dessus</ab>
@@ -43,8 +42,8 @@ dedans une fiole &amp; le coucher sur le <m>boys</m></ab>
 <head>Aultre recepte pour faire verny</head>
 
 
-<ab>Prenes une once de <m>tormentine de <del><del>vernise</del></del> <pl>venise</pl></m> &amp; ung quart de<lb/>
-once d<m>huille de <del><del>parolle</del></del> petrolle</m> &amp; une once de <m>sandrax</m> &amp; une d<m>huille<lb/> 
+<ab>Prenes une once de <m>tormentine de <del>vernise</del> <add><pl>venise</pl></add></m> &amp; ung quart de<lb/>
+once d<m>huille de <del>parolle</del> <add>petrolle</add></m> &amp; une once de <m>sandrax</m> &amp; une d<m>huille<lb/> 
 daspic</m></ab>
  </div>
 

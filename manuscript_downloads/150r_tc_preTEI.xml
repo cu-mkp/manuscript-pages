@@ -1,7 +1,4 @@
-<root>﻿#ERROR:_Number_of_<margin>_and_</margin>_unbalanced#
-
-
-<page>150r</page>
+<root>﻿<page>150r</page>
 <image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f305.image</image>
 
 
@@ -30,7 +27,7 @@ et deux <figure>℥</figure> de <m>plomb</m> fin </ab>
 
 
 <ab>Pour <al>lesards</al> qui sont espes dun doigt ou deux presque<lb/>
-tout <m>plomb</m> sçavoir une lb de <m>plomb</m> fin et 4 <figure>℥</figure> <del><del>es</del></del> d<m>estain</m><lb/>
+tout <m>plomb</m> sçavoir une lb de <m>plomb</m> fin et 4 <figure>℥</figure> <del>es</del> d<m>estain</m><lb/>
 fin</ab></div>
  
  
@@ -42,7 +39,7 @@ fin</ab></div>
 <ab>Ils sont moings subgect a se fendre en recuisant quand<lb/>
 ilz sont fort espes que quand ilz sont de peu despesseur<lb/>
 pourveu quelle soit suffisante Car estant tanvres  ilz nont<lb/>
-pas besoing destre gueres <del><del>recui</del></del> au foeu &amp; la longueurs du<lb/>
+pas besoing destre gueres <del>recui</del> au foeu &amp; la longueurs du<lb/>
 foeu les fait corrompre Mesmement quand le <m>plastre</m><lb/>
 nest pas fort</ab>
 
@@ -76,7 +73,7 @@ en soubstiennent<lb/>
 beaucoup</note>
 
 
-<note><margin>left-middle</middle>
+<note><margin>left-middle</margin>
 l<m>escaille<lb/>
 de fer</m> fortv
 subtillem{ent}<lb/>

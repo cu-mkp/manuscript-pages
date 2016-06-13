@@ -1,10 +1,10 @@
 <root>﻿<page>083r</page> 
-<image> #ERROR:_INSERT_LINK# </image>
+<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f171.item</image>
 
 
-</div>
 <div>
 <id>p083r_a1</id>
+
 <head><m>Sable</m> pour le <m>plomb</m></head>
 
 
@@ -12,29 +12,30 @@
 <m>farine</m> ana humecte selon lart estant le plus subtilie quil te sera<lb/> 
 possible</ab>
  
-<note>
-<margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
+<ab>
+<margin>left-top</margin>
 La <m>suye</m> grise des <pro>sarruriers</pro><lb/>
 qui se tient a leur forge est fort<lb/>
 subtile estant broyee moule fort net<lb/>
 &amp; despouille<lb/>
-fort bien</note>
- 
+fort bien</ab>
 </div>
+
 <div>
 <id>p083r_a2</id>
+
 <head><m>Sable</m> pour medailles de <m>cuivre</m></head>
 
 
-<ab>R{ecipe} <m>feultre</m> de chappeau bruslé a feu couvert <m>mache de fer</m> &amp; <m>os</m> brusle tout<lb/> 
+<ab>R{ecipe} <m>feultre</m> de chappeau bruslé <add>a feu couvert</add> <m>mache de fer</m> &amp; <m>os</m> brusle tout<lb/> 
 fort subtillement broye &amp; pile &amp; arrouse avecq <m>eau sel</m> &amp; en fais<lb/>
-paste &amp; moule &amp; essuye a feu de <m>paille</m> Ces trois <m>sables</m> pulverises<lb/>
+paste &amp; moule &amp; essuye a feu de <m>paille</m> @ Ces trois <m>sables</m> pulverises<lb/>
 et subtilies bien fort sur le <m>porphire</m> moulent  fort et croy que separe(me)n(t) chas[cun]<lb/>
 est fort bien Le  <m>feultre</m> brusle moule fort net et despo[se]<lb/>
-fort net </ab>
+fort net</ab>
  
-<note>
-<margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
+<ab>
+<margin>left-top</margin>
 Le <m>plastre</m><lb/>
 moule bien net<lb/>
 mays il<lb/>
@@ -44,22 +45,26 @@ de corps Si a<lb/>
 bien la mache<lb/>
 de <m>fer</m> Le<lb/>
 <m>feultre</m> faict<lb/>
-despouiller</note>
+despouiller</ab>
  
 </div>
+
 <div>
 <id>p083r_a3</id>
+
 <head>Aultre <m>sable</m></head>
 
 
-<ab><m>Charbon de sarment</m> &amp; <m>terre argille</m> <del>bien recuitte &amp;</del> bien tamisee<lb/>
+<ab><m>Charbon de sarment</m> &amp; <m>terre argille</m> <del>bien recuitte &amp;</del> <add>bien</add> tamisee<lb/>
 tant dun que daultre &amp; le joindre ensemble avecq glaire <m>doeuf</m><lb/>
 bien battue puys le faire calciner dans le four &amp; pour en user<lb/>
 le destremper en <m>vinaigre</m></ab>
  
 </div>
+
 <div>
 <id>p083r_a4</id>
+
 <head>Aultre pour le <m>plomb</m></head>
 
 
@@ -69,8 +74,10 @@ fois &amp; chasque fois destrempes les avecq du <m>vernis</m></ab>
 
 
 </div>
+
 <div>
 <id>p083r_a5</id>
+
 <head>Aultre</head>
 
 
@@ -78,8 +85,8 @@ fois &amp; chasque fois destrempes les avecq du <m>vernis</m></ab>
 <m>papier de trasse</m> noir brusle &amp; si tu y adjoustes de la <m>fiente</m> de<lb/>
 cheval bruslee elle nen sera que meilleure humecte avecq glaire doeuf</ab>
  
-<note>
-<margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
+<ab>
+<margin>left-bottom</margin>
 Le <m>papier de<lb/>
 trasse</m> brusle<lb/>
 a foeu clos se<lb/>
@@ -89,12 +96,14 @@ fort doulx moule<lb/>
 net &amp; faict bien<lb/>
 despouiller<lb/>
 mesle parmy les<lb/>
-aultres</note>
+aultres</ab>
 
 
 </div>
+
 <div>
 <id>p083r_a6</id>
+
 <head><m>Sable</m> excellent</head>
 
 
@@ -106,4 +115,5 @@ une lb de <m>albastre</m> il fault une ℥ de <m>sel armoniac</m> Mesles bien<lb
 lieu humide et de ceste paste moulles ce quil vous fauldra &amp; apres<lb/>
 seiches le moule au foeu &amp; y gectes tel <m>metal</m> quil vous plaira<lb/>
 pendant que le sable est chault &amp; vous gecteres aussy net que le principal<lb/>
-&amp; le <m>sable</m> sert tousjours le mectant en lieu humide &amp; seichant au foeu</ab></root>
+&amp; le <m>sable</m> sert tousjours le mectant en lieu humide &amp; seichant au foeu</ab>
+</div></root>

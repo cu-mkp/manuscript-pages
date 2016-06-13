@@ -1,17 +1,8 @@
-<root>﻿#ERROR:_Number_of_<id>_and_</id>_unbalanced#
-
-
-#ERROR:_Number_of_<image>_and_</image>_unbalanced#
-
-
-#ERROR:_Number_of_<_and_>_unbalanced#
-
-
-<page>p119v</page>
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f244.imageimage>
+<root>﻿<page>p119v</page>
+<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f244.image</image>
 <div>
-<id>p119v_1>
-<head>Facon dacoustrer le <del>l<del>a</del>e</del><del><del>pal</del></del>spat</head>
+<id>p119v_1</id>
+<head>Facon dacoustrer le <del>laepal</del>spat</head>
 
 
 <ab>Il se trouve en terre en <pl>Allemaigne</pl> de couleur de <m>plastre</m> cuit<lb/>
@@ -34,7 +25,7 @@ pour medaille et choses plattes Sers toi de cestuy cy car<lb/>
 cest le plus parfaict de tous pour <m>or</m> <m>argent</m> <m>cuivre</m> <m>plomb</m> <m>letton</m><lb/>
 &amp; <m>estain</m> Car il soustient le feu &amp; se rougis qua{n}d il est<lb/>
 besoing sans se corrompre Et tant plus il sert tant plus<lb/>
-il est <del><del>illegible</del></del> meilleur &amp; ne se gaste point Au commancem{ent} il est<lb/>
+il est <del>illegible</del> meilleur &amp; ne se gaste point Au commancem{ent} il est<lb/>
 blanc &amp; servant il vient gris touteffois prens gare de<lb/>
 mectre a part celuy qui a servi pour gecter <m>plomb</m> &amp; <m>estain</m><lb/>
 &amp; <m>letton</m> car l<m>or</m> si aigriroit &amp; ne viendroit pas bien et<lb/>
@@ -86,7 +77,7 @@ doigts </note>
 
 
 <ab>Jecte avec ton sable susdict ton animal et <al>lesard</al> ou aultre<lb/>
-chose avec <m>argent</m> de <m>billon</m> &amp; il viendra fort net <del><del>illegible</del></del> Mays<lb/>
+chose avec <m>argent</m> de <m>billon</m> &amp; il viendra fort net <del>illegible</del> Mays<lb/>
 advise de le mouler creux ou dy laisser a tout le moins un trou<lb/>
 dans laquelle ou aultre endroit apres dore le d<m>or</m> fin le plus<lb/>
 uniment quil te sera possible trois ou quattre ou cinq fois<lb/>

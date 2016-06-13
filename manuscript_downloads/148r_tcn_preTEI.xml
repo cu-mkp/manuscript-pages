@@ -1,18 +1,11 @@
-<root>﻿#ERROR:_Number_of_<al>_and_</al>_unbalanced#
-
-
-#ERROR:_Number_of_<div>_and_</div>_unbalanced#
-
-
-#ERROR:_Number_of_<m>_and_</m>_unbalanced#
-
-
-<page>148r</page>
+<root>﻿<page>148r</page>
 <image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f301.image</image>
 
 
+<div>
+<cont/>
 <id>p147v_4</id>
-<ab>pas venu si cler que je desirois. Je l’ay encore recuit,<lb/> 
+<ab>pas venu si cler que je desirois. Je l'ay encore recuit,<lb/> 
 laissé froidir, remis au blanchiment &amp; grattebroissé.  Il est<lb/>
 venu fort net. Ainsy feras tu du <m>cuivre</m> et <m>argent</m>. Et si tu veulx donner...</ab>
 </div>
@@ -21,7 +14,7 @@ venu fort net. Ainsy feras tu du <m>cuivre</m> et <m>argent</m>. Et si tu veulx 
 <div>
 <id>p148r_1</id>
 <head>Belle couleur au <m>letton</m></head>
-L’ayant bien nettoyé, co{mm}e dict est, &amp; bien grattebroissé,<lb/>
+<ab>L'ayant bien nettoyé, co{mm}e dict est, &amp; bien grattebroissé,<lb/>
 fais le bouillir en <m>eau</m> &amp; <m>racine de cucurme</m><m>,</m> ou <m>terra merita</m>,<lb/>
 et il viendra  tres beau.</ab>
 </div>
@@ -32,14 +25,14 @@ et il viendra  tres beau.</ab>
 <head><m>Blanchime{n}t</m></head>
 
 
-<ab>Si c’est pour <m>argent</m>, ne pile pas ton <m>tartre</m> avecq du<lb/>
+<ab>Si c'est pour <m>argent</m>, ne pile pas ton <m>tartre</m> avecq du<lb/>
 <m>fer</m>, ains avecq le manche du marteau, car si tu touches<lb/>
-&amp; trempes du <m>fer</m> en ton <m>blanchiment</m>, l’<m>argent</m> viendroit<lb/>
+&amp; trempes du <m>fer</m> en ton <m>blanchiment</m>, l'<m>argent</m> viendroit<lb/>
 rouge comme <m>cuivre</m> &amp; te le fauldroit recuire &amp; remectre<lb/>
 au <m>blanchiment</m>. Ne mesle rien avecq ton <m>tartre</m> qui ne<lb/>
 doibve entrer au <m>blanchiment</m>, car cela le corromp. Ne le<lb/>
 laisse pas verser hors son premier bouillon, car en cela<lb/>
-est toute sa force. Le <m>blanchiment</m> se faict d’une partye<lb/>
+est toute sa force. Le <m>blanchiment</m> se faict d'une partye<lb/>
 de <m>tartre</m> pulverisé &amp; la moictié de <m>sel commun</m>.</ab>
  </div>
 
@@ -48,13 +41,13 @@ de <m>tartre</m> pulverisé &amp; la moictié de <m>sel commun</m>.</ab>
 <id>p148r_3</id>
  
 <head>Mouler pied de <al>butor</al> ou<lb/>
- d<al>aigle</m> ou daultres oyseaulx pour<lb/>
+ d<al>aigle</al> ou daultres oyseaulx pour<lb/>
 pied de salieres ou vases</head>
 
 
 <ab>On moule communement le pied &amp; la jambe jusques au jarret.<lb/>
 Et pour cet effect, on le moule à cinq pieces: la jambe de<lb/>
-deulx pieces, le dessus du pied en deulx et le dessoubs d’une<lb/>
+deulx pieces, le dessus du pied en deulx et le dessoubs d'une<lb/>
 piece.</ab>
 
 
@@ -69,7 +62,7 @@ piece.</ab>
 
 <ab>Pour le faire bien tost, rougis la <m>limaille</m> dans une caisse de <m>fer</m>,<lb/>
 le remuant souvant. Puys arrouse le de bon <m>vinaigre</m> &amp; le laisse evaporer.<lb/>
-Et sans l’oster de dessus le foeu, laisse le rougir &amp; enflammer. Esta{n}t froid,<lb/>
+Et sans l'oster de dessus le foeu, laisse le rougir &amp; enflammer. Esta{n}t froid,<lb/>
 pulverise le sur le <m>mabre</m> &amp; le retourne au foeu, arrouse de <m>vinaigre</m>,<lb/>
 et puys enflamme. Ainsy il sera bien tost coloré &amp; subtilié.</ab>
 </div></root>

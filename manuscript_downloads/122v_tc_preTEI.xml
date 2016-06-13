@@ -1,13 +1,4 @@
-<root>﻿#ERROR:_Number_of_<head>_and_</head>_unbalanced#
-
-
-#ERROR:_Number_of_<div>_and_</div>_unbalanced#
-
-
-#ERROR:_Number_of_<_and_>_unbalanced#
-
-
-<page>122v</page>
+<root>﻿<page>122v</page>
 <image>http://gallica.bnf.fr/ark:/12148/btv1b9059316c/f251.item</image>
 
 
@@ -15,7 +6,7 @@
 <id>p122v_1</id>
 
 
-head>Nettoyer lescuelle et la cuillere<lb/>
+<head>Nettoyer lescuelle et la cuillere<lb/>
 dequoy on destrempe le sable</head>
 
 
@@ -62,9 +53,9 @@ que la medaille si elle nest fort tanure co{mm}e <m>papier</m> Et puys<lb/>
 de la medaille tirant au gect le conduire tousjours en<lb/>
 sespessissant Car il vient mieulx ainsy Si le gecte est espes<lb/>
 a lentree de la medaille louvrage ne vient jamays bien fait<lb/>
-que <del><del>despuys</del></del> despuys la moictie du gect en haut il soict  moyen{nement}<lb/>
+que <del>despuys</del> despuys la moictie du gect en haut il soict  moyen{nement}<lb/>
 espes &amp; despuys la mesme moictie en bas fort tanure Noublie<lb/>
-pas de faire des coches <del><del>au hau</del></del> dans le hault du gect<lb/>
+pas de faire des coches <del>au hau</del> dans le hault du gect<lb/>
 pour empescher que le metal ne courre de furie</ab>
 
 
@@ -74,4 +65,5 @@ La premiere partye du moule<lb/>
 qui est premierem{ent} gecte sur la<lb/>
 platain d<m>ardille</m> se fent plus volontiers<lb/>
 au feu que la<lb/>
-[Illegible]</note></root>
+[Illegible]</note>
+</div></root>

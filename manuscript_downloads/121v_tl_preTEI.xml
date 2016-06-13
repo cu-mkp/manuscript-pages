@@ -1,11 +1,6 @@
-<root>﻿#ERROR:_Number_of_<note>_and_</note>_unbalanced#
+<root>﻿<page>121v</page> 
+<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f248.item.r=</image>
 
-
-<page>121v</page> 
-<image> #ERROR:_INSERT_LINK# </image>
-
-
-</div>
 <div>
 <id>p121v_a1</id>
 <head>Casting in <m>silver</m></head>
@@ -15,25 +10,26 @@
 
 
 <note>
-<margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
+<margin>left-top</margin>
 Alloyed <m>silver</m>, provided it is soft, is better for casting than pure <m>silver</m>.</note>
  
 <note>
-<margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
+<margin>left-top</margin>
 The <m>stone alum</m> should be quite pulverized and mixed.</note>
  
 <note>
-<margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
-<m>Sal armoniac</m> is friend with <m>gold</m> and <m>silver</m>.</note>
+<margin>left-top</margin>
+<m>Sal armoniac</m> works well with <m>gold</m> and <m>silver</m>.</note>
  
 <note>
-<margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
-[<m>Sal armoniac</m>?] which should be placed in the dish rather than in the <m>sand</m>, which should be placed in the <m>water</m>, instead of the <m>water</m> poured on the <m>sand</m>. 
+<margin>left-middle</margin>
+which should be placed in the dish rather than in the <m>sand</m>, which should be placed in the <m>water</m>, instead of the <m>water</m> poured on the <m>sand</m>. 
+</note>
 
 
 <note>
-<margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
-<m>Brass</m> is the enemy of <m>gold</m> and the friend of <m>silver</m>.</note>
+<margin>left-middle</margin>
+<m>Brass</m> is the enemy of <m>gold</m> and works well with<m>silver</m>.</note>
 
 
 </div>
@@ -54,9 +50,10 @@ The <m>stone alum</m> should be quite pulverized and mixed.</note>
 <ab>If <pro>goldsmiths</pro> knew the material to make <m>silver</m> run in their work, they would buy it in quantity. Some buy it five sols for a denier.</ab>
  
 <note>
-<margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
+<margin>left-middle</margin>
 I have used <m>silver</m> from the capital.</note>
  
 <note>
-<margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
-Before luting and strengthening the molds for <m>gold</m> and <m>silver</m> with the said <m>earth</m>, the cast and the vents must be made and the molds must have been annealed and made quite red to burn the animals, flowers and herbs that are inside. The ashes in the molds should be cleaned thoroughly. Once the molds are quite clean and ready, lute them and bind them with <m>iron wire</m>. Anneal them straight away until they are quite red.</note></root>
+<margin>left-bottom</margin>
+Before luting and strengthening the molds for <m>gold</m> and <m>silver</m> with the said <m>earth</m>, the cast and the vents must be made and the molds must have been annealed and made quite red to burn the animals, flowers and herbs that are inside. The ashes in the molds should be cleaned thoroughly. Once the molds are quite clean and ready, lute them and bind them with <m>iron wire</m>. Anneal them straight away until they are quite red.</note>
+</div></root>

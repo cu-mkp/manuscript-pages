@@ -1,8 +1,10 @@
-<root>﻿#ERROR:_Number_of_<note>_and_</note>_unbalanced#
-
-
-<page>131v</page> 
+<root>﻿<page>131v</page> 
 <image> #ERROR:_INSERT_LINK# </image>
+
+
+<div>
+<cont/>
+<id>p131r_a5</id>
 
 
 <ab>...en forme ronde pour la gecter en <m>or</m> et <m>argent.</m> Ne mect<lb/>
@@ -14,47 +16,47 @@ fondu va au fonds, et neanmoings laisse de sa qualité<lb/>
 donnant fermette. En ceste sorte, tu peux fondre au<lb/>
 feu ceste figure esbauchée de <m>cire.</m> Mays si elle<lb/>
 est composée de <m>ceruse</m> ou semblable, il faut que<lb/>
-tu mettes ton moule dans <m>l’eau</m> bouillante.</ab>
+tu mettes ton moule dans <m>l'eau</m> bouillante.</ab>
  
 <note>
 <margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
 Pour figures<lb/>
 de <m>cire platte,</m><lb/>
-il n’est poinct besoing<lb/>
+il n'est poinct besoing<lb/>
 de tout cela.<lb/>
 Car la <m>cire</m> se<lb/>
 despouille &amp; ne<lb/>
 demeure pas dans<lb/>
-le{dit} moule.</ab>
+le{dit} moule.</note>
 
 
 </div>
 <div>
 <id>p131v_a1</id>
-<head>Quand le gect <m>d’estain</m> ou de <m>plomb</m> soufle</head>
+<head>Quand le gect <m>d'estain</m> ou de <m>plomb</m> soufle</head>
 
 
 <ab>Si ton ouvraige gecté a souflé, il se peut reparer<lb/>
 avec de la <m>cire</m> fort dure, que tu peux après argenter<lb/>
 ou dorer pour obvier à cela Si tu gectes tanvre<lb/>
-la ligne d’une ℥ de <m>plomb</m> sur une lb. <m>destain</m><lb/>
+la ligne d'une ℥ de <m>plomb</m> sur une lb. <m>destain</m><lb/>
 est bonne. Mays si tu gectes de <m>plomb,</m> Il fault<lb/>
 bien sur une lb. diceluy deux ℥ <m>destain,</m> car le <m>plomb</m><lb/>
-estant  gras &amp; poisant, porte plus de ceste ligne. J’ay<lb/>
+estant  gras &amp; poisant, porte plus de ceste ligne. J'ay<lb/>
 gecté ung grand lezard co{mm}e le naturel En chose<lb/>
-espesse ce qui garde long temps sa chaleur s’il y<lb/>
-a guere de <m>d’estain,</m> il fait soufler. Ton moule ne<lb/>
+espesse ce qui garde long temps sa chaleur s'il y<lb/>
+a guere de <m>d'estain,</m> il fait soufler. Ton moule ne<lb/>
 doit pas estre froid, mays en telle chaleur que tu<lb/>
 le puisse manier sans lesion, ou que tu puisses tenir<lb/>
 le doigt dans le gect sans te brusler. Il fault aussy<lb/>
 que ton <m>plomb</m> ou <m>estain</m> soit comme rouge. Fonds<lb/>
-premierem{ent} le <m>plomb,</m> &amp; puys la  ligne de <m>l’estain</m> dessus.<lb/>
+premierem{ent} le <m>plomb,</m> &amp; puys la  ligne de <m>l'estain</m> dessus.<lb/>
 Et co{mm}e tu vouldras gecter, mets un lopin de <m>rousine</m><lb/>
-&amp; puys un peu <m>d’estain de glace.</m> si tu mect parmy <m>l’estain</m><lb/>
+&amp; puys un peu <m>d'estain de glace.</m> si tu mect parmy <m>l'estain</m><lb/>
 trop de <m>plomb,</m> il ne court pas bien <m>tanvre.</m> Et pour le sçavoir<lb/>
-si <m>l’estain</m> crie fort, c’est signe quil n’y ha pas trop de <m>plomb;</m><lb/>
-s’il crie lentem{ent}, c’est à dire quil y en ha trop,<lb/>
-advise bien.</ab>
+si <m>l'estain</m> crie fort, c'est signe quil n'y ha pas trop de <m>plomb;</m><lb/>
+s'il crie lentem{ent}, c'est à dire quil y en ha trop,<lb/>
+advise bien</ab>
 
 
 <note>
@@ -70,12 +72,12 @@ et semblable.</note>
 <note>
 <margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
 
-<m>L’estain</m> est un<lb/>
+<m>L'estain</m> est un<lb/>
 metal qui pe[…]tre<lb/> 
 qui soufle &amp; brule<lb/>
 &amp; est fantasque<lb/>
 à pratiquer plus<lb/>
-<m>l’or</m> et <m>l’argent.</m></note>
+<m>l'or</m> et <m>l'argent.</m></note>
  
 <note>
 <margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
@@ -89,8 +91,12 @@ chaleur &amp; le moule<lb/>
 est tellem{ent} chault que<lb/>
 tu puisses soufrir<lb/>
 le doigt dedans.<lb/>
-Ne l’ouvre pas qu’il<lb/>
+Ne l'ouvre pas qu'il<lb/>
 ne soit refroidy.<lb/>
-c’est signe de bon gect<lb/>
-tant pour luy que <m>l’or</m><lb/>
-&amp; <m>argent</m> quand il sort par les soupirails.</note></root>
+c'est signe de bon gect<lb/>
+tant pour luy que <m>l'or</m><lb/>
+&amp; <m>argent</m> quand il sort par les soupirails.</note>
+
+
+<cont/>
+</div></root>

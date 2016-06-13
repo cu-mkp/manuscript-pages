@@ -1,11 +1,11 @@
-<root>﻿#ERROR:_Number_of_<div>_and_</div>_unbalanced#
-
-
-<page>013v</page>
+<root>﻿<page>013v</page>
 <image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f32.image</image>
 
 
+<div>
+<cont/>
 <id>p013r_4</id>
+<ab>
 passeroit pas si bien Mays choisis pour cet effect la <m>soye</m> crue<lb/>
 jaulne &amp; naturelle pource quelle est plus forte &amp; rejecte la<lb/>
 <m>farine</m> comme le <m>poil de <al>cheval</al></m>
@@ -61,9 +61,9 @@ aulx larrons
 <head><al>Serpens</al></head>
 
 
-<ab>On dict que si on nomme en grec un <al>serpent</al> disant ΌΦΗ<lb/>
-ΌΦΗ quil sen fuyra Comme si en grec on <del>non</del> appelle un<lb/>
-<al>pourceau</al> <del>y</del> ïon quil viendra
+<ab>On dict que si on nomme en grec un <al>serpent</al> disant <greek>ΟΦΗ<lb/>
+ΟΦΗ</greek> quil sen fuyra Comme si en grec on <del>non</del> appelle un<lb/>
+<al>pourceau</al> <del>y</del> <greek>ïon</greek> quil viendra
 </ab>
 </div>
 
@@ -74,7 +74,7 @@ aulx larrons
 
 
 <ab>Jamays les <pro>chandeliers</pro> ne font bonne chandelle lorsque<lb/>
-le vent dhaultan soufle pourcequelle est tousjours fondante<lb/>
+le vent d<oc><env>haultan</oc></env> soufle pourcequelle est tousjours fondante<lb/>
 quelque bon <m>suif</m> quilz y employent
 </ab>
 </div></root>

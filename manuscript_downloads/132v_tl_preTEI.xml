@@ -1,10 +1,10 @@
-<root>﻿#ERROR:_Number_of_<note>_and_</note>_unbalanced#
-
-
-<page>132v</page> 
+<root>﻿<page>132v</page> 
 <image> #ERROR:_INSERT_LINK# </image>
 
 
+<div>
+<cont/>
+<id>p132r_a2</id>
 <ab>dry by itself. When your mold starts to redden, it will soon be become completely red-hot. But make sure that its bottom is red-hot too, without any black spot.</ab>
 
 
@@ -32,7 +32,7 @@ I have tried to prevent molds blended with <m>sand</m> from cracking when anneal
  
 <note>
 <margin>#ERROR:_NO_MARGIN_AVAILABLE#</margin>
-<m>Sand</m> is better made with <m>distilled vinegar</m>.<lb/>
+<m>Sand</m> is better made with <m>distilled vinegar</m>.</note>
 
 
 <note>
@@ -51,4 +51,7 @@ You can use this one for all molds, because it prevents them from cracking and b
 <head>Gilding animals casted with <m>silver</m></head>
 
 
-<ab>You can gild them with an amalgam, the lines won’t be damaged if they are made from <m>silver</m>.</ab></root>
+<ab>You can gild them with an amalgam, the lines won't be damaged if they are made from <m>silver</m>.</ab>
+
+
+</div></root>

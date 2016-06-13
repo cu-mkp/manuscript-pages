@@ -1,11 +1,11 @@
-<root>﻿#ERROR:_Number_of_<div>_and_</div>_unbalanced#
-
-
-<page>101v</page>
+<root>﻿<page>101v</page>
 <image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f208.image</image>
 
 
-que le crusol soict rouge Apres jecte le sur un mabre<lb/>
+<div>
+<cont/>
+<id>p101r_2</id>
+<ab>que le crusol soict rouge Apres jecte le sur un mabre<lb/>
 et tu auras une matiere blanche dure &amp; unie comme <m>albastre</m><lb/>
 dequoy tu pourras jecter medailles qui sembleront marbre<lb/>
 mays garde les de lhumidite</ab>
@@ -32,7 +32,7 @@ tes creusets
 <note>
 <margin>left-top</margin>
 On tient que<lb/>
-l’<m>antimoine</m> rubifie<lb/>
+l'<m>antimoine</m> rubifie<lb/>
 soict <m>jacinthe</m>
 </note>
 </div>
