@@ -101,6 +101,12 @@ def main():
     credentials = get_credentials()
     http = credentials.authorize(httplib2.Http())
     service = discovery.build('drive', 'v2', http=http)
+    
+    #create relevant directories
+    for x in range(1,171):
+        print(x.zfill(0))
+        os.makedirs("./manuscript_downloads/" + x.zfill(3) + "r")
+        os.makedirs("./manuscript_downloads/" + x.zfill(3) + "v")
 
     #Get each folder in manuscript pages
     folders = service.files().list(q="'0B42QaQPHLJloNnZhakpiVk9GRmM' in parents", maxResults="5").execute()
@@ -136,17 +142,18 @@ def main():
                     #grab the file's exportLink to download it
                     flink = f["exportLinks"]["text/plain"]
                     print(flink)
+                    
                     #using exportLink, download and save the file with its new title
                     download_file_by_url(flink, new_file_title)
                     #modify the file to add root tags at the beginning and end
                     add_root_tags(new_file_title)
 
                     #check if the file is well-formed XML
-                    try:
-                        xml = str(f.open(new_file_title))
-                        doc = etree.fromstring(xml)
-                    except XMLSyntaxError as e:
-                        print(e)
+                    #try:
+                    #    xml = str(f.open(new_file_title))
+                    #    doc = etree.fromstring(xml)
+                    #except XMLSyntaxError as e:
+                    #    print(e)
                 except:
                     print("No exportLink for this file")
     print(len(folders_hash))
