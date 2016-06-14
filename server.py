@@ -6,6 +6,8 @@ import io
 import json
 import urllib
 
+from lxml import etree
+
 from apiclient import discovery
 from apiclient import http
 from apiclient import errors
@@ -101,7 +103,7 @@ def main():
     service = discovery.build('drive', 'v2', http=http)
 
     #Get each folder in manuscript pages
-    folders = service.files().list(q="'0B42QaQPHLJloNnZhakpiVk9GRmM' in parents", maxResults="400").execute()
+    folders = service.files().list(q="'0B42QaQPHLJloNnZhakpiVk9GRmM' in parents", maxResults="5").execute()
     folders_hash = folders["items"]
 
     for folder in folders_hash:
@@ -138,7 +140,13 @@ def main():
                     download_file_by_url(flink, new_file_title)
                     #modify the file to add root tags at the beginning and end
                     add_root_tags(new_file_title)
-                    
+
+                    #check if the file is well-formed XML
+                    try:
+                        xml = str(f.open(new_file_title))
+                        doc = etree.fromstring(xml)
+                    except XMLSyntaxError as e:
+                        print(e)
                 except:
                     print("No exportLink for this file")
     print(len(folders_hash))
