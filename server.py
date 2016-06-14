@@ -104,12 +104,11 @@ def main():
     
     #create relevant directories
     for x in range(1,171):
-        print(x.zfill(0))
-        os.makedirs("./manuscript_downloads/" + x.zfill(3) + "r")
-        os.makedirs("./manuscript_downloads/" + x.zfill(3) + "v")
+        os.makedirs("./manuscript_downloads/" + str(x).zfill(3) + "r")
+        os.makedirs("./manuscript_downloads/" + str(x).zfill(3) + "v")
 
     #Get each folder in manuscript pages
-    folders = service.files().list(q="'0B42QaQPHLJloNnZhakpiVk9GRmM' in parents", maxResults="5").execute()
+    folders = service.files().list(q="'0B42QaQPHLJloNnZhakpiVk9GRmM' in parents", maxResults="10").execute()
     folders_hash = folders["items"]
 
     for folder in folders_hash:
