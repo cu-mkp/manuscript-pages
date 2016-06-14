@@ -128,7 +128,7 @@ def main():
                     #grab the page number of the file to put it in the correct folder
                     m = re.search('\d+[rv]', ftitle)
                     page_number = m.group(0)
-                    new_file_title = "manuscript_downloads/" + page_number + "/" + get_new_file_title(ftitle)
+                    new_file_title = "manuscript_downloads/" + get_new_file_title(ftitle)
                     print(ftitle)
                     print(new_file_title)
                     #grab the file's exportLink to download it
