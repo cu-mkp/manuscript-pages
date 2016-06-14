@@ -52,6 +52,9 @@ def get_credentials():
         flow = client.flow_from_clientsecrets(CLIENT_SECRET_FILE, SCOPES)
         flow.user_agent = APPLICATION_NAME
         if flags:
+            print(flow)
+            print(store)
+            print(flags)
             credentials = tools.run_flow(flow, store, flags)
         else: # Needed only for compatibility with Python 2.6
             credentials = tools.run(flow, store)
@@ -66,7 +69,7 @@ def download_file_by_url(url, path):
         return
 
 #given a file title, return the file's new title, according to the naming convention:
-# tc_p057r ==> [057]_[tc]_preTEI.xml
+# tc_p057r ==> 057_tc_preTEI.xml
 def get_new_file_title(old_title):
     m = re.search('\d+[rv]', old_title)
     folio_number = m.group(0)
@@ -122,7 +125,10 @@ def main():
                 try:
                     #grab the file's title and generate the new title
                     ftitle = f["title"]
-                    new_file_title = "manuscript_downloads/" + get_new_file_title(ftitle)
+                    #grab the page number of the file to put it in the correct folder
+                    m = re.search('\d+[rv]', ftitle)
+                    page_number = m.group(0)
+                    new_file_title = "manuscript_downloads/" + page_number + "/" + get_new_file_title(ftitle)
                     print(ftitle)
                     print(new_file_title)
                     #grab the file's exportLink to download it
