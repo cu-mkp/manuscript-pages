@@ -153,7 +153,7 @@ def main():
                             xml = myfile.read()
                             doc = etree.fromstring(xml)
                         print("worked!")
-                    except:
+                    except Exception as e:
                         print("error")
                         print(e)
                 except:
