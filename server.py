@@ -83,10 +83,10 @@ def get_new_file_title(old_title):
 
 def add_root_tags(file_title):
     #append "</root>" to end of file
-    with open(file_title, "a", encoding="utf-8") as f:
+    with open(file_title, "a") as f:
         f.write("</root>")
     #add "<root>" to beginning of file
-    with open(file_title, "r+", encoding="utf-8") as f:
+    with open(file_title, "r+") as f:
         old = f.read()
         f.seek(0)
         f.write("<root>" + old)
@@ -108,7 +108,7 @@ def main():
         os.makedirs("./manuscript_downloads/" + str(x).zfill(3) + "v")
 
     #Get each folder in manuscript pages
-    folders = service.files().list(q="'0B42QaQPHLJloNnZhakpiVk9GRmM' in parents", maxResults="400").execute()
+    folders = service.files().list(q="'0B42QaQPHLJloNnZhakpiVk9GRmM' in parents", maxResults="10").execute()
     #folders = service.files().list(q="title = 'p046r JKR++ G3' and '0B42QaQPHLJloNnZhakpiVk9GRmM' in parents").execute()
 
     folders_hash = folders["items"]
