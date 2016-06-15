@@ -108,7 +108,7 @@ def main():
         os.makedirs("./manuscript_downloads/" + str(x).zfill(3) + "v")
 
     #Get each folder in manuscript pages
-    folders = service.files().list(q="'0B42QaQPHLJloNnZhakpiVk9GRmM' in parents", maxResults="10").execute()
+    folders = service.files().list(q="'0B42QaQPHLJloNnZhakpiVk9GRmM' in parents", maxResults="400").execute()
     #folders = service.files().list(q="title = 'p046r JKR++ G3' and '0B42QaQPHLJloNnZhakpiVk9GRmM' in parents").execute()
 
     folders_hash = folders["items"]
