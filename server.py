@@ -6,6 +6,8 @@ import io
 import json
 import urllib
 
+from lxml import etree
+
 from apiclient import discovery
 from apiclient import http
 from apiclient import errors
@@ -99,9 +101,16 @@ def main():
     credentials = get_credentials()
     http = credentials.authorize(httplib2.Http())
     service = discovery.build('drive', 'v2', http=http)
+    
+    #create relevant directories
+    for x in range(1,171):
+        os.makedirs("./manuscript_downloads/" + str(x).zfill(3) + "r")
+        os.makedirs("./manuscript_downloads/" + str(x).zfill(3) + "v")
 
     #Get each folder in manuscript pages
-    folders = service.files().list(q="'0B42QaQPHLJloNnZhakpiVk9GRmM' in parents", maxResults="400").execute()
+    folders = service.files().list(q="'0B42QaQPHLJloNnZhakpiVk9GRmM' in parents", maxResults="10").execute()
+    #folders = service.files().list(q="title = 'p046r JKR++ G3' and '0B42QaQPHLJloNnZhakpiVk9GRmM' in parents").execute()
+
     folders_hash = folders["items"]
 
     for folder in folders_hash:
@@ -128,17 +137,29 @@ def main():
                     #grab the page number of the file to put it in the correct folder
                     m = re.search('\d+[rv]', ftitle)
                     page_number = m.group(0)
-                    new_file_title = "manuscript_downloads/" + get_new_file_title(ftitle)
-                    print(ftitle)
+                    
+                    new_file_title = "manuscript_downloads/" + page_number + "/" + get_new_file_title(ftitle)
+                    #print(ftitle)
+
                     print(new_file_title)
                     #grab the file's exportLink to download it
                     flink = f["exportLinks"]["text/plain"]
-                    print(flink)
+                    #print(flink)
+                    
                     #using exportLink, download and save the file with its new title
                     download_file_by_url(flink, new_file_title)
                     #modify the file to add root tags at the beginning and end
                     add_root_tags(new_file_title)
-                    
+
+                    #check if the file is well-formed XML
+                    try:
+                        with open(new_file_title, "r") as myfile:
+                            xml = myfile.read()
+                            doc = etree.fromstring(xml)
+                        print("worked!")
+                    except Exception as e:
+                        print("error")
+                        print(e)
                 except:
                     print("No exportLink for this file")
     print(len(folders_hash))
