@@ -1,4 +1,5 @@
 venv
 .credentials/
 client_secret.json
-old_manuscript_downloads/
+old_manuscript_downloads
+
