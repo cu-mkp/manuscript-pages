@@ -1,6 +1,5 @@
 from __future__ import print_function
 import httplib2
-
 import os
 import shutil
 import io
@@ -11,6 +10,7 @@ from lxml import etree
 
 from apiclient import discovery
 from apiclient import http
+from apiclient.http import MediaFileUpload
 from apiclient import errors
 
 import oauth2client
@@ -122,7 +122,7 @@ def main():
     csv = open("well_formedness_errors.csv", "wb")
 
     #Get each folder in manuscript pages
-    folders = service.files().list(q="'0B42QaQPHLJloNnZhakpiVk9GRmM' in parents", maxResults="5").execute()
+    folders = service.files().list(q="'0B42QaQPHLJloNnZhakpiVk9GRmM' in parents", maxResults="2").execute()
     #folders = service.files().list(q="title = 'p046r JKR++ G3' and '0B42QaQPHLJloNnZhakpiVk9GRmM' in parents").execute()
 
     folders_hash = folders["items"]
@@ -187,19 +187,15 @@ def main():
                     print("No exportLink for this file")
     print(len(folders_hash))
 
-
-
-    #Create a spreadsheet
-    #body = {
-    #    'mimeType': 'application/vnd.google-apps.spreadsheet',
-    #    'title': 'practice_sheet1',
-    #}
-    #file = service.files().insert(body=body).execute(http=http)
-
-    #Update the spreadsheet
-    #discoveryUrl = ('https://sheets.googleapis.com/$discovery/rest?' 'version=v4')
-    #service = discovery.build('sheets', 'v4', http=http, discoveryServiceUrl=discoveryUrl)
-    #result = service.spreadsheets().values().update(spreadsheetId=spreadsheetId, range=rangeName).execute()
+    #upload the csv file as a spreadsheet
+    file_metadata = {
+        'name' : 'wf_errors',
+        'title' : 'wf_errors',
+    'mimeType' : 'application/vnd.google-apps.spreadsheet'
+    }
+    media = MediaFileUpload('well_formedness_errors.csv', mimetype='text/csv', resumable=True)
+    file = service.files().insert(body=file_metadata, media_body=media,fields='id').execute()
+    #print 'File ID: %s' % file.get('id')
 
 if __name__ == '__main__':
     main()
