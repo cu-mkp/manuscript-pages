@@ -2,4 +2,5 @@ venv
 .credentials/
 client_secret.json
 old_manuscript_downloads
+well_formedness_errors.csv
 

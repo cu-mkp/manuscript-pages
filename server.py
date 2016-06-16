@@ -2,6 +2,7 @@ from __future__ import print_function
 import httplib2
 
 import os
+import shutil
 import io
 import json
 import urllib
@@ -26,7 +27,7 @@ except ImportError:
 
 # If modifying these scopes, delete your previously saved credentials
 # at ~/.credentials/drive-python-quickstart.json
-SCOPES = 'https://www.googleapis.com/auth/drive.readonly'
+SCOPES = 'https://www.googleapis.com/auth/drive.readonly https://www.googleapis.com/auth/drive.file'
 CLIENT_SECRET_FILE = 'client_secret.json'
 APPLICATION_NAME = 'Drive API Python Quickstart'
 REDIRECT_URI = "http://localhost:8080/"
@@ -102,13 +103,26 @@ def main():
     http = credentials.authorize(httplib2.Http())
     service = discovery.build('drive', 'v2', http=http)
     
-    #create relevant directories
+    #clear manuscript_downloads, then create relevant subdirectories
+    for the_file in os.listdir("./manuscript_downloads/"):
+        file_path = os.path.join("./manuscript_downloads/", the_file)
+        try:
+           if os.path.isfile(file_path):
+               os.unlink(file_path)
+           elif os.path.isdir(file_path):
+               shutil.rmtree(file_path)
+        except Exception as e:
+           print(e)
+
     for x in range(1,171):
         os.makedirs("./manuscript_downloads/" + str(x).zfill(3) + "r")
         os.makedirs("./manuscript_downloads/" + str(x).zfill(3) + "v")
 
+    #Make CSV file
+    csv = open("well_formedness_errors.csv", "wb")
+
     #Get each folder in manuscript pages
-    folders = service.files().list(q="'0B42QaQPHLJloNnZhakpiVk9GRmM' in parents", maxResults="10").execute()
+    folders = service.files().list(q="'0B42QaQPHLJloNnZhakpiVk9GRmM' in parents", maxResults="5").execute()
     #folders = service.files().list(q="title = 'p046r JKR++ G3' and '0B42QaQPHLJloNnZhakpiVk9GRmM' in parents").execute()
 
     folders_hash = folders["items"]
@@ -151,18 +165,41 @@ def main():
                     #modify the file to add root tags at the beginning and end
                     add_root_tags(new_file_title)
 
-                    #check if the file is well-formed XML
+                    #write the title and link to the csv file
+                    with open("well_formedness_errors.csv", "a") as myfile:
+                        myfile.write(ftitle + "," + flink)
+
+                    #check if the file is well-formed XML; 
+                    #if it is, write "well-formed" to the csv file; if it's not, write the error message
                     try:
                         with open(new_file_title, "r") as myfile:
                             xml = myfile.read()
                             doc = etree.fromstring(xml)
-                        print("worked!")
+                        #print("worked!")
+                        with open("well_formedness_errors.csv", "a") as myfile:
+                            myfile.write(", well-formed\n")
                     except Exception as e:
-                        print("error")
+                        #print("error")
                         print(e)
+                        with open("well_formedness_errors.csv", "a") as myfile:
+                            myfile.write("," + str(e) + "\n")
                 except:
                     print("No exportLink for this file")
     print(len(folders_hash))
+
+
+
+    #Create a spreadsheet
+    #body = {
+    #    'mimeType': 'application/vnd.google-apps.spreadsheet',
+    #    'title': 'practice_sheet1',
+    #}
+    #file = service.files().insert(body=body).execute(http=http)
+
+    #Update the spreadsheet
+    #discoveryUrl = ('https://sheets.googleapis.com/$discovery/rest?' 'version=v4')
+    #service = discovery.build('sheets', 'v4', http=http, discoveryServiceUrl=discoveryUrl)
+    #result = service.spreadsheets().values().update(spreadsheetId=spreadsheetId, range=rangeName).execute()
 
 if __name__ == '__main__':
     main()
