@@ -190,12 +190,12 @@ def main():
     #upload the csv file as a spreadsheet
     file_metadata = {
         'name' : 'wf_errors',
-        'title' : 'wf_errors',
-    'mimeType' : 'application/vnd.google-apps.spreadsheet'
+        'title' : 'wf_errors_list',
+    'mimeType' : 'application/vnd.google-apps.spreadsheet',
+    'parents' : [{'id' : '0BwJi-u8sfkVDZ05XNy1tMUdQM1E'}]
     }
     media = MediaFileUpload('well_formedness_errors.csv', mimetype='text/csv', resumable=True)
-    file = service.files().insert(body=file_metadata, media_body=media,fields='id').execute()
-    #print 'File ID: %s' % file.get('id')
+    create_file = service.files().insert(body=file_metadata, media_body=media,fields='id').execute()
 
 if __name__ == '__main__':
     main()
