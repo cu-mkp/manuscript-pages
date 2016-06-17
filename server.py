@@ -97,6 +97,22 @@ def add_root_tags(path):
         f.write("<root>" + old)
     return
 
+def clear_directory(path):
+    """Clears the directory at location path of all files and subdirectories
+    """
+    for the_file in os.listdir(path):
+        file_path = os.path.join(path, the_file)
+        try:
+           if os.path.isfile(file_path):
+               os.unlink(file_path)
+           elif os.path.isdir(file_path):
+               shutil.rmtree(file_path)
+        except Exception as e:
+           print(e)
+    return
+
+
+
 def main():
     """Shows basic usage of the Google Drive API.
 
@@ -107,18 +123,9 @@ def main():
     http = credentials.authorize(httplib2.Http())
     service = discovery.build('drive', 'v2', http=http)
     
-    #clear manuscript_downloads, then create relevant subdirectories
-    for the_file in os.listdir("./manuscript_downloads/"):
-        file_path = os.path.join("./manuscript_downloads/", the_file)
-        try:
-           if os.path.isfile(file_path):
-               os.unlink(file_path)
-           elif os.path.isdir(file_path):
-               shutil.rmtree(file_path)
-        except Exception as e:
-           print(e)
+    clear_directory("./manuscript_downloads/")  # clear manuscript_downloads directory
 
-    for x in range(1,171):
+    for x in range(1,171):  # repopulate manuscript_downloads with appropriate subdirectories
         os.makedirs("./manuscript_downloads/" + str(x).zfill(3) + "r")
         os.makedirs("./manuscript_downloads/" + str(x).zfill(3) + "v")
 
