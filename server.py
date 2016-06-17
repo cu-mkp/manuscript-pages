@@ -51,8 +51,7 @@ def get_credentials():
     store = oauth2client.file.Storage(credential_path)
     credentials = store.get()
     if not credentials or credentials.invalid:
-        #this is where the magic happens
-        flow = client.flow_from_clientsecrets(CLIENT_SECRET_FILE, SCOPES)
+        flow = client.flow_from_clientsecrets(CLIENT_SECRET_FILE, SCOPES)   # This is where the magic happens
         flow.user_agent = APPLICATION_NAME
         if flags:
             print(flow)
@@ -81,17 +80,17 @@ def get_new_file_title(old_title):
     m = re.search('\d+[rv]', old_title)
     page_number = m.group(0)
     m = re.search('[tcnl]+', old_title)
-    file_type = m.group(0)  # file_type refers to whether the file is tc, tcn, or tl
+    file_type = m.group(0)  # File_type refers to whether the file is tc, tcn, or tl
     new_file_title = page_number + "_" + file_type + "_preTEI.xml"
     return new_file_title
 
 def add_root_tags(path):
     """Given a file's location path, add root tags to the beginning and end of the file
     """
-    with open(path, "a") as f:    # append "</root>" to end of file
+    with open(path, "a") as f:    # Append "</root>" to end of file
         f.write("</root>")
     
-    with open(path, "r+") as f:   # add "<root>" to beginning of file
+    with open(path, "r+") as f:   # Add "<root>" to beginning of file
         old = f.read()
         f.seek(0)
         f.write("<root>" + old)
@@ -150,14 +149,13 @@ def main():
     http = credentials.authorize(httplib2.Http())
     service = discovery.build('drive', 'v2', http=http)
     
-    clear_directory("./manuscript_downloads/")  # clear manuscript_downloads directory
+    clear_directory("./manuscript_downloads/")  # Clear manuscript_downloads directory
 
-    for x in range(1,171):  # repopulate manuscript_downloads with appropriate subdirectories
+    for x in range(1,171):  # Repopulate manuscript_downloads with appropriate subdirectories
         os.makedirs("./manuscript_downloads/" + str(x).zfill(3) + "r")
         os.makedirs("./manuscript_downloads/" + str(x).zfill(3) + "v")
 
-    #Create csv file
-    csv = open("well_formedness_errors.csv", "wb")
+    csv = open("well_formedness_errors.csv", "wb")  # Create csv file
 
     #Get each folder in manuscript pages.
     #maxResults is set to 400 so that every folder in __Manuscript Pages can be processed.
@@ -223,8 +221,10 @@ def main():
                     print("No exportLink for this file")
     print(len(folders_hash))
 
-    #upload the csv file as a spreadsheet
-    upload_csv_as_spreadsheet(service, "well_formedness_errors.csv", "XML_well-formedness_errors_list", [{'id' : '0BwJi-u8sfkVDZ05XNy1tMUdQM1E'}])
+    upload_csv_as_spreadsheet(service,  # Upload the csv file as a spreadsheet
+        "well_formedness_errors.csv", 
+    "XML_well-formedness_errors_list", 
+    [{'id' : '0BwJi-u8sfkVDZ05XNy1tMUdQM1E'}])
 
 if __name__ == '__main__':
     main()
