@@ -25,8 +25,9 @@ try:
 except ImportError:
     flags = None
 
-# If modifying these scopes, delete your previously saved credentials
-# at ~/.credentials/drive-python-quickstart.json
+"""If modifying these scopes, delete your previously saved credentials
+    at ~/.credentials/drive-python-quickstart.json
+"""
 SCOPES = 'https://www.googleapis.com/auth/drive.readonly https://www.googleapis.com/auth/drive.file'
 CLIENT_SECRET_FILE = 'client_secret.json'
 APPLICATION_NAME = 'Drive API Python Quickstart'
@@ -122,7 +123,6 @@ def upload_csv_as_spreadsheet(service, path, file_title, file_parents=""):
                 then pass [{'id' : '0BwJi-u8sfkVDZ05XNy1tMUdQM1E'}] as the file_parents argument
             If no value is passed for file_parents, then it is placed in the root folder of the user's Drive
     """
-
     if file_parents=="":
         file_metadata = {    
             'title' : file_title,
@@ -140,10 +140,10 @@ def upload_csv_as_spreadsheet(service, path, file_title, file_parents=""):
     return
 
 def main():
-    """Shows basic usage of the Google Drive API.
-
-    Creates a Google Drive API service object and outputs the names and IDs
-    for up to 10 files.
+    """Downloads every file in __Manuscript Pages and saves them to the correct subdirectory of manuscript_downloads.
+        Adds root tags to each file, checks if the files are well-formed XML.
+        Writes the results of this check to well_formedness_errors.csv
+        Uploads the csv as a spreadsheet to 2016 Files for Paleographers.
     """
     credentials = get_credentials()
     http = credentials.authorize(httplib2.Http())
@@ -157,56 +157,50 @@ def main():
 
     csv = open("well_formedness_errors.csv", "wb")  # Create csv file
 
-    #Get each folder in manuscript pages.
-    #maxResults is set to 400 so that every folder in __Manuscript Pages can be processed.
-    #If you would like to test the code for some functionality, set maxResults to a smaller number.
+    """Get each folder in manuscript pages.
+        maxResults is set to 400 so that every folder in __Manuscript Pages can be processed.
+        If you would like to test the code for some functionality, set maxResults to a smaller number.
+    """
     folders = service.files().list(q="'0B42QaQPHLJloNnZhakpiVk9GRmM' in parents", maxResults="2").execute()
 
     folders_hash = folders["items"]
 
     for folder in folders_hash:
-        #get the folder's id
-        try:
+        try:    # Get the folder's id
             folder_id = folder["id"]
             print(folder_id)
             print(folder["title"])
         except:
             print("no title")
 
-        #using the folder's id, grab all files within the folder
-        files_within_folder = service.files().list(q="'" + folder_id + "' in parents").execute()
+        files_within_folder = service.files().list(q="'" + folder_id + "' in parents").execute()    # Use the folder's id to get all files within the folder
         files = files_within_folder.get('items', [])
         if not files:
             print('No files found.')
         else:
             print('Files:')
-            #grab the export link (if it exists) of each file within the folder
-            for f in files: 
+            
+            for f in files: # Process every file with an exportLink
                 try:
-                    #grab the file's title and generate the new title
-                    ftitle = f["title"]
-                    #grab the page number of the file to put it in the correct folder
+                    ftitle = f["title"] # Get the file's title
                     m = re.search('\d+[rv]', ftitle)
-                    page_number = m.group(0)
-                    new_file_title = "manuscript_downloads/" + page_number + "/" + get_new_file_title(ftitle)
+                    page_number = m.group(0)    # Get the page number of the file to put it in the correct folder
+                    new_file_title = "manuscript_downloads/" + page_number + "/" + get_new_file_title(ftitle)   # Generate the file's new name
                     print(new_file_title)
-
-                    #grab the file's exportLink to download it
-                    flink = f["exportLinks"]["text/plain"]
                     
-                    #using exportLink, download and save the file with its new title
-                    download_file_by_url(flink, new_file_title)
-                    #modify the file to add root tags at the beginning and end
-                    add_root_tags(new_file_title)
+                    flink = f["exportLinks"]["text/plain"]
+                    download_file_by_url(flink, new_file_title) # Using the exportLink, download and save the file with its new title
+                    add_root_tags(new_file_title)   # Modify the file to add root tags at the beginning and end
 
-                    #write the page number, file type (tc, tcn, or tl), and link to the csv file
                     m = re.search('[tcnl]+', ftitle)
                     file_type = m.group(0)
-                    with open("well_formedness_errors.csv", "a") as myfile:    
+                    with open("well_formedness_errors.csv", "a") as myfile: # Write the page number, file type (tc, tcn, or tl), and link to the csv file
                         myfile.write(page_number + "," + file_type + "," + flink)
 
-                    #check if the file is well-formed XML; 
-                    #if it is, write "well-formed" to the csv file; if it's not, write the error message
+                    """Check if the file is well-formed XML; 
+                        if it is, write "well-formed" to the csv file; 
+                        if it's not, write the error message
+                    """
                     try:
                         with open(new_file_title, "r") as myfile:
                             xml = myfile.read()
