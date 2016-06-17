@@ -111,7 +111,34 @@ def clear_directory(path):
            print(e)
     return
 
+def upload_csv_as_spreadsheet(service, path, file_title, file_parents=""):
+    """Uploads a csv file to user's Google Drive as a Google spreadsheet
 
+    Args:
+        service: the service object with which you are accessing the Drive API
+        path: the path to the file to be uploaded
+        file_title: the title to be given to the uploaded file
+        file_parents: the IDs of the folders that this file should be uploaded to
+            e.g. if you with the uploaded file to be placed within a directory with ID 0BwJi-u8sfkVDZ05XNy1tMUdQM1E,
+                then pass [{'id' : '0BwJi-u8sfkVDZ05XNy1tMUdQM1E'}] as the file_parents argument
+            If no value is passed for file_parents, then it is placed in the root folder of the user's Drive
+    """
+
+    if file_parents=="":
+        file_metadata = {    
+            'title' : file_title,
+        'mimeType' : "application/vnd.google-apps.spreadsheet"
+        }
+    else:
+        file_metadata = {    
+            'title' : file_title,
+        'mimeType' : "application/vnd.google-apps.spreadsheet",
+        'parents' : file_parents
+    }
+    
+    media = MediaFileUpload(path, mimetype='text/csv', resumable=True)
+    create_file = service.files().insert(body=file_metadata, media_body=media,fields='id').execute()
+    return
 
 def main():
     """Shows basic usage of the Google Drive API.
@@ -197,14 +224,7 @@ def main():
     print(len(folders_hash))
 
     #upload the csv file as a spreadsheet
-    file_metadata = {
-        'name' : 'wf_errors',
-        'title' : 'XML_well-formedness_errors_list',
-    'mimeType' : 'application/vnd.google-apps.spreadsheet',
-    'parents' : [{'id' : '0BwJi-u8sfkVDZ05XNy1tMUdQM1E'}]
-    }
-    media = MediaFileUpload('well_formedness_errors.csv', mimetype='text/csv', resumable=True)
-    create_file = service.files().insert(body=file_metadata, media_body=media,fields='id').execute()
+    upload_csv_as_spreadsheet(service, "well_formedness_errors.csv", "XML_well-formedness_errors_list", [{'id' : '0BwJi-u8sfkVDZ05XNy1tMUdQM1E'}])
 
 if __name__ == '__main__':
     main()
