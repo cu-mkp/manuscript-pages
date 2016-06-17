@@ -189,7 +189,7 @@ def main():
     file_metadata = {
         'name' : 'wf_errors',
         'title' : 'XML_well-formedness_errors_list',
-    'mimeType' : 'applicatigon/vnd.google-apps.spreadsheet',
+    'mimeType' : 'application/vnd.google-apps.spreadsheet',
     'parents' : [{'id' : '0BwJi-u8sfkVDZ05XNy1tMUdQM1E'}]
     }
     media = MediaFileUpload('well_formedness_errors.csv', mimetype='text/csv', resumable=True)
