@@ -121,8 +121,10 @@ def main():
     #Create csv file
     csv = open("well_formedness_errors.csv", "wb")
 
-    #Get each folder in manuscript pages
-    folders = service.files().list(q="'0B42QaQPHLJloNnZhakpiVk9GRmM' in parents", maxResults="2").execute()
+    #Get each folder in manuscript pages.
+    #maxResults is set to 400 so every folder in __Manuscript Pages can be processed.
+    #If you would like to test the code for some functionality, set maxResults to a smaller number.
+    folders = service.files().list(q="'0B42QaQPHLJloNnZhakpiVk9GRmM' in parents", maxResults="400").execute()
 
     folders_hash = folders["items"]
 
