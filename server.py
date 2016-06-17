@@ -180,7 +180,7 @@ def main():
                     except Exception as e:
                         print(e)
                         with open("well_formedness_errors.csv", "a") as myfile:
-                            myfile.write("," + str(e) + "\n")
+                            myfile.write(", error, " + str(e) + "\n")
                 except:
                     print("No exportLink for this file")
     print(len(folders_hash))
