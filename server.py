@@ -191,7 +191,6 @@ def main():
                     flink = f["exportLinks"]["text/plain"]
                     download_file_by_url(flink, new_file_title) # Using the exportLink, download and save the file with its new title
                     os.system("perl remove_BOM.pl " + new_file_title)   # Run perl script to remove BOM character, which Google automatically adds to the start of the file when downloading
-                    #UNCOMMENT THIS LATER
                     add_root_tags(new_file_title)   # Modify the file to add root tags at the beginning and end
 
                     m = re.search('[tcnl]+', ftitle)
@@ -228,7 +227,6 @@ def main():
 
     print(str(len(folders_hash)) + " folders processed.")
 
-    #UNCOMMENT THIS LATER
     upload_csv_as_spreadsheet(service, CSV, # Upload the csv file as a spreadsheet 
     "XML_well-formedness_and_schema_validation_errors_list", 
     [{'id' : '0BwJi-u8sfkVDZ05XNy1tMUdQM1E'}])
