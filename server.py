@@ -161,7 +161,7 @@ def main():
         maxResults is set to 400 so that every folder in __Manuscript Pages can be processed.
         If you would like to test the code for some functionality, set maxResults to a smaller number.
     """
-    folders = service.files().list(q="'0B42QaQPHLJloNnZhakpiVk9GRmM' in parents", maxResults="10").execute()
+    folders = service.files().list(q="'0B42QaQPHLJloNnZhakpiVk9GRmM' in parents", maxResults="400").execute()
 
     folders_hash = folders["items"]
 
@@ -197,27 +197,19 @@ def main():
                     with open("well_formedness_errors.csv", "a") as myfile: # Write the page number, file type (tc, tcn, or tl), and link to the csv file
                         myfile.write(page_number + "," + file_type + "," + flink)
 
-                    """Check if the file is well-formed XML; 
-                        if it is, write "well-formed" to the csv file; 
-                        otherwise, write the error message
-                    """
-                    try:
+                    try:    # Check if the file is well-formed XML, write results to the csv
                         with open(new_file_title, "r") as myfile:
                             xml = myfile.read()
                             doc = etree.fromstring(xml)
                         with open("well_formedness_errors.csv", "a") as myfile:
                             myfile.write(", well-formed, , , ")
 
-                        """Validate the file against the schema;
-                            if it is valid, write "valid against schema" to the csv file;
-                            otherwise, write the error message
-                        """
-                        download_file_by_url("http://52.87.169.35:8080/exist/rest/db/ms-bn-fr-640/lib/preTEI.rng", "preTEI.rng")
+                        download_file_by_url("http://52.87.169.35:8080/exist/rest/db/ms-bn-fr-640/lib/preTEI.rng", "preTEI.rng")    # Download the schema
                         relaxng_doc = etree.parse("preTEI.rng")
                         relaxng = etree.RelaxNG(relaxng_doc)
                         doc = etree.parse(new_file_title)
 
-                        try:
+                        try:    # Validate the file against the schema, write results to the csv
                             relaxng.assertValid(doc)
                             with open("well_formedness_errors.csv", "a") as myfile:
                                 myfile.write(", schema-valid\n")
@@ -226,7 +218,6 @@ def main():
                                 myfile.write(", not schema-valid, " + str(e) + "\n")
 
                     except Exception as e:
-                        print(e)
                         with open("well_formedness_errors.csv", "a") as myfile:
                             myfile.write(", not well-formed, " + str(e) + "\n")
 
