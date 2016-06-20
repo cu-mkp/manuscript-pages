@@ -161,7 +161,7 @@ def main():
         maxResults is set to 400 so that every folder in __Manuscript Pages can be processed.
         If you would like to test the code for some functionality, set maxResults to a smaller number.
     """
-    folders = service.files().list(q="'0B42QaQPHLJloNnZhakpiVk9GRmM' in parents", maxResults="400").execute()
+    folders = service.files().list(q="'0B42QaQPHLJloNnZhakpiVk9GRmM' in parents", maxResults="5").execute()
 
     folders_hash = folders["items"]
 
@@ -224,7 +224,7 @@ def main():
                 except:
                     print("No exportLink for this file")
 
-    print(len(folders_hash) + " folders processed.")
+    print(str(len(folders_hash)) + " folders processed.")
 
     upload_csv_as_spreadsheet(service, CSV, # Upload the csv file as a spreadsheet 
     "XML_well-formedness_and_schema_validation_errors_list", 
