@@ -197,20 +197,30 @@ def main():
                     with open("well_formedness_errors.csv", "a") as myfile: # Write the page number, file type (tc, tcn, or tl), and link to the csv file
                         myfile.write(page_number + "," + file_type + "," + flink)
 
-                    """Check if the file is well-formed XML; 
-                        if it is, write "well-formed" to the csv file; 
-                        if it's not, write the error message
-                    """
-                    try:
+                    try:    # Check if the file is well-formed XML, write results to the csv
                         with open(new_file_title, "r") as myfile:
                             xml = myfile.read()
                             doc = etree.fromstring(xml)
                         with open("well_formedness_errors.csv", "a") as myfile:
-                            myfile.write(", well-formed\n")
+                            myfile.write(", well-formed, , , ")
+
+                        download_file_by_url("http://52.87.169.35:8080/exist/rest/db/ms-bn-fr-640/lib/preTEI.rng", "preTEI.rng")    # Download the schema
+                        relaxng_doc = etree.parse("preTEI.rng")
+                        relaxng = etree.RelaxNG(relaxng_doc)
+                        doc = etree.parse(new_file_title)
+
+                        try:    # Validate the file against the schema, write results to the csv
+                            relaxng.assertValid(doc)
+                            with open("well_formedness_errors.csv", "a") as myfile:
+                                myfile.write(", schema-valid\n")
+                        except Exception as e:
+                            with open("well_formedness_errors.csv", "a") as myfile:
+                                myfile.write(", not schema-valid, " + str(e) + "\n")
+
                     except Exception as e:
-                        print(e)
                         with open("well_formedness_errors.csv", "a") as myfile:
-                            myfile.write(", error, " + str(e) + "\n")
+                            myfile.write(", not well-formed, " + str(e) + "\n")
+
                 except:
                     print("No exportLink for this file")
 
