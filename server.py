@@ -32,7 +32,7 @@ SCOPES = 'https://www.googleapis.com/auth/drive.readonly https://www.googleapis.
 CLIENT_SECRET_FILE = 'client_secret.json'
 APPLICATION_NAME = 'Drive API Python Quickstart'
 REDIRECT_URI = "http://localhost:8080/"
-
+CSV = "well_formedness_and_schema_validation_errors.csv"
 
 def get_credentials():
     """Gets valid user credentials from storage.
@@ -141,8 +141,8 @@ def upload_csv_as_spreadsheet(service, path, file_title, file_parents=""):
 
 def main():
     """Downloads every file in __Manuscript Pages and saves them to the correct subdirectory of manuscript_downloads.
-        Adds root tags to each file, checks if the files are well-formed XML.
-        Writes the results of this check to well_formedness_errors.csv
+        Adds root tags to each file, checks if the files are well-formed XML and if they are valid against the schema at http://52.87.169.35:8080/exist/rest/db/ms-bn-fr-640/lib/preTEI.rng.
+        Writes the results of this check to well_formedness_and_schema_validation_errors.csv
         Uploads the csv as a spreadsheet to 2016 Files for Paleographers.
     """
     credentials = get_credentials()
@@ -155,7 +155,7 @@ def main():
         os.makedirs("./manuscript_downloads/" + str(x).zfill(3) + "r")
         os.makedirs("./manuscript_downloads/" + str(x).zfill(3) + "v")
 
-    csv = open("well_formedness_errors.csv", "wb")  # Create csv file
+    csv = open(CSV, "wb")  # Create csv file
 
     """Get each folder in manuscript pages.
         maxResults is set to 400 so that every folder in __Manuscript Pages can be processed.
@@ -194,14 +194,14 @@ def main():
 
                     m = re.search('[tcnl]+', ftitle)
                     file_type = m.group(0)
-                    with open("well_formedness_errors.csv", "a") as myfile: # Write the page number, file type (tc, tcn, or tl), and link to the csv file
+                    with open(CSV, "a") as myfile: # Write the page number, file type (tc, tcn, or tl), and link to the csv file
                         myfile.write(page_number + "," + file_type + "," + flink)
 
                     try:    # Check if the file is well-formed XML, write results to the csv
                         with open(new_file_title, "r") as myfile:
                             xml = myfile.read()
                             doc = etree.fromstring(xml)
-                        with open("well_formedness_errors.csv", "a") as myfile:
+                        with open(CSV, "a") as myfile:
                             myfile.write(", well-formed, , , ")
 
                         download_file_by_url("http://52.87.169.35:8080/exist/rest/db/ms-bn-fr-640/lib/preTEI.rng", "preTEI.rng")    # Download the schema
@@ -211,14 +211,14 @@ def main():
 
                         try:    # Validate the file against the schema, write results to the csv
                             relaxng.assertValid(doc)
-                            with open("well_formedness_errors.csv", "a") as myfile:
+                            with open(CSV, "a") as myfile:
                                 myfile.write(", schema-valid\n")
                         except Exception as e:
-                            with open("well_formedness_errors.csv", "a") as myfile:
+                            with open(CSV, "a") as myfile:
                                 myfile.write(", not schema-valid, " + str(e) + "\n")
 
                     except Exception as e:
-                        with open("well_formedness_errors.csv", "a") as myfile:
+                        with open(CSV, "a") as myfile:
                             myfile.write(", not well-formed, " + str(e) + "\n")
 
                 except:
@@ -226,9 +226,8 @@ def main():
 
     print(len(folders_hash) + " folders processed.")
 
-    upload_csv_as_spreadsheet(service,  # Upload the csv file as a spreadsheet
-        "well_formedness_errors.csv", 
-    "XML_well-formedness_errors_list", 
+    upload_csv_as_spreadsheet(service, CSV, # Upload the csv file as a spreadsheet 
+    "XML_well-formedness_and_schema_validation_errors_list", 
     [{'id' : '0BwJi-u8sfkVDZ05XNy1tMUdQM1E'}])
 
 if __name__ == '__main__':
