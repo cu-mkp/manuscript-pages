@@ -213,7 +213,8 @@ def main():
                             myfile.write(", error, " + str(e) + "\n")
                 except:
                     print("No exportLink for this file")
-    print(len(folders_hash))
+
+    print(len(folders_hash) + " folders processed.")
 
     upload_csv_as_spreadsheet(service,  # Upload the csv file as a spreadsheet
         "well_formedness_errors.csv", 
