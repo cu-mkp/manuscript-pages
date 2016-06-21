@@ -161,7 +161,7 @@ def main():
         maxResults is set to 400 so that every folder in __Manuscript Pages can be processed.
         If you would like to test the code for some functionality, set maxResults to a smaller number.
     """
-    folders = service.files().list(q="'0B42QaQPHLJloNnZhakpiVk9GRmM' in parents", maxResults="5").execute()
+    folders = service.files().list(q="'0B42QaQPHLJloNnZhakpiVk9GRmM' in parents", maxResults="2").execute()
 
     folders_hash = folders["items"]
 
@@ -187,16 +187,19 @@ def main():
                     page_number = m.group(0)    # Get the page number of the file to put it in the correct folder
                     new_file_title = "manuscript_downloads/" + page_number + "/" + get_new_file_title(ftitle)   # Generate the file's new name
                     print(new_file_title)
-                    
+                    print(f["alternateLink"])
                     flink = f["exportLinks"]["text/plain"]
                     download_file_by_url(flink, new_file_title) # Using the exportLink, download and save the file with its new title
                     os.system("perl remove_BOM.pl " + new_file_title)   # Run perl script to remove BOM character, which Google automatically adds to the start of the file when downloading
                     add_root_tags(new_file_title)   # Modify the file to add root tags at the beginning and end
 
+                    url = f["alternateLink"]    # Get a clickable to url to add into the spreadsheet for corrector's ease
+                    clickable_url = url.rstrip("?usp=drivesdk")
+
                     m = re.search('[tcnl]+', ftitle)
                     file_type = m.group(0)
                     with open(CSV, "a") as myfile: # Write the page number, file type (tc, tcn, or tl), and link to the csv file
-                        myfile.write(page_number + "," + file_type + "," + flink)
+                        myfile.write(page_number + "," + file_type + "," + clickable_url)
 
                     try:    # Check if the file is well-formed XML, write results to the csv
                         with open(new_file_title, "r") as myfile:
