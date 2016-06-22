@@ -199,16 +199,13 @@ def main():
                     file_type = m.group(0)
 
                     base_string = page_number + "," + file_type + "," + clickable_url
-                    #with open(CSV, "a") as myfile: # Write the page number, file type (tc, tcn, or tl), and link to the csv file
-                    #    myfile.write(page_number + "," + file_type + "," + clickable_url)
 
                     try:    # Check if the file is well-formed XML, write results to the csv
                         with open(new_file_title, "r") as myfile:
                             xml = myfile.read()
                             doc = etree.fromstring(xml)
-                        #with open(CSV, "a") as myfile:
-                        #    myfile.write(base_string + ", well-formed, , , ")
-                        base_string = base_string + ", well-formed, , , "
+
+                        base_string = base_string + ", well-formed, , , "   # Create base_string to write to csv
 
                         download_file_by_url("http://52.87.169.35:8080/exist/rest/db/ms-bn-fr-640/lib/preTEI.rng", "preTEI.rng")    # Download the schema
                         relaxng_doc = etree.parse("preTEI.rng")
@@ -220,12 +217,12 @@ def main():
                             with open(CSV, "a") as myfile:
                                 myfile.write(base_string + ", schema-valid\n")
                         except Exception as e:
-                            #with open(CSV, "a") as myfile:
-                            #    myfile.write(", not schema-valid, " + str(e) + "\n")
                             for err in relaxng.error_log:   # Get each validation error and write it to its own row
-                                #print(err)
+                                error_string = str(err)
+                                m = re.search('.*?:.*?:.*?:.*?:.*?:.*?:', error_string) # Format the error message to be cleaner
+                                clean_error_message = error_string.lstrip(m.group(0))
                                 with open(CSV, "a") as myfile:
-                                    myfile.write(base_string + ", not schema-valid, " + str(err) + "\n")
+                                    myfile.write(base_string + ", not schema-valid, " + clean_error_message + "\n")
 
                     except Exception as e:
                         with open(CSV, "a") as myfile:
