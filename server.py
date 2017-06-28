@@ -160,7 +160,7 @@ def main():
         maxResults is set to 400 so that every folder in __Manuscript Pages can be processed.
         If you would like to test the code for some functionality, set maxResults to a smaller number.
     """
-    folders = service.files().list(q="'0B42QaQPHLJloNnZhakpiVk9GRmM' in parents", maxResults="400").execute()
+    folders = service.files().list(q="'0B42QaQPHLJloNnZhakpiVk9GRmM' in parents", maxResults="40").execute()
 
     folders_hash = folders["items"]
 
