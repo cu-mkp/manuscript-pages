@@ -160,7 +160,7 @@ def main():
         maxResults is set to 400 so that every folder in __Manuscript Pages can be processed.
         If you would like to test the code for some functionality, set maxResults to a smaller number.
     """
-    folders = service.files().list(q="'0B42QaQPHLJloNnZhakpiVk9GRmM' in parents", maxResults="40").execute()
+    folders = service.files().list(q="'0B42QaQPHLJloNnZhakpiVk9GRmM' in parents", maxResults="400").execute()
 
     folders_hash = folders["items"]
 
@@ -207,7 +207,7 @@ def main():
                         base_string = base_string + ", well-formed, , , "   # Create base_string to write to csv
 
                         download_file_by_url("http://52.87.169.35:8080/exist/rest/db/ms-bn-fr-640/lib/preTEI.rng", "preTEI.rng")    # Download the schema
-                        relaxng_doc = etree.parse("preTEI.rng")
+                        relaxng_doc = etree.parse("ms-transcription.rng")
                         relaxng = etree.RelaxNG(relaxng_doc)
                         doc = etree.parse(new_file_title)
 
